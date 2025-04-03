@@ -21,8 +21,7 @@ author: Helen Peng
 
 navbar-links:
   About Me: "index"
-  Projects:
-    - Recent: "recent"
+  Projects: "projects"
   CV: "hwpeng-resume-spring25.pdf"
 
 ################
