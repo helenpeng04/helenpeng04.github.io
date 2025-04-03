@@ -22,7 +22,7 @@ author: Helen Peng
 navbar-links:
   About Me: "index"
   Projects:
-    - Recent: "aboutme"
+    - Recent: "recent"
   CV: 
 
 ################
