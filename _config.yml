@@ -22,6 +22,7 @@ author: Helen Peng
 navbar-links:
   About Me: "index"
   Projects: "projects"
+  Bookshelf: "bookshelf"
   CV: "hwpeng-CV.pdf"
 
 ################
