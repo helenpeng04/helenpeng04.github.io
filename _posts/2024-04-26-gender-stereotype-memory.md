@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gender Stereotype Threats and Heading-Recall Task
-tags: [Cognitive Psychology, Excel]
+tags: [cognitive psychology, poster]
 date: 2024-04-26
 ---
 
