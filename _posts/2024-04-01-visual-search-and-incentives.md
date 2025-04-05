@@ -7,9 +7,8 @@ tags: [cognitive psychology, paper]
 
 This project investigates how incentives influence visual search performance.  
 We designed the task in Gorilla and used Jamovi to analyze the relationship between rewards and search efficiency.
-
 **Collaborators**: Cami Streuly, Shirley Du, Cole Kaforey, Abigail Noyce  
-**Tools Used**: Jamovi, Gorilla
+
 
 ![Visual Search ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/visual-search-ANOVA.png)
 
