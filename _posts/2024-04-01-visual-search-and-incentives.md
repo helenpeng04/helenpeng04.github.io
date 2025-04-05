@@ -11,13 +11,12 @@ We designed the task in Gorilla and used Jamovi to analyze the relationship betw
 **Collaborators**: Cami Streuly, Shirley Du, Cole Kaforey, Abigail Noyce  
 **Tools Used**: Jamovi, Gorilla
 
-### Graph from the project:
-![Visual Search ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/f61343f57549a2b1514579b1ab3509ac5e41d0b1/assets/img/visual-search-ANOVA.png)
+![Visual Search ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/visual-search-ANOVA.png)
 
 <div style="text-align: center;">
   <a href="https://github.com/helenpeng04/helenpeng04.github.io/raw/f61343f57549a2b1514579b1ab3509ac5e41d0b1/papers/Incentatives%20and%20Visual%20Search.pdf" target="_blank">
     <button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-      <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/f61343f57549a2b1514579b1ab3509ac5e41d0b1/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
+      <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
       Open PDF
     </button>
   </a>
