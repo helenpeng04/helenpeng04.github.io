@@ -7,6 +7,7 @@ date: 2024-04-26
 
 This project explores how gender stereotype threats affect memory performance, focusing on a heading recall task. Creating the experiment in Gorilla 
 Data cleaning in Excel, statistically analysis in Jamovi.we investigate the cognitive biases introduced by stereotype threats and their impact on information retention. 
+
 **Collaborators**: Cami Streuly, Shirley Du, Cole Kaforey, Abigail Noyce  
 
 ![Heading-Recall ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
