@@ -10,7 +10,7 @@ This project investigates the impact of gender stereotype threats on academic ou
 **Collaborators**:  
 *Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, Camille Chandler, Phoebe Lam*
 
-![Forest Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/forest-plot.png)
+![Forest Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/a52a9d07db88a480d1798f3181368f740e448828/assets/img/forest-plot.png)
 
 <div style="text-align: center;">
   <a href="https://github.com/helenpeng04/helenpeng04.github.io/raw/fc724562ede225641188200b4b5d96109949f833/assets/papers/Gender%20Stereotype%20Threats%20and%20College%20Performance.pdf" target="_blank">
