@@ -3,25 +3,20 @@ layout: post
 title: Gender Stereotype Threats and Academic Performance
 tags: [social psychology, meta-analysis, paper]
 date: 2024-05-03
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
-This project investigates the impact of gender stereotype threats on
-academic outcomes. Using meta-analytic techniques in R, we synthesize
-data from multiple studies to quantify how stereotype threats influence
-academic performance and achievement.
+This project investigates the impact of gender stereotype threats on academic outcomes. Using meta-analytic techniques in R, we synthesize data from multiple studies to quantify how stereotype threats influence academic performance and achievement.
 
-**Collaborators**: *Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal,
-Camille Chandler, Phoebe Lam*
+**Collaborators**:  
+*Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, Camille Chandler, Phoebe Lam*
 
-[![Forest
-Plot](images/forest-plot.png)](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/forest-plot.png)
+![Forest Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/forest-plot.png)
 
-::: {style="text-align: center;"}
-<a href=https://github.com/helenpeng04/helenpeng04.github.io/raw/fc724562ede225641188200b4b5d96109949f833/assets/papers/Gender%20Stereotype%20Threats%20and%20College%20Performance.pdf target="_blank">
-<button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-<img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
-Open PDF </button> </a>
-:::
+<div style="text-align: center;">
+  <a href="https://github.com/helenpeng04/helenpeng04.github.io/raw/fc724562ede225641188200b4b5d96109949f833/assets/papers/Gender%20Stereotype%20Threats%20and%20College%20Performance.pdf" target="_blank">
+    <button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
+      <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
+      Open PDF
+    </button>
+  </a>
+</div>
