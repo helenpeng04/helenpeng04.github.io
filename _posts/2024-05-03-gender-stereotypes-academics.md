@@ -5,7 +5,7 @@ tags: [social psychology, meta-analysis, paper]
 date: 2024-05-03
 ---
 
-This project investigates the impact of gender stereotype threats on academic outcomes. Using meta-analytic techniques in R, we synthesize data from multiple studies to quantify how stereotype threats influence academic performance and achievement.
+This project investigates the impact of gender stereotype threats on academic outcomes. Using meta-analytic techniques in **R**, we synthesize data from multiple studies to quantify how stereotype threats influence academic performance and achievement.
 
 **Collaborators**:  
 *Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, Camille Chandler, Phoebe Lam*
