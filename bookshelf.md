@@ -17,37 +17,38 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Favorite Books
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: flex-start;">
 
   <a href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565710970l/49934666._SY75_.jpg" alt="We Are Not Free" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565710970l/49934666.jpg" alt="We Are Not Free" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634238514l/58984692._SY75_.jpg" alt="This Place Is Still Beautiful" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634238514l/58984692.jpg" alt="This Place Is Still Beautiful" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/59028585-the-silence-that-binds-us" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641068252l/59028585._SY75_.jpg" alt="The Silence That Binds Us" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641068252l/59028585.jpg" alt="The Silence That Binds Us" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/46223297-permanent-record" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg" alt="Permanent Record" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580804471l/52128695._SY75_.jpg" alt="Ace" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580804471l/52128695.jpg" alt="Ace" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704153539l/44421460._SY75_.jpg" alt="Before the Coffee Gets Cold" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold" style="height: 200px; width: auto;">
   </a>
 
   <a href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487._SY75_.jpg" alt="Miss Peregrine's Home" style="width: 150px; height: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home" style="height: 200px; width: auto;">
   </a>
 
 </div>
+
 
 
 ---
