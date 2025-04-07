@@ -5,14 +5,14 @@ date: 2025-04-04
 tags: [cognitive psychology, relational rule learning, report]
 ---
 
-Using the same dataset from the relational rule project from last semester (maybe figure out how to direct to that post). 
-I used multilevel modeling methods in **R** to examine the impact of rule matching and interleaved pretraining on task accuracy. 
-This was my first time working with multilevel modeling, which I learned through lab experience rather than a course. 
+Building on the relational rule learning dataset from last semester???s project  
+(*[link to previous post]*), I used multilevel modeling in **R** to explore how rule matching and interleaved pretraining affect task accuracy.  
+This was my first time working with multilevel models, which I learned through hands-on lab experience rather than formal coursework.
 
 **Collaborators**:  
 *Julia Conti, Paulo Carvalho*
 
-![RRL Stimuli](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/rrl-spring25.png)
+![RRL Barplot](https://github.com/helenpeng04/helenpeng04.github.io/raw/68c672c49bfce0020072a287ae19bda3bd8f57e3/assets/img/rrl-spring25.png)
 
 
 Insert report
