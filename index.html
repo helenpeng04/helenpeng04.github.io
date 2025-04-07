@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Helen Peng
-subtitle: Senior Statistics Major | Aspiring Biostatistican
+subtitle: Senior Statistics Major | Aspiring Biostatistician
 ---
 
-<div style="display: flex; align-items: center;">
+<div class="profile-container">
   <img src="/assets/img/profilepic.jpg" 
-     alt="My Profile Picture" 
-     style="width: 400px; height: 400px; object-fit: cover; margin-right: 20px;">
+       alt="My Profile Picture" 
+       class="profile-img">
   <p>
-    Hello!  <br><br>  
+    Hello! <br><br>  
     I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology.  
     I’m interested in using data to address real-world challenges, especially in healthcare and education.  
     Currently, I am a member of  
@@ -21,5 +21,39 @@ subtitle: Senior Statistics Major | Aspiring Biostatistican
   </p>
 </div>
 
+<style>
+  /* Base styles for the profile image and text */
+  .profile-container {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
 
+  .profile-img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
 
+  /* Ensure the text doesn't get too small */
+  .profile-container p {
+    max-width: 600px;
+    font-size: 18px;
+  }
+
+  /* Mobile responsive layout */
+  @media only screen and (max-width: 768px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .profile-img {
+      width: 100%;
+      height: auto;
+      margin: 0 0 20px 0;
+    }
+  }
+</style>
