@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gender Stereotype Threats and Academic Performance
-tags: [social psychology, meta-analysis, paper]
+tags: [meta-analysis, paper]
 date: 2024-05-03
 ---
 
