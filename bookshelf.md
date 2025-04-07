@@ -36,7 +36,7 @@ subtitle: Where you'll find all the books I love to read!
   
   <!-- Daughters of Shandong -->
   <a href="https://www.goodreads.com/book/show/195888874-daughters-of-shandong?ref=nav_sb_ss_1_16" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740179056l/223329042._SX98_.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
+    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705425724l/195888874.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
   </a>
 
   <!-- Permanent Record -->
@@ -61,9 +61,9 @@ subtitle: Where you'll find all the books I love to read!
 
   <!-- Hollow City -->
   <a href="https://www.goodreads.com/book/show/23164983-hollow-city" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375284034l/23164983.jpg" alt="Hollow City" style="height: 200px; width: auto;">
+    <img src= "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662568423l/23164983.jpg"alt="Hollow City" style="height: 200px; width: auto;">
   </a>
-
+  
   <!-- Library of Souls -->
   <a href="https://www.goodreads.com/book/show/24120519-library-of-souls" target="_blank">
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441239701l/24120519.jpg" alt="Library of Souls" style="height: 200px; width: auto;">
