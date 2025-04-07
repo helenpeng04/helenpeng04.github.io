@@ -30,6 +30,7 @@ subtitle: Where you'll find all the books I love to read!
     height: 200px;
     overflow: hidden;
     cursor: pointer;
+    border-radius: 4px;
   }
 
   .book-item img {
@@ -50,13 +51,14 @@ subtitle: Where you'll find all the books I love to read!
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* transparent black */
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     opacity: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: bold;
     text-align: center;
     padding: 0 5px;
     transition: opacity 0.3s ease;
@@ -68,6 +70,42 @@ subtitle: Where you'll find all the books I love to read!
 </style>
 
 <div class="book-gallery">
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
+    <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
+    <div class="book-overlay">We Are Not Free</div>
+  </a>
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
+    <img src="https://images.gr-assets.com/books/1634238514l/58984692.jpg" alt="This Place Is Still Beautiful">
+    <div class="book-overlay">This Place Is Still Beautiful</div>
+  </a>
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/59028585-the-silence-that-binds-us" target="_blank">
+    <img src="https://images.gr-assets.com/books/1641068252l/59028585.jpg" alt="The Silence That Binds Us">
+    <div class="book-overlay">The Silence That Binds Us</div>
+  </a>
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/51075476-last-night-at-the-telegraph-club" target="_blank">
+    <img src="https://images.gr-assets.com/books/1595196131l/51075476.jpg" alt="Last Night at the Telegraph Club">
+    <div class="book-overlay">Last Night at the Telegraph Club</div>
+  </a>
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/44767458-the-weight-of-our-sky" target="_blank">
+    <img src="https://images.gr-assets.com/books/1532383197l/44767458.jpg" alt="The Weight of Our Sky">
+    <div class="book-overlay">The Weight of Our Sky</div>
+  </a>
+
+  <a class="book-item" href="https://www.goodreads.com/book/show/52515564-rising-like-a-storm" target="_blank">
+    <img src="https://images.gr-assets.com/books/1601469051l/52515564.jpg" alt="Rising Like a Storm">
+    <div class="book-overlay">Rising Like a Storm</div>
+  </a>
+
+</div>
+
+### Favorite Books
+
+<div>
 
   <!-- We Are Not Free -->
   <a href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
