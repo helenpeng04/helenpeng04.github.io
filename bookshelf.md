@@ -16,6 +16,12 @@ subtitle: Where you will find all the books I like to read!!
 Hi, welcome to my bookshelf, there isn't much here yet as I'm still trying to fix the project section. 
 
 ### Favorite Books
-
+Daughters of Shandong
+We Are Not Free
+This Place Is Still Beautiful
+The Silence that Binds Us
+Miss Peregrine's Home for Peculiar Children Series
+Permanent Record
+Ace
 
 ### Comic Books & Graphic Novels
