@@ -17,7 +17,57 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Favorite Books
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: flex-start;">
+<style>
+  .book-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-start;
+  }
+
+  .book-item {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+
+  .book-item img {
+    height: 100%;
+    width: auto;
+    display: block;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+  }
+
+  .book-item:hover img {
+    transform: scale(1.05);
+  }
+
+  .book-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* transparent black */
+    color: white;
+    opacity: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    text-align: center;
+    padding: 0 5px;
+    transition: opacity 0.3s ease;
+  }
+
+  .book-item:hover .book-overlay {
+    opacity: 1;
+  }
+</style>
+
+<div class="book-gallery">
 
   <!-- We Are Not Free -->
   <a href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
@@ -54,9 +104,9 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold" style="height: 200px; width: auto;">
   </a>
 
-  <!-- What You Are Looking For Is in the Library-->
+  <!-- What You Are Looking For Is in the Library -->
    <a href= "https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg" alt="What You Are Looking For Is in the Library" style="height: 200px; width: auto;">
   </a>
   
   <!-- Miss Peregrine's Home for Peculiar Children -->
