@@ -35,7 +35,7 @@ subtitle: Where you'll find all the books I love to read!
   </a>
   
   <!-- Daughters of Shandong -->
-  <a href="https://www.goodreads.com/book/show/205685413-daughters-of-shandong" target="_blank">
+  <a href="https://www.goodreads.com/book/show/195888874-daughters-of-shandong?ref=nav_sb_ss_1_16" target="_blank">
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692026253l/205685413.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
   </a>
 
@@ -85,7 +85,7 @@ subtitle: Where you'll find all the books I love to read!
   </a>
 
   <!-- Tales of the Peculiar -->
-  <a href="https://www.goodreads.com/book/show/29426494-tales-of-the-peculiar" target="_blank">
+  <a href="https://www.goodreads.com/book/show/29358487-tales-of-the-peculiar" target="_blank">
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467310414l/29426494.jpg" alt="Tales of the Peculiar" style="height: 200px; width: auto;">
   </a>
   
