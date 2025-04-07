@@ -104,7 +104,7 @@ subtitle: Where you'll find all the books I love to read!
   <!-- Ace -->
   <a class="book-item" href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
     <img src="https://images.gr-assets.com/books/1580804471l/52128695.jpg" alt="Ace">
-    <div class="book-overlay">Ace</div>
+    <div class="book-overlay">Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex</div>
   </a>
   
   <!-- Before the Coffee Gets Cold -->
