@@ -70,116 +70,95 @@ subtitle: Where you'll find all the books I love to read!
 </style>
 
 <div class="book-gallery">
-
+  
+  <!-- We Are Not Free -->
   <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
     <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
     <div class="book-overlay">We Are Not Free</div>
   </a>
-
+  
+  <!-- This Place Is Still Beautiful -->
   <a class="book-item" href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
     <img src="https://images.gr-assets.com/books/1634238514l/58984692.jpg" alt="This Place Is Still Beautiful">
     <div class="book-overlay">This Place Is Still Beautiful</div>
   </a>
-
+  
+  <!-- The Silence That Binds Us -->
   <a class="book-item" href="https://www.goodreads.com/book/show/59028585-the-silence-that-binds-us" target="_blank">
     <img src="https://images.gr-assets.com/books/1641068252l/59028585.jpg" alt="The Silence That Binds Us">
     <div class="book-overlay">The Silence That Binds Us</div>
   </a>
-
-  <a class="book-item" href="https://www.goodreads.com/book/show/51075476-last-night-at-the-telegraph-club" target="_blank">
-    <img src="https://images.gr-assets.com/books/1595196131l/51075476.jpg" alt="Last Night at the Telegraph Club">
-    <div class="book-overlay">Last Night at the Telegraph Club</div>
-  </a>
-
-  <a class="book-item" href="https://www.goodreads.com/book/show/44767458-the-weight-of-our-sky" target="_blank">
-    <img src="https://images.gr-assets.com/books/1532383197l/44767458.jpg" alt="The Weight of Our Sky">
-    <div class="book-overlay">The Weight of Our Sky</div>
-  </a>
-
-  <a class="book-item" href="https://www.goodreads.com/book/show/52515564-rising-like-a-storm" target="_blank">
-    <img src="https://images.gr-assets.com/books/1601469051l/52515564.jpg" alt="Rising Like a Storm">
-    <div class="book-overlay">Rising Like a Storm</div>
-  </a>
-
-</div>
-
-### Favorite Books
-
-<div>
-
-  <!-- We Are Not Free -->
-  <a href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565710970l/49934666.jpg" alt="We Are Not Free" style="height: 200px; width: auto;">
-  </a>
-  
-  <!-- This Place Is Still Beautiful -->
-  <a href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634238514l/58984692.jpg" alt="This Place Is Still Beautiful" style="height: 200px; width: auto;">
-  </a>
-  
-  <!-- The Silence That Binds Us -->
-  <a href="https://www.goodreads.com/book/show/59028585-the-silence-that-binds-us" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641068252l/59028585.jpg" alt="The Silence That Binds Us" style="height: 200px; width: auto;">
-  </a>
   
   <!-- Daughters of Shandong -->
-  <a href="https://www.goodreads.com/book/show/195888874-daughters-of-shandong" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740179056i/223329042.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/195888874-daughters-of-shandong" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740179056i/223329042.jpg" alt="Daughters of Shandong">
+    <div class="book-overlay">Daughters of Shandong </div>  
   </a>
 
   <!-- Permanent Record -->
-  <a href="https://www.goodreads.com/book/show/46223297-permanent-record" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/46223297-permanent-record" target="_blank">
+    <img src="https://images.gr-assets.com/books/1564666396l/46223297.jpg" alt="Permanent Record">
+    <div class="book-overlay">Permanent Record</div>
   </a>
   
   <!-- Ace -->
-  <a href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580804471l/52128695.jpg" alt="Ace" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
+    <img src="https://images.gr-assets.com/books/1580804471l/52128695.jpg" alt="Ace">
+    <div class="book-overlay">Ace</div>
   </a>
   
   <!-- Before the Coffee Gets Cold -->
-  <a href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
+    <img src="https://images.gr-assets.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold">
+    <div class="book-overlay">Before the Coffee Gets Cold</div>
   </a>
 
   <!-- What You Are Looking For Is in the Library -->
-   <a href= "https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg" alt="What You Are Looking For Is in the Library" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library" target="_blank">
+    <img src="https://images.gr-assets.com/books/1683915876l/91274427.jpg" alt="What You Are Looking For Is in the Library">
+    <div class="book-overlay">What You Are Looking For Is in the Library</div>
   </a>
   
   <!-- Miss Peregrine's Home for Peculiar Children -->
-  <a href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home for Peculiar Children" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
+    <img src="https://images.gr-assets.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home for Peculiar Children">
+    <div class="book-overlay">Miss Peregrine's Home for Peculiar Children</div>
   </a>
 
   <!-- Hollow City -->
-  <a href="https://www.goodreads.com/book/show/23164983-hollow-city" target="_blank">
-    <img src= "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662568423l/23164983.jpg" alt="Hollow City" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/23164983-hollow-city" target="_blank">
+    <img src="https://images.gr-assets.com/books/1662568423l/23164983.jpg" alt="Hollow City">
+    <div class="book-overlay">Hollow City</div>
   </a>
   
   <!-- Library of Souls -->
-  <a href="https://www.goodreads.com/book/show/24120519-library-of-souls" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533405899i/41044147.jpg" alt="Library of Souls" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/24120519-library-of-souls" target="_blank">
+    <img src="https://images.gr-assets.com/books/1533405899l/41044147.jpg" alt="Library of Souls">
+    <div class="book-overlay">Library of Souls</div>
   </a>
 
   <!-- A Map of Days -->
-  <a href="https://www.goodreads.com/book/show/32943032-a-map-of-days" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524689090i/32943032.jpg" alt="A Map of Days" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/32943032-a-map-of-days" target="_blank">
+    <img src="https://images.gr-assets.com/books/1524689090l/32943032.jpg" alt="A Map of Days">
+    <div class="book-overlay">A Map of Days</div>
   </a>
 
   <!-- The Conference of the Birds -->
-  <a href="https://www.goodreads.com/book/show/41556894-the-conference-of-the-birds" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572297878i/41556894.jpg" alt="The Conference of the Birds" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/41556894-the-conference-of-the-birds" target="_blank">
+    <img src="https://images.gr-assets.com/books/1572297878l/41556894.jpg" alt="The Conference of the Birds">
+    <div class="book-overlay">The Conference of the Birds</div>
   </a>
 
   <!-- The Desolations of Devil's Acre -->
-  <a href="https://www.goodreads.com/book/show/41556895-the-desolations-of-devil-s-acre" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603822853i/41556895.jpg" alt="The Desolations of Devil's Acre" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/41556895-the-desolations-of-devil-s-acre" target="_blank">
+    <img src="https://images.gr-assets.com/books/1603822853l/41556895.jpg" alt="The Desolations of Devil's Acre">
+    <div class="book-overlay">The Desolations of Devil's Acre</div>
   </a>
 
   <!-- Tales of the Peculiar -->
-  <a href="https://www.goodreads.com/book/show/29358487-tales-of-the-peculiar" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493062288i/29358487.jpg" alt="Tales of the Peculiar" style="height: 200px; width: auto;">
+  <a class="book-item" href="https://www.goodreads.com/book/show/29358487-tales-of-the-peculiar" target="_blank">
+    <img src="https://images.gr-assets.com/books/1493062288l/29358487.jpg" alt="Tales of the Peculiar">
+    <div class="book-overlay">Tales of the Peculiar</div>
   </a>
   
 </div>
