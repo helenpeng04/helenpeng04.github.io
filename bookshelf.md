@@ -28,9 +28,11 @@ Hi, welcome to my bookshelf! There isn't much here yet since I'm still working o
 - *Before the Coffee Gets Cold*  
 - *Miss Peregrine's Home for Peculiar Children* (Love the entire series!)
 
-<a href="https://www.goodreads.com/book/show/51021303-before-the-coffee-gets-cold" target="_blank">
-  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582886202l/51021303._SY475_.jpg" alt="Before the Coffee Gets Cold book cover" style="height: auto; width: 300px;">
-</a>
+<div class="gr_grid_book_container">
+  <a title="Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold">
+    <img alt="Before the Coffee Gets Cold" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704153539l/44421460._SY75_.jpg" />
+  </a>
+</div>
 
 ---
 ### Comic Books & Graphic Novels
