@@ -170,13 +170,17 @@ I'm basically just a huge X-Men fan - I've read about 30 years' worth of comics,
 
 The mutant vs. human conflict speaks to real-world issues in a way that feels personal. Plus, the dynamic between Magneto and Xavier is really compelling - their ideological clash reminds me of real-life struggles, often compared to figures like Malcolm X and Martin Luther King Jr. It's just a lot more than a superhero story.
 
-I used to have a whole screenshot collection of the best (and funniest) panels, but sadly... it's gone. I'm starting fresh now, so here are a few new favorites.
+I used to have a whole screenshot collection of the best (and funniest) panels, but sadly... it's gone. I'm starting fresh now, so here are a few new favorites (and from these panels you can kinda guess which characters are my favorites).
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="/assets/comics/Screenshot 2025-04-03 150019.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/Screenshot 2025-04-07 172004.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/Screenshot 2025-04-07 172455.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/Screenshot 2025-04-07 174824.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel1.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel2.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel3.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel4.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel5.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel6.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel7.png" alt="Comic panel" style="height: 200px; width: auto;">
+  <img src="/assets/comics/panel8.png" alt="Comic panel" style="height: 200px; width: auto;">
 </div>
 
 ---
