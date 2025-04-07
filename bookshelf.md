@@ -13,10 +13,9 @@ subtitle: Where you will find all the books I like to read!!
   [Goodreads Quotes](https://www.goodreads.com/quotes)
 </p>
 
-
-### Currently Reading
+Hi, welcome to my bookshelf, there isn't much here yet as I'm still trying to fix the project section. 
 
 ### Favorite Books
 
-### Comic Books & Graphic Novels
 
+### Comic Books & Graphic Novels

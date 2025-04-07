@@ -18,8 +18,7 @@ retention.
 **Collaborators**:\
 *Cami Streuly, Shirley Du, Cole Kaforey, Abigail Noyce*
 
-![Heading-Recall
-ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
+![Heading-Recall ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
 
 <div style="text-align: center;">
   <a href="https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/posters/heading-recall-poster.png" target="_blank">
