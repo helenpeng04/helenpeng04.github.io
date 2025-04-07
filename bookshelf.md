@@ -103,6 +103,13 @@ I'm basically just a huge X-Men fan - I've read about 30 years' worth of comics,
 
 The mutant vs. human conflict speaks to real-world issues in a way that feels personal. Plus, the dynamic between Magneto and Xavier is really compelling - their ideological clash reminds me of real-life struggles, often compared to figures like Malcolm X and Martin Luther King Jr. It's just a lot more than a superhero story.
 
-I used to have a whole screenshot collection of the best (and funniest) panels, but sadly??? it???s long gone. I'm starting fresh now, so here are a few new favorites.
+I used to have a whole screenshot collection of the best (and funniest) panels, but sadll... it's gone. I'm starting fresh now, so here are a few new favorites.
+
+{% for image in site.static_files %}
+  {% if image.path contains 'comics' %}
+    <img src="{{ image.path }}" alt="Comic panel" style="height: 200px; width: auto;">
+  {% endif %}
+{% endfor %}
+
 ---
 
