@@ -28,35 +28,9 @@ Hi, welcome to my bookshelf! There isn't much here yet since I'm still working o
 - *Before the Coffee Gets Cold*  
 - *Miss Peregrine's Home for Peculiar Children* (Love the entire series!)
 
----
-
-### Goodreads Book Montage
-
-<style type="text/css" media="screen">
-  .gr_grid_container {
-    /* customize grid container here if needed */
-  }
-
-  .gr_grid_book_container {
-    float: left;
-    width: 39px;
-    height: 60px;
-    padding: 0;
-    overflow: hidden;
-  }
-</style>
-
-<div id="gr_grid_widget_1744048860">
-  <h2>
-    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/154343909-helen?shelf=favorites&utm_medium=api&utm_source=grid_widget">
-      Helen's Favorites Book Montage
-    </a>
-  </h2>
-  <div class="gr_grid_container">
-    <!-- Book covers go here ??? this part already works fine, so no changes needed -->
-  </div>
-</div>
-
+<a href="https://www.goodreads.com/book/show/51021303-before-the-coffee-gets-cold" target="_blank">
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582886202l/51021303._SY475_.jpg" alt="Before the Coffee Gets Cold book cover" style="height: auto; width: 300px;">
+</a>
 
 ---
 ### Comic Books & Graphic Novels
