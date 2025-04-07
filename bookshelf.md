@@ -56,7 +56,7 @@ subtitle: Where you'll find all the books I love to read!
 
   <!-- What You Are Looking For Is in the Library-->
    <a href= "https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
   </a>
   
   
