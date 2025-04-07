@@ -105,11 +105,24 @@ The mutant vs. human conflict speaks to real-world issues in a way that feels pe
 
 I used to have a whole screenshot collection of the best (and funniest) panels, but sadll... it's gone. I'm starting fresh now, so here are a few new favorites.
 
-{% for image in site.static_files %}
-  {% if image.path contains 'comics' %}
-    <img src="{{ image.path }}" alt="Comic panel" style="height: 200px; width: auto;">
-  {% endif %}
-{% endfor %}
+<img src="/assets/comics/Screenshot 2025-04-03 150019.png" alt="Comic panel" style="height: 200px; width: auto;">
+  
+
+  
+<img src="/assets/comics/Screenshot 2025-04-07 172004.png" alt="Comic panel" style="height: 200px; width: auto;">
+  
+
+  
+<img src="/assets/comics/Screenshot 2025-04-07 172455.png" alt="Comic panel" style="height: 200px; width: auto;">
+  
+
+  
+<img src="/assets/comics/Screenshot 2025-04-07 173027.png" alt="Comic panel" style="height: 200px; width: auto;">
+  
+
+  
+<img src="/assets/comics/Screenshot 2025-04-07 174824.png" alt="Comic panel" style="height: 200px; width: auto;">
+
 
 ---
 
