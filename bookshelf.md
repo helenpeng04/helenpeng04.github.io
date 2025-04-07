@@ -34,6 +34,8 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641068252l/59028585.jpg" alt="The Silence That Binds Us" style="height: 200px; width: auto;">
   </a>
   
+  <!-- Daughters of Shandong -->
+  
   <!-- Permanent Record -->
   <a href="https://www.goodreads.com/book/show/46223297-permanent-record" target="_blank">
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
@@ -86,10 +88,13 @@ subtitle: Where you'll find all the books I love to read!
   
 </div>
 
+
 ---
 ### Comic Books & Graphic Novels
 
-I'm basically just a huge **X-Men** fan. I've read most of the main storylines from the 1960s to the 1990s online. What makes X-Men different from other superhero comics for me is the deeper stuff - the whole mutant vs. human conflict. It hits hard with themes like identity, exclusion, and resistance. Plus, the Magneto vs. Xavier dynamic? It's often seen as a metaphor for Malcolm X vs. Martin Luther King Jr., and that's always stuck with me.
+I???m basically just a huge **X-Men** fan ??? I???ve read about 30 years??? worth of comics, covering most of the major storylines. What sets X-Men apart for me isn???t just the action or mutant powers, but the deeper themes: identity, exclusion, resistance.
+
+The mutant vs. human conflict speaks to real-world issues in a way that???s always felt personal. I???ve especially been drawn to the ideological clash between Magneto and Xavier ??? often seen as a metaphor for Malcolm X and Martin Luther King Jr.
 
 ---
 
