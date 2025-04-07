@@ -36,7 +36,7 @@ subtitle: Where you'll find all the books I love to read!
   
   <!-- Daughters of Shandong -->
   <a href="https://www.goodreads.com/book/show/195888874-daughters-of-shandong" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705425724l/195888874.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740179056i/223329042.jpg" alt="Daughters of Shandong" style="height: 200px; width: auto;">
   </a>
 
   <!-- Permanent Record -->
@@ -59,7 +59,6 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683915876i/91274427.jpg" alt="Permanent Record" style="height: 200px; width: auto;">
   </a>
   
-  
   <!-- Miss Peregrine's Home for Peculiar Children -->
   <a href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
     <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home for Peculiar Children" style="height: 200px; width: auto;">
@@ -72,27 +71,27 @@ subtitle: Where you'll find all the books I love to read!
   
   <!-- Library of Souls -->
   <a href="https://www.goodreads.com/book/show/24120519-library-of-souls" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441239701l/24120519.jpg" alt="Library of Souls" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533405899i/41044147.jpg" alt="Library of Souls" style="height: 200px; width: auto;">
   </a>
 
   <!-- A Map of Days -->
   <a href="https://www.goodreads.com/book/show/32943032-a-map-of-days" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528918524l/32943032.jpg" alt="A Map of Days" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524689090i/32943032.jpg" alt="A Map of Days" style="height: 200px; width: auto;">
   </a>
 
   <!-- The Conference of the Birds -->
   <a href="https://www.goodreads.com/book/show/41556894-the-conference-of-the-birds" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559590602l/41556894.jpg" alt="The Conference of the Birds" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572297878i/41556894.jpg" alt="The Conference of the Birds" style="height: 200px; width: auto;">
   </a>
 
   <!-- The Desolations of Devil's Acre -->
   <a href="https://www.goodreads.com/book/show/41556895-the-desolations-of-devil-s-acre" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590590705l/41556895.jpg" alt="The Desolations of Devil's Acre" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603822853i/41556895.jpg" alt="The Desolations of Devil's Acre" style="height: 200px; width: auto;">
   </a>
 
   <!-- Tales of the Peculiar -->
   <a href="https://www.goodreads.com/book/show/29358487-tales-of-the-peculiar" target="_blank">
-    <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467310414l/29426494.jpg" alt="Tales of the Peculiar" style="height: 200px; width: auto;">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493062288i/29358487.jpg" alt="Tales of the Peculiar" style="height: 200px; width: auto;">
   </a>
   
 </div>
