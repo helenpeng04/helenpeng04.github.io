@@ -67,6 +67,44 @@ subtitle: Where you'll find all the books I love to read!
   .book-item:hover .book-overlay {
     opacity: 1;
   }
+
+  /* Modal Styles */
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-top: 60px;
+    text-align: center;
+  }
+
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+
+  .close {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+  }
+
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
 </style>
 
 <div class="book-gallery">
@@ -76,6 +114,15 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
     <div class="book-overlay">We Are Not Free</div>
   </a>
+  
+  <!-- Modal for "We Are Not Free" -->
+<div id="weAreNotFree" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('weAreNotFree')">&times;</span>
+    <h2>Why "We Are Not Free" is my favorite</h2>
+    <p> This book is about the power of resilience and the struggles of Japanese-American teens during WWII. I cried so much in this book.</p>
+  </div>
+</div>
   
   <!-- This Place Is Still Beautiful -->
   <a class="book-item" href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
