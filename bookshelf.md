@@ -162,8 +162,8 @@ subtitle: Where you'll find all the books I love to read!
   </a>
   
 </div>
-
 ---
+
 ### Comic Books & Graphic Novels
 
 I'm a huge X-Men fan - I've read A LOT of the comics, diving into many of the major storylines. What I love about X-Men isn't just the action or the mutant powers, but the deeper themes: identity, found family, exclusion, and resistance.
