@@ -166,7 +166,7 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Comic Books & Graphic Novels
 
-I'm a huge X-Men fan - I've read A LOT of the comics, diving into many of the major storylines. What I love about X-Men isn't just the action or the mutant powers, but the deeper themes: identity, found family, exclusion, and resistance.
+I'm a huge X-Men fan - I've read A LOT of the comics. What I love about X-Men isn't just the action or the mutant powers, but the deeper themes: identity, found family, exclusion, and resistance.
 The mutant vs. human conflict speaks to real-world issues in a way that feels personal. Plus, the dynamic between Magneto and Xavier is really compelling - their ideological clash reminds me of real-life struggles, often compared to figures like Malcolm X and Martin Luther King Jr. It's just a lot more than a superhero story.
 
 I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites (and from these panels, you can probably guess which characters are my favorites). 
@@ -179,7 +179,6 @@ I used to have a whole collection of screenshots of the best (and funniest) comi
   <img src="/assets/comics/panel5.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel6.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel7.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel8.png" alt="Comic panel" style="height: 200px; width: auto;">
 </div>
 
 ---
