@@ -170,16 +170,90 @@ I’m a huge X-Men fan—I’ve read a lot of the comics. I love how the X-Men u
 
 I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites.
 
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="/assets/comics/panel1.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel2.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel3.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel4.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel5.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel6.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel7.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel8.png" alt="Comic panel" style="height: 200px; width: auto;">
+<style>
+  .comic-strip {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    cursor: pointer;
+    border: 2px solid #ccc;
+    padding: 10px;
+    max-width: 100%;
+  }
+
+  .comic-strip img {
+    height: 200px;
+    width: auto;
+    margin-right: 10px;
+    flex-shrink: 0;
+  }
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0; left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+    overflow-x: auto;
+  }
+
+  .modal-content {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 20px;
+  }
+
+  .modal-content img {
+    height: 80vh;
+    width: auto;
+    margin-right: 10px;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+  }
+</style>
+
+<!-- Scrollable Comic Strip (default view) -->
+<div class="comic-strip" onclick="openModal()">
+  <img src="/assets/comics/panel1.png" alt="Comic panel">
+  <img src="/assets/comics/panel2.png" alt="Comic panel">
+  <img src="/assets/comics/panel3.png" alt="Comic panel">
+  <img src="/assets/comics/panel4.png" alt="Comic panel">
+  <img src="/assets/comics/panel5.png" alt="Comic panel">
 </div>
+
+<!-- Modal Full-View -->
+<div class="modal" id="comicModal" onclick="closeModal()">
+  <div class="modal-close">&times;</div>
+  <div class="modal-content">
+    <img src="/assets/comics/panel1.png" alt="Comic panel">
+    <img src="/assets/comics/panel2.png" alt="Comic panel">
+    <img src="/assets/comics/panel3.png" alt="Comic panel">
+    <img src="/assets/comics/panel4.png" alt="Comic panel">
+    <img src="/assets/comics/panel5.png" alt="Comic panel">
+  </div>
+</div>
+
+<script>
+  function openModal() {
+    document.getElementById("comicModal").style.display = "flex";
+  }
+
+  function closeModal() {
+    document.getElementById("comicModal").style.display = "none";
+  }
+</script>
+
 
 ---
 
