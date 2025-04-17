@@ -170,13 +170,13 @@ I’m a huge X-Men fan—I’ve read a lot of the comics. I love how the X-Men u
 
 I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites.
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
   <img src="/assets/comics/panel1.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel2.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel3.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel4.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel5.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel6.png" alt="Comic panel" style="height: 200px; width: auto;">
 </div>
+
 ---
 
