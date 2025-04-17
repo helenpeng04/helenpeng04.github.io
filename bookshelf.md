@@ -166,7 +166,7 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Comic Books & Graphic Novels
 
-I’m a huge X-Men fan—I’ve read a lot of the comics. I love how the X-Men universe serves as an allegory for marginalized communities, with Professor Xavier representing a peaceful, coexistence approach similar to Martin Luther King Jr., and Magneto reflecting a more militant, protective stance like Malcolm X. With how the tension between mutants and humans mirroring real-world struggles faced by minorities, the X-Men isn’t just a superhero comic to me—it’s something much deeper.
+I???m a huge X-Men fan???I???ve read a lot of the comics. I love how the X-Men universe serves as an allegory for marginalized communities, with Professor Xavier representing a peaceful, coexistence approach similar to Martin Luther King Jr., and Magneto reflecting a more militant, protective stance like Malcolm X. With how the tension between mutants and humans mirroring real-world struggles faced by minorities, the X-Men isn???t just a superhero comic to me???it???s something much deeper.
 
 I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites.
 
@@ -231,29 +231,3 @@ I used to have a whole collection of screenshots of the best (and funniest) comi
   <img src="/assets/comics/panel4.png" alt="Comic panel">
   <img src="/assets/comics/panel5.png" alt="Comic panel">
 </div>
-
-<!-- Modal Full-View -->
-<div class="modal" id="comicModal" onclick="closeModal()">
-  <div class="modal-close">&times;</div>
-  <div class="modal-content">
-    <img src="/assets/comics/panel1.png" alt="Comic panel">
-    <img src="/assets/comics/panel2.png" alt="Comic panel">
-    <img src="/assets/comics/panel3.png" alt="Comic panel">
-    <img src="/assets/comics/panel4.png" alt="Comic panel">
-    <img src="/assets/comics/panel5.png" alt="Comic panel">
-  </div>
-</div>
-
-<script>
-  function openModal() {
-    document.getElementById("comicModal").style.display = "flex";
-  }
-
-  function closeModal() {
-    document.getElementById("comicModal").style.display = "none";
-  }
-</script>
-
-
----
-
