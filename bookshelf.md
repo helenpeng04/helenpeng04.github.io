@@ -178,12 +178,6 @@ I used to have a whole collection of screenshots of the best (and funniest) comi
   <img src="/assets/comics/panel4.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel5.png" alt="Comic panel" style="height: 200px; width: auto;">
   <img src="/assets/comics/panel6.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel7.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel8.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel9.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel10.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel11.png" alt="Comic panel" style="height: 200px; width: auto;">
-  <img src="/assets/comics/panel12.png" alt="Comic panel" style="height: 200px; width: auto;">
 </div>
 
 ---
