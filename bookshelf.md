@@ -166,10 +166,9 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Comic Books & Graphic Novels
 
-I'm a huge X-Men fan - I've read A LOT of the comics. What I love about X-Men isn't just the action or the mutant powers, but the deeper themes: identity, found family, exclusion, and resistance.
-The mutant vs. human conflict speaks to real-world issues in a way that feels personal. Plus, the dynamic between Magneto and Xavier is really compelling - their ideological clash reminds me of real-life struggles, often compared to figures like Malcolm X and Martin Luther King Jr. It's just a lot more than a superhero story.
+I’m a huge X-Men fan—I’ve read a lot of the comics. What really draws me in is how the X-Men universe serves as an allegory for marginalized communities. Professor Xavier represents a peaceful, coexistence approach similar to Martin Luther King Jr., while Magneto reflects a more militant, protective stance like Malcolm X. The tension between mutants and humans powerfully mirrors real-world struggles faced by minorities. Because of this, X-Men isn’t just a superhero comic to me—it’s something much deeper.
 
-I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites (and from these panels, you can probably guess which characters are my favorites). 
+I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="/assets/comics/panel1.png" alt="Comic panel" style="height: 200px; width: auto;">
