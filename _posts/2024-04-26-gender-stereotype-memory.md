@@ -15,7 +15,7 @@ analysis was performed using **Jamovi**. We explore the cognitive biases
 introduced by stereotype threats and their impact on information
 retention.
 
-**Collaborators**:\
+**Collaborators**:
 *Cami Streuly, Shirley Du, Cole Kaforey, Abigail Noyce*
 
 ![Heading-Recall ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
