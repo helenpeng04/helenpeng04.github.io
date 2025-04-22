@@ -1917,9 +1917,11 @@ Intervals</caption>
 <p>Due to the small sample size and class imbalance, some bootstrap
 samples contained only Decline cases, leading to extreme predicted
 probabilities and convergence warnings (which I suppressed for clarity).
-Only the psychological model avoided these issues. As a result, the
-bootstrapped accuracy and confidence intervals—especially for the PC and
-survey models—may not fully reflect true performance.</p>
+Only the psychological model avoided these issues. This occurred because
+I used case resampling and according to the professor fixing this issue
+is beyond the scope of this course. As a result, the bootstrapped
+accuracy and confidence intervals—especially for the PC and survey
+models—may not fully reflect true performance.</p>
 <p>With that in mind, the graph and table suggest the PC models are less
 stable, as their resampled accuracy is much lower than the observed. The
 psychological model is more consistent, with bootstrapped accuracy
