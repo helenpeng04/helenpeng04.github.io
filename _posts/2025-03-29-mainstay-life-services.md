@@ -8,8 +8,7 @@ tags: [healthcare, presentation, report]
 This project examines patterns in medical incidents, analyzing how needs levels, and time-to-report vary across different incident types and time. Using **R** for data analysis, we apply statistical techniques such as Fisher's exact tests, time series, survival analysis, and Kruskal-Wallis tests to uncover insights.
 I was specifically responsible for analyzing medication errors. Below, you'll find the full presentation we delivered to our nonprofit stakeholders, along with my detailed report on medication errors.
 
-**Collaborators**:  
-*Emily Zhu, Sophia Mou, Alva He, Derek Gao, Edward Brownhill*
+**Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill
 
 ![Time Series Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/4d31a0b6f69ee27062f51f158b42dc13bbd8aeca/assets/img/time-series-medication-errors.png)
 

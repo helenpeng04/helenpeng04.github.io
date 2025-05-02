@@ -7,8 +7,8 @@ date: 2024-05-03
 
 This project investigates the impact of gender stereotype threats on academic outcomes. Using meta-analytic techniques in **R**, we synthesize data from multiple studies to quantify how stereotype threats influence academic performance and achievement.
 
-**Course:** Research Methods: Meta-Analysis
-**Instructor:** Phoebe Lam
+**Course:** Research Methods: Meta-Analysis \
+**Instructor:** Phoebe Lam \
 **Teammates:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler
 
 ![Forest Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/a52a9d07db88a480d1798f3181368f740e448828/assets/img/forest-plot.png)

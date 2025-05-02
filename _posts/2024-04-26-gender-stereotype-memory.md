@@ -12,7 +12,7 @@ This project investigates how gender stereotype threats affect memory performanc
 
 **Course:** Research Methods in Cognitive Psychology  \
 **Instructor:** Abigail Noyce \
-**Teammates:** Cami Streuly, Shirley Du, Cole Kaforey
+**Teammates:** Cami Streuly, Shirley Du, and Cole Kaforey
 
 ![Heading-Recall ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
 
