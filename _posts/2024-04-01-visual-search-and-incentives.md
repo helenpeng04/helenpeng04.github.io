@@ -9,9 +9,9 @@ This project investigates how incentives influence visual search performance.
 The task was designed using **Gorilla**, and data analysis was conducted in **Jamovi**. 
 The analysis explores the relationship between rewards and search efficiency.
 
-**Course:** *Research Methods in Cognitive Psychology*
-**Instructor:** *Abigail Noyce*
-**Teammates:** *Cami Streuly, Shirley Du, Cole Kaforey*
+**Course:** Research Methods in Cognitive Psychology \
+**Instructor:** Abigail Noyce \
+**Teammates:** Cami Streuly, Shirley Du, Cole Kaforey
 
 ![Visual Search ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/visual-search-ANOVA.png)
 
