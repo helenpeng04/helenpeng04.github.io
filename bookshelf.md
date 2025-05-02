@@ -18,25 +18,33 @@ subtitle: Where you'll find all the books I love to read!
 ### Favorite Books
 
 <style>
+  .book-gallery-wrapper {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 10px;
+  }
+
   .book-gallery {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(2, 1fr);
     gap: 10px;
-    align-items: flex-start;
   }
 
   .book-item {
     position: relative;
     height: 200px;
+    width: 130px;
     overflow: hidden;
     cursor: pointer;
     border-radius: 4px;
+    display: inline-block;
   }
 
   .book-item img {
     height: 100%;
-    width: auto;
-    display: block;
+    width: 100%;
+    object-fit: cover;
     border-radius: 4px;
     transition: transform 0.3s ease;
   }
@@ -57,7 +65,7 @@ subtitle: Where you'll find all the books I love to read!
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     text-align: center;
     padding: 0 5px;
@@ -67,9 +75,24 @@ subtitle: Where you'll find all the books I love to read!
   .book-item:hover .book-overlay {
     opacity: 1;
   }
+
+  /* Optional: Style the scrollbar */
+  .book-gallery-wrapper::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .book-gallery-wrapper::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  .book-gallery-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 </style>
 
-<div class="book-gallery">
+<div class="book-gallery-wrapper">
+  <div class="book-gallery">
   
   <!-- We Are Not Free -->
   <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
@@ -110,6 +133,12 @@ subtitle: Where you'll find all the books I love to read!
   <!-- Before the Coffee Gets Cold -->
   <a class="book-item" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
     <img src="https://images.gr-assets.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold">
+    <div class="book-overlay">Before the Coffee Gets Cold</div>
+  </a>
+  
+  <!-- Tales from the Café -->
+  <a class="book-item" href="https://www.goodreads.com/book/show/54373691-tales-from-the-caf" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593780745i/54373691.jpg" alt="Tales from the Café">
     <div class="book-overlay">Before the Coffee Gets Cold</div>
   </a>
 
@@ -166,10 +195,9 @@ subtitle: Where you'll find all the books I love to read!
 
 ### Comic Books & Graphic Novels
 
-I'm a huge X-Men fan - I've read a LOT of the comics. I love how the X-Men universe serves as an allegory for marginalized communities, with Professor Xavier representing a peaceful, coexistence approach similar to Martin Luther King Jr., and Magneto reflecting a more militant, protective stance like Malcolm X. With how the tension between mutants and humans mirrors real-world struggles faced by minorities, the X-Men isn't just a superhero comic to me - it's something much deeper.
+I'm a huge X-Men fan. The series isn't just a superhero comic to me—it's a powerful allegory for marginalized communities. Professor Xavier and Magneto mirror real-world figures like MLK and Malcolm X, representing different approaches to justice and survival. The tension between mutants and humans echoes struggles faced by minorities, which makes these stories hit much deeper.
 
-I used to have a whole collection of screenshots of the best (and funniest) comic panels, but sadly, it's gone now. I'm starting fresh, so here are a few new favorites.
-
+I used to keep a collection of the best (and funniest) comic panels. It’s gone now—but I’m rebuilding, starting with these.
 <style>
   .comic-strip {
     display: flex;
