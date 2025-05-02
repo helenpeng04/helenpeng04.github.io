@@ -52,24 +52,22 @@ subtitle: Where you'll find all the books I love to read!
   .book-item:hover img {
     transform: scale(1.05);
   }
-
+  
   .book-overlay {
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: 0;
-    height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6);
     color: white;
-    opacity: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
+    padding: 5px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
-    padding: 0 5px;
-    transition: opacity 0.3s ease;
+    line-height: 1.2;
+    box-sizing: border-box;
+    white-space: normal;
+    word-break: break-word;
   }
 
   .book-item:hover .book-overlay {
@@ -139,7 +137,7 @@ subtitle: Where you'll find all the books I love to read!
   <!-- Tales from the Café -->
   <a class="book-item" href="https://www.goodreads.com/book/show/54373691-tales-from-the-caf" target="_blank">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593780745i/54373691.jpg" alt="Tales from the Café">
-    <div class="book-overlay">Before the Coffee Gets Cold</div>
+    <div class="book-overlay">Tales from the Café</div>
   </a>
 
   <!-- What You Are Looking For Is in the Library -->
@@ -190,13 +188,16 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">Tales of the Peculiar</div>
   </a>
   
-
   </div>
 </div>
 
 ---
 
 ### Comic Books & Graphic Novels
+
+I’m a huge X-Men fan. The series isn’t just a superhero comic to me - I like how it's an allegory for marginalized communities. Professor Xavier and Magneto mirror real-world figures like MLK and Malcolm X, representing different approaches to justice and survival. The tension between mutants and humans echoes struggles faced by minorities, which makes these stories hit much deeper.
+
+I used to keep a collection of the best (and funniest) comic panels. It’s gone now—but I’m rebuilding, starting with these.
 
 <style>
   .comic-strip {
