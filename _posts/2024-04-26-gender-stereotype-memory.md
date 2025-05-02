@@ -10,9 +10,11 @@ editor_options:
 
 This project investigates how gender stereotype threats affect memory performance, focusing on a heading recall task. The experiment was conducted in **Gorilla**, with data cleaned in **Excel** and statistical analysis performed using **Jamovi**. The results suggest that stereotype threats can influence how individuals process and retain information, highlighting the potential impact of social biases on cognitive functions.
 
-**Course:** *Research Methods in Cognitive Psychology* 
-**Instructor:** *Abigail Noyce* 
-**Teammates:** *Cami Streuly, Shirley Du, Cole Kaforey*
+**Course:** Research Methods in Cognitive Psychology
+
+**Instructor:** Abigail Noyce
+
+**Teammates:** Cami Streuly, Shirley Du, Cole Kaforey
 
 ![Heading-Recall ANOVA](https://github.com/helenpeng04/helenpeng04.github.io/raw/52f1a6df9d47377157ff6b2fc50217e8101555be/assets/img/heading-recall-ANOVA.png)
 
