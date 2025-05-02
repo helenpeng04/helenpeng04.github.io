@@ -198,6 +198,7 @@ subtitle: Where you'll find all the books I love to read!
 I'm a huge X-Men fan. The series isn't just a superhero comic to me—it's a powerful allegory for marginalized communities. Professor Xavier and Magneto mirror real-world figures like MLK and Malcolm X, representing different approaches to justice and survival. The tension between mutants and humans echoes struggles faced by minorities, which makes these stories hit much deeper.
 
 I used to keep a collection of the best (and funniest) comic panels. It’s gone now—but I’m rebuilding, starting with these.
+
 <style>
   .comic-strip {
     display: flex;
