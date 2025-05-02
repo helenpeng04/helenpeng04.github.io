@@ -5,9 +5,8 @@ date: 2024-04-02
 tags: [cognitive psychology, paper]
 ---
 
-This project investigates how incentives influence visual search performance. 
-The task was designed using **Gorilla**, and data analysis was conducted in **Jamovi**. 
-The analysis explores the relationship between rewards and search efficiency.
+This project investigates how incentives influence visual search performance. The task was designed using **Gorilla**, and data analysis was conducted in **Jamovi**. The results suggest that while incentives may influence search efficiency, the overall impact on performance was modest and not statistically significant.
+
 
 **Course:** Research Methods in Cognitive Psychology \
 **Instructor:** Abigail Noyce \

@@ -2,10 +2,9 @@
 layout: post
 title: Predicting Flights from Pittsburgh
 date: 2025-04-26
-tags: [reports]
+tags: [report]
 ---
 
-This project examines how the timing of graduation during the COVID-19 pandemic (peak vs. decline) influences depression and hope levels in graduating students. Using publicly available data, we conducted statistical analysis in R with logistic regression models. The findings suggest that students graduating during the pandemic’s decline (2021) experienced higher psychological distress than those graduating during its peak (2020).
 
 **Course:** Statistical Machine Learning \
 **Instructor:** Spencer Koerner

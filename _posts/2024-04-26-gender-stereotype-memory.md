@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-This project investigates how gender stereotype threats affect memory performance, focusing on a heading recall task. The experiment was conducted in **Gorilla**, with data cleaned in **Excel** and statistical analysis performed using **Jamovi**. The results suggest that stereotype threats can influence how individuals process and retain information, highlighting the potential impact of social biases on cognitive functions.
+This project investigates how gender stereotype threats affect memory performance, focusing on a heading recall task. The experiment was conducted in **Gorilla**, with data cleaned in **Excel** and statistical analysis performed using **Jamovi**. Due to the small sample size, our findings were not statistically significant, though they suggest potential trends in how stereotype threats might influence memory processing and retention. These results highlight the need for further research with larger sample sizes to better understand the potential impact of social biases on cognitive functions.
 
 **Course:** Research Methods in Cognitive Psychology  \
 **Instructor:** Abigail Noyce \
