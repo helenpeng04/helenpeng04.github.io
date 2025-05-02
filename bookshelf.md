@@ -22,12 +22,12 @@ subtitle: Where you'll find all the books I love to read!
     overflow-x: auto;
     white-space: nowrap;
     padding-bottom: 10px;
+    margin-bottom: 20px; /* Adds spacing between books and comics */
   }
 
   .book-gallery {
     display: grid;
     grid-auto-flow: column;
-    grid-template-rows: repeat(2, 1fr);
     gap: 10px;
   }
 
@@ -76,7 +76,6 @@ subtitle: Where you'll find all the books I love to read!
     opacity: 1;
   }
 
-  /* Optional: Style the scrollbar */
   .book-gallery-wrapper::-webkit-scrollbar {
     height: 8px;
   }
@@ -94,7 +93,8 @@ subtitle: Where you'll find all the books I love to read!
 <div class="book-gallery-wrapper">
   <div class="book-gallery">
   
-  <!-- We Are Not Free -->
+  <!-- Book Items (same as before) -->
+   <!-- We Are Not Free -->
   <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
     <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
     <div class="book-overlay">We Are Not Free</div>
@@ -190,14 +190,13 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">Tales of the Peculiar</div>
   </a>
   
+
+  </div>
 </div>
+
 ---
 
 ### Comic Books & Graphic Novels
-
-I'm a huge X-Men fan. The series isn't just a superhero comic to me—it's a powerful allegory for marginalized communities. Professor Xavier and Magneto mirror real-world figures like MLK and Malcolm X, representing different approaches to justice and survival. The tension between mutants and humans echoes struggles faced by minorities, which makes these stories hit much deeper.
-
-I used to keep a collection of the best (and funniest) comic panels. It’s gone now—but I’m rebuilding, starting with these.
 
 <style>
   .comic-strip {
@@ -208,6 +207,7 @@ I used to keep a collection of the best (and funniest) comic panels. It’s gone
     border: 2px solid #ccc;
     padding: 10px;
     max-width: 100%;
+    margin-bottom: 40px; /* Adds some spacing between comic section and next section */
   }
 
   .comic-strip img {
@@ -260,3 +260,5 @@ I used to keep a collection of the best (and funniest) comic panels. It’s gone
   <img src="/assets/comics/panel4.png" alt="Comic panel">
   <img src="/assets/comics/panel5.png" alt="Comic panel">
 </div>
+
+---
