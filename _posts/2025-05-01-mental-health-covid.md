@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Exploring Mental Health Among Pandemic Graduates
-date: 2025-04-21
+date: 2025-05-01
 tags: [report, mental health]
 ---
 
 This project examines how the timing of graduation during the COVID-19 pandemic (peak vs. decline) influences depression and hope levels in graduating students. Data was found online, and statistical analysis was conducted using logistic regression models in **R**. The findings reveal that students graduating during the pandemic's decline (2021) experienced higher psychological distress than those graduating during the peak (2020).
 
-**Collaborators**:  
-*Roberto Vargas*
+**Course:** Data Science in Psychology and Neuroscience
+**Instructor:** Roberto Vargas
 
 ![Model Comparison Barplot](https://github.com/helenpeng04/helenpeng04.github.io/raw/b04c43596be56b08ad933b10ffe894768bf2deff/assets/img/dpsn-project.png)
 
