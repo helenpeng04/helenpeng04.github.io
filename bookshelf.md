@@ -68,11 +68,14 @@ subtitle: Where you'll find all the books I love to read!
     box-sizing: border-box;
     white-space: normal;
     word-break: break-word;
+    opacity: 0; /* Make the overlay invisible by default */
+    transition: opacity 0.3s ease; /* Smooth fade-in effect */
   }
 
   .book-item:hover .book-overlay {
-    opacity: 1;
+    opacity: 1; /* Show overlay on hover */
   }
+
 
   .book-gallery-wrapper::-webkit-scrollbar {
     height: 8px;
