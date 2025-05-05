@@ -76,7 +76,6 @@ subtitle: Where you'll find all the books I love to read!
     opacity: 1; /* Show overlay on hover */
   }
 
-
   .book-gallery-wrapper::-webkit-scrollbar {
     height: 8px;
   }
