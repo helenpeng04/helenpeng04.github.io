@@ -12,7 +12,7 @@ Using flight data from 2022–2023, we trained a Random Forest model to predict 
 **Instructor:** Spencer Koerner \
 **Teammate:** Emily Jiang
 
-![Variable Importance Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/b04c43596be56b08ad933b10ffe894768bf2deff/assets/img/statml-varimp.png)
+![Variable Importance Plot](https://github.com/helenpeng04/helenpeng04.github.io/blob/7e1461c82a1998745f8a6ccf4ee25e097197ee47/assets/img/statml-varimp.png)
 
 <div class="no-border" style="text-align: center;">
   <a href="/assets/reports/Final_Project.html" target="_blank">
