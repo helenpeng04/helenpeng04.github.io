@@ -2,7 +2,7 @@
 layout: post
 title: Impact of Rule Matching and Interleaved Pretraining on Task Accuracy
 date: 2025-04-04
-tags: [cognitive psychology, relational rule learning, report]
+tags: [cognitive psychology, relational rule learning, report] 
 ---
 
 Building on the relational rule learning dataset from last semester’s project, I used multilevel modeling in **R** to explore how rule matching and interleaved pretraining affect task accuracy. The results showed that rule matching significantly improved task accuracy, while interleaved pretraining did not have a significant effect. This was my first time working with multilevel models, which I learned through hands-on lab experience rather than formal coursework.
