@@ -20,14 +20,16 @@ subtitle: Where you'll find all the books I love to read!
 <style>
   .book-gallery-wrapper {
     overflow-x: auto;
-    white-space: nowrap;
+    overflow-y: hidden;
     padding-bottom: 10px;
-    margin-bottom: 20px; /* Adds spacing between books and comics */
+    margin-bottom: 20px;
+    white-space: nowrap;
   }
 
   .book-gallery {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Creates 5 columns per row */
+    grid-auto-flow: column;
+    grid-template-rows: repeat(3, 200px); /* 3 rows of 200px height each */
     gap: 10px;
   }
 
@@ -38,7 +40,6 @@ subtitle: Where you'll find all the books I love to read!
     overflow: hidden;
     cursor: pointer;
     border-radius: 4px;
-    display: inline-block;
   }
 
   .book-item img {
@@ -52,7 +53,7 @@ subtitle: Where you'll find all the books I love to read!
   .book-item:hover img {
     transform: scale(1.05);
   }
-  
+
   .book-overlay {
     position: absolute;
     bottom: 0;
@@ -68,12 +69,12 @@ subtitle: Where you'll find all the books I love to read!
     box-sizing: border-box;
     white-space: normal;
     word-break: break-word;
-    opacity: 0; /* Make the overlay invisible by default */
-    transition: opacity 0.3s ease; /* Smooth fade-in effect */
+    opacity: 0;
+    transition: opacity 0.3s ease;
   }
 
   .book-item:hover .book-overlay {
-    opacity: 1; /* Show overlay on hover */
+    opacity: 1;
   }
 
   .book-gallery-wrapper::-webkit-scrollbar {
@@ -89,6 +90,7 @@ subtitle: Where you'll find all the books I love to read!
     background: #555;
   }
 </style>
+
 
 <div class="book-gallery-wrapper">
   <div class="book-gallery">
