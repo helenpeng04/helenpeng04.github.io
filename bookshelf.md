@@ -93,7 +93,6 @@ subtitle: Where you'll find all the books I love to read!
 <div class="book-gallery-wrapper">
   <div class="book-gallery">
   
-  <!-- Book Items (same as before) -->
    <!-- We Are Not Free -->
   <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
     <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
@@ -207,6 +206,52 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://images.gr-assets.com/books/1493062288l/29358487.jpg" alt="Tales of the Peculiar">
     <div class="book-overlay">Tales of the Peculiar</div>
   </a>
+  
+  <!-- These Violent Delights -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/50892212-these-violent-delights" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580958058i/50892212.jpg" alt="These Violent Delights">
+    <div class="book-overlay">These Violent Delights</div>
+  </a>
+  
+  <!-- Our Violent Ends -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/44084762-our-violent-endsn" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612451534i/44084762.jpg" alt="Our Violent Ends">
+    <div class="book-overlay">Our Violent Ends</div>
+  </a>
+  
+   <!-- The Lightning Thief -->
+  <a class="book-item" href="https://www.goodreads.com/book/show/28187.The_Lightning_Thief" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg" alt="The Lightning Thief">
+    <div class="book-overlay">The Lightning Thief</div>
+  </a>
+  
+  <!-- The Sea of Monsters -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602661i/28186.jpg" alt="The Sea of Monsters">
+    <div class="book-overlay">The Sea of Monsters</div>
+  </a>
+  
+  <!-- The Titan's Curse-->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/561456.The_Titan_s_Curse" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361038385i/561456.jpg" alt="The Titan's Curse">
+    <div class="book-overlay">The Titan's Curse</div>
+  </a>
+  
+  <!-- The Battle of the Labyrinth-->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518607478i/2120932.jpg" alt="The Battle of the Labyrinth">
+    <div class="book-overlay">The Battle of the Labyrinth</div>
+  </a>
+  
+  <!-- The Last Olympian -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/4556058-the-last-olympian" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1723393514i/4556058.jpg" alt="The Last Olympian">
+    <div class="book-overlay">The Last Olympian</div>
+  </a>
+  
+  
+  
+  
   
   </div>
 </div>
