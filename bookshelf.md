@@ -149,6 +149,18 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">What You Are Looking For Is in the Library</div>
   </a>
   
+  <!-- XOXO -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/54618808-xoxo" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602086642i/54618808.jpg" alt="XOXO">
+    <div class="book-overlay">XOXO</div>
+  </a>
+  
+  <!-- ASAP -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/112975158-asap" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687625549i/112975158.jpg" alt="ASAP">
+    <div class="book-overlay">ASAP</div>
+  </a>
+  
   <!-- Miss Peregrine's Home for Peculiar Children -->
   <a class="book-item" href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
     <img src="https://images.gr-assets.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home for Peculiar Children">
