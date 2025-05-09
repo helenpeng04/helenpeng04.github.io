@@ -15,159 +15,112 @@ subtitle: Where you'll find all the books I love to read!
 
 ---
 ## Attempt at Reviews
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Book Gallery</title>
-  <style>
-    .book-gallery-wrapper {
-      padding: 20px;
-    }
+<style>
+  .book-gallery-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    white-space: nowrap;
+  }
 
-    .book-gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      justify-content: center;
-    }
+  .book-gallery {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(3, 250px); /* increased row height for review */
+    gap: 10px;
+  }
 
-    .book-item {
-      width: 120px;
-      text-align: center;
-      text-decoration: none;
-      color: inherit;
-    }
+  .book-item {
+    position: relative;
+    height: 250px;
+    width: 130px;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 4px;
+  }
 
-    .book-item img {
-      width: 100%;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
+  .book-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+  }
 
-    .book-overlay {
-      margin-top: 5px;
-      font-size: 14px;
-    }
+  .book-item:hover img {
+    transform: scale(1.05);
+  }
 
-    /* Modal styles */
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 999;
-      padding-top: 100px;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background-color: rgba(0, 0, 0, 0.6);
-    }
+  .book-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+    padding: 5px;
+    font-size: 11px;
+    text-align: left;
+    line-height: 1.3;
+    box-sizing: border-box;
+    white-space: normal;
+    word-break: break-word;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    max-height: 60%;
+    overflow-y: auto;
+  }
 
-    .modal-content {
-      background-color: #fff;
-      margin: auto;
-      padding: 20px;
-      width: 90%;
-      max-width: 600px;
-      border-radius: 8px;
-      position: relative;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-    }
+  .book-item:hover .book-overlay {
+    opacity: 1;
+  }
 
-    .close-button {
-      color: #aaa;
-      position: absolute;
-      right: 15px;
-      top: 10px;
-      font-size: 28px;
-      font-weight: bold;
-      cursor: pointer;
-    }
+  .book-overlay .title {
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
 
-    .close-button:hover {
-      color: #000;
-    }
+  .book-gallery-wrapper::-webkit-scrollbar {
+    height: 8px;
+  }
 
-    #personal-review {
-      margin-top: 1em;
-      font-style: italic;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
+  .book-gallery-wrapper::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  .book-gallery-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+</style>
 
 <div class="book-gallery-wrapper">
   <div class="book-gallery">
+    
+    <!-- Example Book with Review -->
+  <a class="book-item" href="https://www.goodreads.com/book/show/49934666-we-are-not-free" target="_blank">
+      <img src="https://images.gr-assets.com/books/1565710970l/49934666.jpg" alt="We Are Not Free">
+      <div class="book-overlay">
+        <div class="title">We Are Not Free</div>
+        <div class="review">A powerful exploration of Japanese-American incarceration during WWII told through multiple voices.</div>
+      </div>
+  </a>
 
-    <!-- Example Book -->
-    <a class="book-item" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
-      <img src="https://images.gr-assets.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold">
-      <div class="book-overlay">Before the Coffee Gets Cold</div>
+    <!-- Example Book with Review -->
+  <a class="book-item" href="https://www.goodreads.com/book/show/58984692-this-place-is-still-beautiful" target="_blank">
+      <img src="https://images.gr-assets.com/books/1634238514l/58984692.jpg" alt="This Place Is Still Beautiful">
+      <div class="book-overlay">
+        <div class="title">This Place Is Still Beautiful</div>
+        <div class="review">An emotional and raw story of racism, identity, and reconciliation between two sisters.</div>
+      </div>
     </a>
 
-    <a class="book-item" href="https://www.goodreads.com/book/show/28187.The_Lightning_Thief" target="_blank">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg" alt="The Lightning Thief">
-      <div class="book-overlay">The Lightning Thief</div>
-    </a>
-
-    <a class="book-item" href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
-      <img src="https://images.gr-assets.com/books/1580804471l/52128695.jpg" alt="Ace">
-      <div class="book-overlay">Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex</div>
-    </a>
-
-    <!-- Add more books as needed -->
-
+    <!-- Add the rest of your books here, following the same structure -->
+    
   </div>
 </div>
 
-<!-- Modal -->
-<div id="reviewModal" class="modal">
-  <div class="modal-content">
-    <span class="close-button">&times;</span>
-    <h2 id="modal-book-title"></h2>
-    <iframe id="goodreads-frame" width="100%" height="400" frameborder="0"></iframe>
-    <div id="personal-review"></div>
-  </div>
-</div>
-
-<script>
-  const modal = document.getElementById("reviewModal");
-  const modalTitle = document.getElementById("modal-book-title");
-  const iframe = document.getElementById("goodreads-frame");
-  const closeButton = document.querySelector(".close-button");
-  const personalReview = document.getElementById("personal-review");
-
-  // Add your reviews here
-  const reviews = {
-    "Before the Coffee Gets Cold": "A touching exploration of regret and connection. My favorite was the story of the mother and daughter.",
-    "The Lightning Thief": "A nostalgic and fun read! Percy’s humor and bravery made it unforgettable.",
-    "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex": "Brilliantly articulated and validating — a must-read for anyone curious about identity beyond the norm."
-  };
-
-  document.querySelectorAll(".book-item").forEach(item => {
-    const title = item.querySelector(".book-overlay").innerText;
-    const link = item.href;
-
-    item.addEventListener("click", function (e) {
-      e.preventDefault();
-      modalTitle.innerText = title;
-      iframe.src = link;
-      personalReview.innerText = reviews[title] || ""; // Show review if exists
-      modal.style.display = "block";
-    });
-  });
-
-  closeButton.onclick = () => modal.style.display = "none";
-  window.onclick = (event) => {
-    if (event.target == modal) modal.style.display = "none";
-  };
-</script>
-
-</body>
-</html>
 
 ---
 ### Favorite Books
