@@ -14,7 +14,6 @@ subtitle: Where you'll find all the books I love to read!
 </p>
 
 ---
-
 ### Favorite Books
 
 <style>
