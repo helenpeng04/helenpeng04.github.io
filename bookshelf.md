@@ -143,24 +143,6 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">Tales from the Café</div>
   </a>
   
-  <!-- Before Your Memory Fades -->
-  <a class="book-item" href="https://www.goodreads.com/book/show/60224365-before-your-memory-fades" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657903805i/60224365.jpg" alt="Before Your Memory Fades">
-    <div class="book-overlay">Before Your Memory Fades</div>
-  </a>
-  
-  <!-- Before We Say Goodbye -->
-  <a class="book-item" href="https://www.goodreads.com/book/show/66269953-before-we-say-goodbye" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680346926i/66269953.jpg" alt="Before We Say Goodbye">
-    <div class="book-overlay">Before We Say Goodbye</div>
-  </a>
-  
-  <!-- Before We Forget Kindness -->
-  <a class="book-item" href="https://www.goodreads.com/book/show/200998630-before-we-forget-kindness" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709454818i/200998630.jpg" alt="Before We Forget Kindness">
-    <div class="book-overlay">Before We Forget Kindness</div>
-  </a>
-
   <!-- What You Are Looking For Is in the Library -->
   <a class="book-item" href="https://www.goodreads.com/book/show/91274427-what-you-are-looking-for-is-in-the-library" target="_blank">
     <img src="https://images.gr-assets.com/books/1683915876l/91274427.jpg" alt="What You Are Looking For Is in the Library">
@@ -250,10 +232,6 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1723393514i/4556058.jpg" alt="The Last Olympian">
     <div class="book-overlay">The Last Olympian</div>
   </a>
-  
-  
-  
-  
   
   </div>
 </div>
