@@ -14,7 +14,162 @@ subtitle: Where you'll find all the books I love to read!
 </p>
 
 ---
+## Attempt at Reviews
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Book Gallery</title>
+  <style>
+    .book-gallery-wrapper {
+      padding: 20px;
+    }
 
+    .book-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      justify-content: center;
+    }
+
+    .book-item {
+      width: 120px;
+      text-align: center;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .book-item img {
+      width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .book-overlay {
+      margin-top: 5px;
+      font-size: 14px;
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      padding-top: 100px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+
+    .modal-content {
+      background-color: #fff;
+      margin: auto;
+      padding: 20px;
+      width: 90%;
+      max-width: 600px;
+      border-radius: 8px;
+      position: relative;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+
+    .close-button {
+      color: #aaa;
+      position: absolute;
+      right: 15px;
+      top: 10px;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .close-button:hover {
+      color: #000;
+    }
+
+    #personal-review {
+      margin-top: 1em;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<div class="book-gallery-wrapper">
+  <div class="book-gallery">
+
+    <!-- Example Book -->
+    <a class="book-item" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
+      <img src="https://images.gr-assets.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold">
+      <div class="book-overlay">Before the Coffee Gets Cold</div>
+    </a>
+
+    <a class="book-item" href="https://www.goodreads.com/book/show/28187.The_Lightning_Thief" target="_blank">
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg" alt="The Lightning Thief">
+      <div class="book-overlay">The Lightning Thief</div>
+    </a>
+
+    <a class="book-item" href="https://www.goodreads.com/book/show/52128695-ace" target="_blank">
+      <img src="https://images.gr-assets.com/books/1580804471l/52128695.jpg" alt="Ace">
+      <div class="book-overlay">Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex</div>
+    </a>
+
+    <!-- Add more books as needed -->
+
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="reviewModal" class="modal">
+  <div class="modal-content">
+    <span class="close-button">&times;</span>
+    <h2 id="modal-book-title"></h2>
+    <iframe id="goodreads-frame" width="100%" height="400" frameborder="0"></iframe>
+    <div id="personal-review"></div>
+  </div>
+</div>
+
+<script>
+  const modal = document.getElementById("reviewModal");
+  const modalTitle = document.getElementById("modal-book-title");
+  const iframe = document.getElementById("goodreads-frame");
+  const closeButton = document.querySelector(".close-button");
+  const personalReview = document.getElementById("personal-review");
+
+  // Add your reviews here
+  const reviews = {
+    "Before the Coffee Gets Cold": "A touching exploration of regret and connection. My favorite was the story of the mother and daughter.",
+    "The Lightning Thief": "A nostalgic and fun read! Percy’s humor and bravery made it unforgettable.",
+    "Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex": "Brilliantly articulated and validating — a must-read for anyone curious about identity beyond the norm."
+  };
+
+  document.querySelectorAll(".book-item").forEach(item => {
+    const title = item.querySelector(".book-overlay").innerText;
+    const link = item.href;
+
+    item.addEventListener("click", function (e) {
+      e.preventDefault();
+      modalTitle.innerText = title;
+      iframe.src = link;
+      personalReview.innerText = reviews[title] || ""; // Show review if exists
+      modal.style.display = "block";
+    });
+  });
+
+  closeButton.onclick = () => modal.style.display = "none";
+  window.onclick = (event) => {
+    if (event.target == modal) modal.style.display = "none";
+  };
+</script>
+
+</body>
+</html>
+
+---
 ### Favorite Books
 
 <style>
