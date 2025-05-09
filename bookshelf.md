@@ -27,7 +27,7 @@ subtitle: Where you'll find all the books I love to read!
 
   .book-gallery {
     display: grid;
-    grid-auto-flow: column;
+    grid-template-columns: repeat(5, 1fr); /* Creates 5 columns per row */
     gap: 10px;
   }
 
@@ -211,75 +211,3 @@ subtitle: Where you'll find all the books I love to read!
   </div>
 </div>
 
----
-
-### Comic Books & Graphic Novels
-
-I’m a huge X-Men fan. The series isn’t just a superhero comic to me - I like how it's an allegory for marginalized communities. Professor Xavier and Magneto mirror real-world figures like MLK and Malcolm X, representing different approaches to justice and survival. The tension between mutants and humans echoes struggles faced by minorities, which makes these stories hit much deeper.
-
-I used to keep a collection of the best (and funniest) comic panels. It’s gone now—but I’m rebuilding, starting with these.
-
-<style>
-  .comic-strip {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    cursor: pointer;
-    border: 2px solid #ccc;
-    padding: 10px;
-    max-width: 100%;
-    margin-bottom: 40px; /* Adds some spacing between comic section and next section */
-  }
-
-  .comic-strip img {
-    height: 200px;
-    width: auto;
-    margin-right: 10px;
-    flex-shrink: 0;
-  }
-
-  .modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    top: 0; left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: rgba(0, 0, 0, 0.9);
-    justify-content: center;
-    align-items: center;
-    overflow-x: auto;
-  }
-
-  .modal-content {
-    display: flex;
-    flex-wrap: nowrap;
-    padding: 20px;
-  }
-
-  .modal-content img {
-    height: 80vh;
-    width: auto;
-    margin-right: 10px;
-  }
-
-  .modal-close {
-    position: absolute;
-    top: 20px;
-    right: 30px;
-    font-size: 30px;
-    color: white;
-    cursor: pointer;
-  }
-</style>
-
-<!-- Scrollable Comic Strip -->
-<div class="comic-strip">
-  <img src="/assets/comics/panel1.png" alt="Comic panel">
-  <img src="/assets/comics/panel2.png" alt="Comic panel">
-  <img src="/assets/comics/panel3.png" alt="Comic panel">
-  <img src="/assets/comics/panel4.png" alt="Comic panel">
-  <img src="/assets/comics/panel5.png" alt="Comic panel">
-</div>
-
----
