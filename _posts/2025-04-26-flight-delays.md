@@ -13,7 +13,7 @@ Using real data from 2022 and 2023, this project predicts 2024 flight delays fro
 **Instructor:** Spencer Koerner \
 **Teammate:** Emily Jiang
 
-![Variable Importance Plot](https://github.com/helenpeng04/helenpeng04.github.io/blob/a47fdd87b8e8ee9ae41e11f9ffc021d878209023/assets/img/var-plot.png)
+![Variable Importance Plot](https://github.com/helenpeng04/helenpeng04.github.io/raw/a47fdd87b8e8ee9ae41e11f9ffc021d878209023/assets/img/var-plot.png)
 
 <a href="/assets/reports/Final_Project.html" target="_blank" style="text-decoration: none;">
   <div style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; border-radius: 4px;">
