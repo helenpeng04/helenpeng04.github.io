@@ -22,39 +22,6 @@ subtitle: Senior Statistics Major | Aspiring Biostatistician
   </p>
 </div>
 
-<h2>Skill Radar</h2>
-<canvas id="skillRadar" width="400" height="400"></canvas>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('skillRadar').getContext('2d');
-  const skillRadar = new Chart(ctx, {
-    type: 'radar',
-    data: {
-      labels: ['R', 'Python', 'Excel', 'SQL', 'Data Viz', 'Machine Learning'],
-      datasets: [{
-        label: 'Proficiency',
-        data: [9, 8, 7, 6, 7, 8],
-        backgroundColor: 'rgba(76, 175, 80, 0.2)',
-        borderColor: '#4CAF50',
-        pointBackgroundColor: '#4CAF50',
-        borderWidth: 2
-      }]
-    },
-    options: {
-      scale: {
-        ticks: {
-          beginAtZero: true,
-          max: 10,
-          stepSize: 1
-        }
-      },
-      responsive: true
-    }
-  });
-</script>
-
-
 <style>
   /* Base styles for the profile image and text */
   .profile-container {
