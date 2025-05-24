@@ -245,6 +245,20 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">The Last Olympian</div>
   </a>
   
+  <!-- Shine -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/50855956-shine" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580350020i/50855956.jpg" alt="Shine">
+    <div class="book-overlay">Shine</div>
+  </a>
+  
+  <!-- Bright -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/54315863-bright?from_search=true&from_srp=true&qid=xMIaKh34Mc&rank=1" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644088396i/54315863.jpg" alt="Bright">
+    <div class="book-overlay">Bright</div>
+  </a>
+  
+  
+  
   </div>
 </div>
 ---
