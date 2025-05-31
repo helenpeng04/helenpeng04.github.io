@@ -265,6 +265,7 @@ subtitle: Where you'll find all the books I love to read!
 I've read a ton of X-Men over the years - it's easily my favorite series. Beyond the powers and action, what really draws me in is how it's always been an allegory for real-world struggles. Magneto and Professor X reflect the philosophies of Malcolm X and Martin Luther King Jr., and the tension between those viewpoints makes the story feel meaningful and timeless.
 
 I used to keep a screenshot collection of the funniest moments, but I lost it somewhere along the way - so here's to starting fresh.
+
 <style>
   .comic-gallery-wrapper {
     overflow-x: auto;
@@ -312,34 +313,34 @@ I used to keep a screenshot collection of the funniest moments, but I lost it so
   }
 </style>
 
-<h3>Comic Panels</h3>
 <div class="comic-gallery-wrapper">
   <div class="comic-gallery">
-
+  
   <a class="comic-item" href="/assets/comics/panel1.jpg" target="_blank">
-      <img src="/assets/comics/page1.jpg" alt="Panel 1">
+    <img src="/assets/comics/page1.jpg" alt="Panel 1">
   </a>
-
+    
   <a class="comic-item" href="/assets/comics/panel2.jpg" target="_blank">
-    <img src="/assets/comics/page2.jpg" alt="Panel 2">
+      <img src="/assets/comics/page2.jpg" alt="Panel 2">
   </a>
-
+  
   <a class="comic-item" href="/assets/comics/panel3.jpg" target="_blank">
     <img src="/assets/comics/page3.jpg" alt="Panel 3">
   </a>
-  
+      
   <a class="comic-item" href="/assets/comics/panel4.jpg" target="_blank">
-    <img src="/assets/comics/page3.jpg" alt="Panel 4">
+    <img src="/assets/comics/page4.jpg" alt="Panel 4">
   </a>
-  
+      
   <a class="comic-item" href="/assets/comics/panel5.jpg" target="_blank">
-    <img src="/assets/comics/page3.jpg" alt="Panel 5">
+    <img src="/assets/comics/page5.jpg" alt="Panel 5">
   </a>
-  
+      
   <a class="comic-item" href="/assets/comics/panel6.jpg" target="_blank">
-    <img src="/assets/comics/page3.jpg" alt="Panel 6">
+    <img src="/assets/comics/page6.jpg" alt="Panel 6">
   </a>
 
   </div>
 </div>
+
 
