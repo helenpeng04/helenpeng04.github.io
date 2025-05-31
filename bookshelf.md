@@ -260,3 +260,72 @@ subtitle: Where you'll find all the books I love to read!
   </div>
 </div>
 ---
+### Favorite Comics
+
+<style>
+  .comic-gallery-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    white-space: nowrap;
+  }
+
+  .comic-gallery {
+    display: flex;
+    gap: 12px;
+  }
+
+  .comic-item {
+    height: 220px;
+    width: auto;
+    flex: 0 0 auto;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .comic-item img {
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    border-radius: 6px;
+  }
+
+  .comic-overlay {
+    display: none; /* No overlay */
+  }
+
+  .comic-gallery-wrapper::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .comic-gallery-wrapper::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  .comic-gallery-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+</style>
+
+<h3>Comic Panels</h3>
+<div class="comic-gallery-wrapper">
+  <div class="comic-gallery">
+
+  <!-- Example Comic Panel -->
+  <a class="comic-item" href="/assets/comics/page1.jpg" target="_blank">
+      <img src="/assets/comics/page1.jpg" alt="Page 1">
+  </a>
+
+  <a class="comic-item" href="/assets/comics/page2.jpg" target="_blank">
+    <img src="/assets/comics/page2.jpg" alt="Page 2">
+  </a>
+
+  <a class="comic-item" href="/assets/comics/page3.jpg" target="_blank">
+    <img src="/assets/comics/page3.jpg" alt="Page 3">
+  </a>
+
+  </div>
+</div>
+
