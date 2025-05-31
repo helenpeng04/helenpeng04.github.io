@@ -316,37 +316,37 @@ I used to keep a screenshot collection of the funniest moments, but I lost it so
 <div class="comic-gallery-wrapper">
   <div class="comic-gallery">
   
-  <a class="comic-item" href="/assets/comics/panel1.jpg" target="_blank">
-    <img src="/assets/comics/panel1.jpg" alt="Panel 1">
+  <a class="comic-item" href="/assets/comics/panel1.png" target="_blank">
+    <img src="/assets/comics/panel1.png" alt="Panel 1">
   </a>
     
-  <a class="comic-item" href="/assets/comics/panel2.jpg" target="_blank">
-      <img src="/assets/comics/panel2.jpg" alt="Panel 2">
+  <a class="comic-item" href="/assets/comics/panel2.png" target="_blank">
+      <img src="/assets/comics/panel2.png" alt="Panel 2">
   </a>
   
-  <a class="comic-item" href="/assets/comics/panel3.jpg" target="_blank">
-    <img src="/assets/comics/panel3.jpg" alt="Panel 3">
+  <a class="comic-item" href="/assets/comics/panel3.png" target="_blank">
+    <img src="/assets/comics/panel3.png" alt="Panel 3">
   </a>
       
-  <a class="comic-item" href="/assets/comics/panel4.jpg" target="_blank">
-    <img src="/assets/comics/panel4.jpg" alt="Panel 4">
+  <a class="comic-item" href="/assets/comics/panel4.png" target="_blank">
+    <img src="/assets/comics/panel4.png" alt="Panel 4">
   </a>
       
-  <a class="comic-item" href="/assets/comics/panel5.jpg" target="_blank">
-    <img src="/assets/comics/panel5.jpg" alt="Panel 5">
+  <a class="comic-item" href="/assets/comics/panel5.png" target="_blank">
+    <img src="/assets/comics/panel5.png" alt="Panel 5">
   </a>
       
-  <a class="comic-item" href="/assets/comics/panel6.jpg" target="_blank">
-    <img src="/assets/comics/panel6.jpg" alt="Panel 6">
+  <a class="comic-item" href="/assets/comics/panel6.png" target="_blank">
+    <img src="/assets/comics/panel6.png" alt="Panel 6">
   </a>
   
   
-  <a class="comic-item" href="/assets/comics/panel7.jpg" target="_blank">
-    <img src="/assets/comics/panel7.jpg" alt="Panel 7">
+  <a class="comic-item" href="/assets/comics/panel7.png" target="_blank">
+    <img src="/assets/comics/panel7.png" alt="Panel 7">
   </a>
   
-  <a class="comic-item" href="/assets/comics/panel8.jpg" target="_blank">
-    <img src="/assets/comics/panel8.jpg" alt="Panel 8">
+  <a class="comic-item" href="/assets/comics/panel8.png" target="_blank">
+    <img src="/assets/comics/panel8.png" alt="Panel 8">
   </a>
 
   </div>
