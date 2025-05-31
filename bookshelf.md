@@ -317,27 +317,36 @@ I used to keep a screenshot collection of the funniest moments, but I lost it so
   <div class="comic-gallery">
   
   <a class="comic-item" href="/assets/comics/panel1.jpg" target="_blank">
-    <img src="/assets/comics/page1.jpg" alt="Panel 1">
+    <img src="/assets/comics/panel1.jpg" alt="Panel 1">
   </a>
     
   <a class="comic-item" href="/assets/comics/panel2.jpg" target="_blank">
-      <img src="/assets/comics/page2.jpg" alt="Panel 2">
+      <img src="/assets/comics/panel2.jpg" alt="Panel 2">
   </a>
   
   <a class="comic-item" href="/assets/comics/panel3.jpg" target="_blank">
-    <img src="/assets/comics/page3.jpg" alt="Panel 3">
+    <img src="/assets/comics/panel3.jpg" alt="Panel 3">
   </a>
       
   <a class="comic-item" href="/assets/comics/panel4.jpg" target="_blank">
-    <img src="/assets/comics/page4.jpg" alt="Panel 4">
+    <img src="/assets/comics/panel4.jpg" alt="Panel 4">
   </a>
       
   <a class="comic-item" href="/assets/comics/panel5.jpg" target="_blank">
-    <img src="/assets/comics/page5.jpg" alt="Panel 5">
+    <img src="/assets/comics/panel5.jpg" alt="Panel 5">
   </a>
       
   <a class="comic-item" href="/assets/comics/panel6.jpg" target="_blank">
-    <img src="/assets/comics/page6.jpg" alt="Panel 6">
+    <img src="/assets/comics/panel6.jpg" alt="Panel 6">
+  </a>
+  
+  
+  <a class="comic-item" href="/assets/comics/panel7.jpg" target="_blank">
+    <img src="/assets/comics/panel7.jpg" alt="Panel 7">
+  </a>
+  
+  <a class="comic-item" href="/assets/comics/panel8.jpg" target="_blank">
+    <img src="/assets/comics/panel8.jpg" alt="Panel 8">
   </a>
 
   </div>
