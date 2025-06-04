@@ -173,6 +173,18 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">Bright</div>
   </a>
   
+  <!-- Minor Feelings -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/52845775-minor-feelings?from_search=true&from_srp=true&qid=xsQcdDzLms&rank=1" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580788273l/52845775.jpg" alt="Minor Feelings">
+    <div class="book-overlay">Minor Feelings</div>
+  </a>
+  
+  <!-- The Kite Runner -->
+  <a class="book-item" href= "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" alt="The Kite Runner">
+    <div class="book-overlay">The Kite Runner</div>
+  </a>
+  
   <!-- Miss Peregrine's Home for Peculiar Children -->
   <a class="book-item" href="https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children" target="_blank">
     <img src="https://images.gr-assets.com/books/1623449170l/9460487.jpg" alt="Miss Peregrine's Home for Peculiar Children">
@@ -259,6 +271,7 @@ subtitle: Where you'll find all the books I love to read!
   
   </div>
 </div>
+
 ---
 ### Favorite Comics
 
@@ -339,7 +352,6 @@ I used to keep a screenshot collection of the funniest moments, but I lost it so
   <a class="comic-item" href="/assets/comics/panel6.png" target="_blank">
     <img src="/assets/comics/panel6.png" alt="Panel 6">
   </a>
-  
   
   <a class="comic-item" href="/assets/comics/panel7.png" target="_blank">
     <img src="/assets/comics/panel7.png" alt="Panel 7">
