@@ -118,6 +118,12 @@ subtitle: Where you'll find all the books I love to read!
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740179056i/223329042.jpg" alt="Daughters of Shandong">
     <div class="book-overlay">Daughters of Shandong </div>  
   </a>
+  
+  <!-- The Kite Runner -->
+  <a class="book-item" href= "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" alt="The Kite Runner">
+    <div class="book-overlay">The Kite Runner</div>
+  </a>
 
   <!-- Permanent Record -->
   <a class="book-item" href="https://www.goodreads.com/book/show/46223297-permanent-record" target="_blank">
@@ -177,12 +183,6 @@ subtitle: Where you'll find all the books I love to read!
   <a class="book-item" href= "https://www.goodreads.com/book/show/54315863-bright?from_search=true&from_srp=true&qid=xMIaKh34Mc&rank=1" target="_blank">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644088396i/54315863.jpg" alt="Bright">
     <div class="book-overlay">Bright</div>
-  </a>
-  
-  <!-- The Kite Runner -->
-  <a class="book-item" href= "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" alt="The Kite Runner">
-    <div class="book-overlay">The Kite Runner</div>
   </a>
   
   <!-- Miss Peregrine's Home for Peculiar Children -->
