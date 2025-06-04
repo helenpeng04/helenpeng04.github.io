@@ -131,6 +131,12 @@ subtitle: Where you'll find all the books I love to read!
     <div class="book-overlay">Ace: What Asexuality Reveals About Desire, Society, and the Meaning of Sex</div>
   </a>
   
+  <!-- Minor Feelings -->
+  <a class="book-item" href= "https://www.goodreads.com/book/show/52845775-minor-feelings?from_search=true&from_srp=true&qid=xsQcdDzLms&rank=1" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580788273l/52845775.jpg" alt="Minor Feelings">
+    <div class="book-overlay">Minor Feelings</div>
+  </a>
+  
   <!-- Before the Coffee Gets Cold -->
   <a class="book-item" href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">
     <img src="https://images.gr-assets.com/books/1704153539l/44421460.jpg" alt="Before the Coffee Gets Cold">
@@ -171,12 +177,6 @@ subtitle: Where you'll find all the books I love to read!
   <a class="book-item" href= "https://www.goodreads.com/book/show/54315863-bright?from_search=true&from_srp=true&qid=xMIaKh34Mc&rank=1" target="_blank">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644088396i/54315863.jpg" alt="Bright">
     <div class="book-overlay">Bright</div>
-  </a>
-  
-  <!-- Minor Feelings -->
-  <a class="book-item" href= "https://www.goodreads.com/book/show/52845775-minor-feelings?from_search=true&from_srp=true&qid=xsQcdDzLms&rank=1" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580788273l/52845775.jpg" alt="Minor Feelings">
-    <div class="book-overlay">Minor Feelings</div>
   </a>
   
   <!-- The Kite Runner -->
