@@ -120,7 +120,7 @@ subtitle: Where you'll find all the books I love to read!
   </a>
   
   <!-- The Kite Runner -->
-  <a class="book-item" href= "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" target="_blank">
+  <a class="book-item" href= "https://www.goodreads.com/book/show/17165596-the-kite-runner?from_search=true&from_srp=true&qid=uCfAVw7pBi&rank=1" target="_blank">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541428344i/17165596.jpg" alt="The Kite Runner">
     <div class="book-overlay">The Kite Runner</div>
   </a>
