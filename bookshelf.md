@@ -277,7 +277,7 @@ subtitle: Where you'll find all the books I love to read!
 
 I've read a ton of X-Men over the years - it's easily my favorite series. Beyond the powers and action, what really draws me in is how it's always been an allegory for real-world struggles. Magneto and Professor X reflect the philosophies of Malcolm X and Martin Luther King Jr., and the tension between those viewpoints makes the story feel meaningful and timeless.
 
-I used to keep a screenshot collection of the funniest moments, but I lost it somewhere along the way - so here's to starting fresh.
+I used to keep a screenshot collection of the funniest moments, but I lost it somewhere along the way - so here's to starting anew!
 
 <style>
   .comic-gallery-wrapper {
