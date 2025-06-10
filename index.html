@@ -58,3 +58,62 @@ subtitle: Senior Statistics Major | Aspiring Biostatistician
     }
   }
 </style>
+
+<h2 style="margin-left: 20px;">Featured Projects</h2>
+<div class="projects-scroll-container">
+  <div class="project-card">
+    <h3>COVID in Pennsylvania</h3>
+    <p>Exploratory analysis and clustering of COVID cases and deaths across PA counties using PCA and k-means.</p>
+    <a href="/posts/covid-pa-project">Read More →</a>
+  </div>
+  <div class="project-card">
+    <h3>OAK Lab: Relational Learning</h3>
+    <p>Studying how rules emerge in symbolic AI systems through human-in-the-loop simulations and data analysis.</p>
+    <a href="https://www.theoaklab.org" target="_blank">Visit Lab →</a>
+  </div>
+  <!-- Add more project cards as needed -->
+</div>
+
+<style>
+  .projects-scroll-container {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 16px;
+    padding: 20px;
+    margin: 0 20px;
+  }
+
+  .project-card {
+    flex: 0 0 300px;
+    scroll-snap-align: start;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .project-card h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+
+  .project-card a {
+    margin-top: auto;
+    font-weight: bold;
+    color: #007acc;
+    text-decoration: none;
+  }
+
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+
+  /* Optional: hide scroll bar in WebKit browsers */
+  .projects-scroll-container::-webkit-scrollbar {
+    display: none;
+  }
+</style>
