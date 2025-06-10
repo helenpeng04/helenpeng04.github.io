@@ -61,55 +61,42 @@ subtitle: Senior Statistics Major | Aspiring Biostatistician
 
 <h2 style="margin-left: 20px;">Featured Projects</h2>
 <div class="projects-scroll-container">
-  <div class="project-card">
-    <h3>COVID in Pennsylvania</h3>
-    <p>Exploratory analysis and clustering of COVID cases and deaths across PA counties using PCA and k-means.</p>
-    <a href="/posts/covid-pa-project">Read More →</a>
-  </div>
-  <div class="project-card">
-    <h3>OAK Lab: Relational Learning</h3>
-    <p>Studying how rules emerge in symbolic AI systems through human-in-the-loop simulations and data analysis.</p>
-    <a href="https://www.theoaklab.org" target="_blank">Visit Lab →</a>
-  </div>
-  <!-- Add more project cards as needed -->
+  <a href="/posts/covid-pa-project" class="project-poster" title="COVID in Pennsylvania">
+    <img src="/assets/img/covid-pa-poster.jpg" alt="COVID in Pennsylvania Project Poster" />
+  </a>
+  <a href="https://www.theoaklab.org" class="project-poster" target="_blank" title="OAK Lab: Relational Learning">
+    <img src="/assets/img/oaklab-poster.jpg" alt="OAK Lab Project Poster" />
+  </a>
+  <!-- Add more poster links here -->
 </div>
 
 <style>
   .projects-scroll-container {
     display: flex;
     overflow-x: auto;
-    scroll-snap-type: x mandatory;
     gap: 16px;
     padding: 20px;
     margin: 0 20px;
   }
 
-  .project-card {
-    flex: 0 0 300px;
-    scroll-snap-align: start;
-    background-color: #f9f9f9;
+  .project-poster {
+    flex: 0 0 auto;
+    width: 250px;
     border-radius: 12px;
-    padding: 16px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
   }
 
-  .project-card h3 {
-    margin-top: 0;
-    font-size: 1.2em;
+  .project-poster img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
   }
 
-  .project-card a {
-    margin-top: auto;
-    font-weight: bold;
-    color: #007acc;
-    text-decoration: none;
-  }
-
-  .project-card a:hover {
-    text-decoration: underline;
+  .project-poster:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
   }
 
   /* Optional: hide scroll bar in WebKit browsers */
