@@ -6,6 +6,7 @@ tags: [presentation, covid]
 ---
 
 This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
+
 **Collaborators**: Lily Fransen and Maximus Liu
 
 ![K-Means Clustering]()
