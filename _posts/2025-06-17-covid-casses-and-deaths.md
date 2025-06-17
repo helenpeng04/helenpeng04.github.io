@@ -9,7 +9,7 @@ This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Ap
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
-![K-Means Clustering]()
+![K-Means Clustering](https://github.com/helenpeng04/helenpeng04.github.io/blob/bef2507b1e2efd7c9d44acb2f856c79ef525a5b5/assets/img/county-clusters.png)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <a href="/assets/presentations/A%20Deeper%20Look%20Into%20COVID-19%20Case%20and%20Death%20Rates%20in%20Pennsylvania%20.pdf" target="_blank">
