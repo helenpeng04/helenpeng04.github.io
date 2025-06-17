@@ -5,6 +5,15 @@ date: 2025-06-17
 tags: [presentation, covid]
 ---
 
-This project explores COVID-19 case and death patterns across Pennsylvania counties from April 2020 to December 2022. We examined how population size relates to per-capita case and death rates, and investigated whether a higher number of cases corresponds to more deaths. We used exploratory data analysis (EDA) and k-means clustering to uncover statistical patterns among counties.
-
+This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
 **Collaborators**: Lily Fransen and Maximus Liu
+
+![K-Means Clustering]()
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+  <a href="/assets/presentations/Mainstay%20Life%20Services.pdf" target="_blank">
+    <button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
+      <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
+      View Presentation
+    </button>
+  </a>
