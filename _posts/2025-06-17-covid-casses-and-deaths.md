@@ -11,9 +11,11 @@ This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Ap
 ![K-Means Clustering]()
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-  <a href="/assets/presentations/Mainstay%20Life%20Services.pdf" target="_blank">
+  <a href="/assets/presentations/A%20Deeper%20Look%20Into%20COVID-19%20Case%20and%20Death%20Rates%20in%20Pennsylvania%20.pdf" target="_blank">
     <button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
       <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
       View Presentation
     </button>
   </a>
+  
+ 
