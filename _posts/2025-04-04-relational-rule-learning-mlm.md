@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Impact of Rule Matching and Interleaved Pretraining on Task Accuracy
+title: Investigating Relational Rules
 date: 2025-04-04
-tags: [cognitive psychology, relational rule learning, report] 
+tags: [cognitive psychology, presentation] 
 ---
 
-Building on the relational rule learning dataset from last semester’s project, I used multilevel modeling in **R** to explore how rule matching and interleaved pretraining affect task accuracy. The results showed that rule matching significantly improved task accuracy, while interleaved pretraining did not have a significant effect. This was my first time working with multilevel models, which I learned through hands-on lab experience rather than formal coursework.
+This project investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.
 
 **Collaborators**: Julia Conti and Paulo Carvalho
 
 ![RRL Barplot](https://github.com/helenpeng04/helenpeng04.github.io/raw/68c672c49bfce0020072a287ae19bda3bd8f57e3/assets/img/rrl-spring25.png)
-
-<div style="text-align: center;">
-  <a href="/assets/reports/analysesS25.html" target="_blank">
-    <button class="cool-button" style="border: none; padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-      <img src="https://github.com/helenpeng04/helenpeng04.github.io/raw/800fee73711feae2c6080399db763b887f5732cd/assets/img/paper-icon.png" alt="Paper Logo" class="paper-logo" style="margin-right: 8px; width: 24px; height: 24px;"/>
-      View Report
-    </button>
-  </a>
-</div>
