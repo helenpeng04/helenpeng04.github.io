@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-This project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in *Gorilla*, with data cleaned in *Excel* and analyzed in *Jamovi*, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing.
+This project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in Gorilla, with data cleaned in Excel and analyzed in Jamovi, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing.
 
 **Course:** Research Methods in Cognitive Psychology  \
 **Instructor:** Abigail Noyce \

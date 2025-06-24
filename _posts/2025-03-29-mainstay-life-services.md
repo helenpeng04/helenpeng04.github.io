@@ -5,7 +5,7 @@ date: 2025-03-29
 tags: [healthcare, presentation, report]
 ---
 
-This project examines patterns in medical incidents, analyzing how needs levels, and time-to-report vary across different incident types and time. Using **R** for data analysis, we apply statistical techniques such as Fisher's exact tests, time series, survival analysis, and Kruskal-Wallis tests to uncover insights.
+This project examines patterns in medical incidents, analyzing how needs levels, and time-to-report vary across different incident types and time. We applied statistical techniques such as Fisher's exact tests, time series, survival analysis, and Kruskal-Wallis tests to uncover insights.
 I was specifically responsible for analyzing medication errors. Below, you'll find the full presentation we delivered to our nonprofit stakeholders, along with my detailed report on medication errors.
 
 **Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill

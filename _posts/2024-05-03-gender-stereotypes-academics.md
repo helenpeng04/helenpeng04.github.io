@@ -5,7 +5,7 @@ tags: [meta-analysis, paper]
 date: 2024-05-03
 ---
 
-This project investigates how gender stereotype threats affect academic outcomes using meta-analysis in *R*. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.
+This project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.
 
 **Course:** Research Methods: Meta-Analysis \
 **Instructor:** Phoebe Lam \

@@ -5,7 +5,7 @@ date: 2025-04-26
 tags: [report]
 ---
 
-Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a Random Forest classifier in **R** and achieved 78% prediction accuracy.
+Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a ranodm forest classifier and achieved 78% prediction accuracy.
 
 **Course:** Statistical Machine Learning \
 **Instructor:** Spencer Koerner \
