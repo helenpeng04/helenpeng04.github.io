@@ -6,6 +6,7 @@ tags: [report, covid]
 ---
 
 This project investigates how graduating during different phases of the COVID-19 pandemic (peak vs. decline) affects depression and hope levels among students. Using publicly available data, I applied PCA and logistic regression to analyze mental health outcomes. Results indicate that students who graduated during the pandemic’s decline in 2021 experienced greater psychological distress compared to those graduating at its peak in 2020.
+
 **Course:** Data Science in Psychology and Neuroscience \
 **Instructor:** Roberto Vargas
 
