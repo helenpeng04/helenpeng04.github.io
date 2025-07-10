@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/visual-search-proj/visual-search.html",
+    "href": "projects/visual-search-proj/visual-search.html",
+    "title": "Impact of Incentives on Visual Search Performance",
     "section": "",
-    "text": "Analyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\nCourse: Research Methods in Cognitive Psychology\nInstructor: Abigail Noyce\nTeammates: Cami Streuly, Shirley Du, and Cole Kaforey"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Helen Peng",
+    "section": "",
+    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of OAK Lab where I’m investigating relational rule learning.\n\nOutside of academics, my hobbies are simple: reading and watching dramas. I love how stories can often reflect patterns in human behavior, cultural norms, and interpersonal dynamics. You can check out some of my favorite books in the Bookshelf tab."
   },
   {
     "objectID": "bookshelf.html",
@@ -14,11 +21,11 @@
     "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n                            \n\n\n\nFavorite comics\nI’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved the way Magneto and Professor X parallel Malcolm X and Martin Luther King Jr. — that contrast in ideology makes the story hit deeper. I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Helen Peng",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of OAK Lab where I’m investigating relational rule learning.\n\nOutside of academics, my hobbies are simple: reading and watching dramas. I love how stories can often reflect patterns in human behavior, cultural norms, and interpersonal dynamics. You can check out some of my favorite books in the Bookshelf tab."
+    "text": "Analyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/pa-covid-eda/eda.html",

@@ -10,11 +10,5 @@ about:
     - icon: github
       text: "Github"
       href: "https://github.com/helenpeng04/obesity-capstone"
-    - icon: file-earmark-ppt
-      text: "Slides"
-      href: "https://docs.google.com"
-    - icon: file-code
-      text: "Report"
-      href: "https://docs.google.com"
 ---
 
