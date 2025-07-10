@@ -1,8 +1,8 @@
 {
-  "hash": "34b7f2602a1523603ae484cb0d7a5d1f",
+  "hash": "fd35b34ee275e223365561883b6e00f0",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Exploring COVID-19 Cases and Deaths in Pennsylvania\"\ndescription: \"SURE 2025 Project\"\ndate: 2025-06-17\nresources: \".\"\nabout: \n  template: solana\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/helenpeng04/pa-covid-eda\"\n    - icon: file-earmark-ppt\n      text: \"Slides\"\n      href: \"paper.pdf\"\n---\n\n\n\nThis project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.\n\n**Collaborators**: Lily Fransen and Maximus Liu\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Exploring COVID-19 Cases and Deaths in Pennsylvania\"\ndescription: \"SURE 2025 Project\"\ndate: 2025-06-17\nresources: \".\"\nabout: \n  template: solana\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/helenpeng04/pa-covid-eda\"\n    - icon: file-earmark-ppt\n      text: \"Slides\"\n      href: \"presentation.pdf\"\n---\n\n\n\nThis project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.\n\n**Collaborators**: Lily Fransen and Maximus Liu\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "eda_files"
     ],
