@@ -1,0 +1,20 @@
+---
+title: "Analyzing Obesity Rates Across America"
+description: "SURE 2025 Project"
+date: 2025-07-10
+resources: "."
+about: 
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/helenpeng04/obesity-capstone"
+    - icon: file-earmark-ppt
+      text: "Slides"
+      href: "https://docs.google.com"
+    - icon: file-code
+      text: "Report"
+      href: "https://docs.google.com"
+---
+
