@@ -7,7 +7,7 @@ about:
   template: solana
   links: 
   - icon: file-earmark-pdf
-    text: "Paper"
+    text: "Poster"
     href: poster.pdf
 ---
 

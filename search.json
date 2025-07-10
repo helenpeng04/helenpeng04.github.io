@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "projects/gender-memory-proj/gender-memory.html",
-    "href": "projects/gender-memory-proj/gender-memory.html",
-    "title": "Gender Stereotype Threats and Heading-Recall Task",
+    "objectID": "projects/relrule-proj/relrule.html",
+    "href": "projects/relrule-proj/relrule.html",
+    "title": "Investigating Relational Rule Learning",
     "section": "",
-    "text": "This project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in Gorilla, with data cleaned in Excel and analyzed in Jamovi, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing.\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
+    "text": "This project investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.\nCollaborators: Julia Conti and Paulo Carvalho"
   },
   {
-    "objectID": "projects/visual-search-proj/visual-search.html",
-    "href": "projects/visual-search-proj/visual-search.html",
-    "title": "Impact of Incentives on Visual Search Performance",
+    "objectID": "projects/gender-academic-proj/gender-academics.html",
+    "href": "projects/gender-academic-proj/gender-academics.html",
+    "title": "Gender Stereotype Threats and Academic Performance",
     "section": "",
-    "text": "This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\n\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
+    "text": "This project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.\nCollaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler"
+  },
+  {
+    "objectID": "projects/statml-flights-proj/statml-flights.html",
+    "href": "projects/statml-flights-proj/statml-flights.html",
+    "title": "Exploring COVID-19 Cases and Deaths in Pennsylvania",
+    "section": "",
+    "text": "Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a ranodm forest classifier and achieved 78% prediction accuracy.\nCollaborator: Emily Jiang"
+  },
+  {
+    "objectID": "projects/incident-records-mls/mainstay-life.html",
+    "href": "projects/incident-records-mls/mainstay-life.html",
+    "title": "Statistical Insights into Medical Incident Records",
+    "section": "",
+    "text": "This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Below are the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.\nCollaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill"
   },
   {
     "objectID": "index.html",
@@ -25,14 +39,35 @@
     "href": "bookshelf.html",
     "title": "Bookshelf",
     "section": "",
-    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n                            \n\n\n\nFavorite comics\nI’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved the way Magneto and Professor X parallel Malcolm X and Martin Luther King Jr. — that contrast in ideology makes the story hit deeper. I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
+    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n                           \n\n\n\nFavorite comics\nI’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved the way Magneto and Professor X parallel Malcolm X and Martin Luther King Jr. — that contrast in ideology makes the story hit deeper. I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\ngender-academics\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nStatistical Machine Learning Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nClub Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nClub Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/mental-health-covid/mental-health-covid.html",
+    "href": "projects/mental-health-covid/mental-health-covid.html",
+    "title": "Exploring Mental Health Among COVID-19 Graduates",
+    "section": "",
+    "text": "This project investigates how graduating during different phases of the COVID-19 pandemic (peak vs. decline) affects depression and hope levels among students. Using publicly available data, I applied PCA and logistic regression models to analyze mental health outcomes. Results indicate that students who graduated during the pandemic’s decline in 2021 experienced greater psychological distress compared to those graduating at its peak in 2020."
+  },
+  {
+    "objectID": "projects/visual-search-proj/visual-search.html",
+    "href": "projects/visual-search-proj/visual-search.html",
+    "title": "Impact of Incentives on Visual Search Performance",
+    "section": "",
+    "text": "This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\n\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
+  },
+  {
+    "objectID": "projects/gender-memory-proj/gender-memory.html",
+    "href": "projects/gender-memory-proj/gender-memory.html",
+    "title": "Gender Stereotype Threats and Heading-Recall Task",
+    "section": "",
+    "text": "This project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in Gorilla, with data cleaned in Excel and analyzed in Jamovi, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing.\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
   },
   {
     "objectID": "projects/pa-covid-eda/eda.html",
