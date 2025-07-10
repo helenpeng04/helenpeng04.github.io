@@ -7,7 +7,7 @@ about:
   template: solana
   links: 
   - icon: file-earmark-ppt
-    text: "Presentation"
+    text: "Slides"
     href: projects/incident-records-mls/presentation.pdf
   - icon: file-code
     text: "Report"
