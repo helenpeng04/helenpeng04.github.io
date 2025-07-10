@@ -10,7 +10,7 @@ about:
     - icon: envelope
       href: mailto::hwpeng@andrew.cmu.edu
     - icon: linkedin
-      href: www.linkedin.com/in/helenpeng04
+      href: https://www.linkedin.com/in/helenpeng04
       target: blank
 format:
   html:
