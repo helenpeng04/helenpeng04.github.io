@@ -1,0 +1,22 @@
+---
+title: "Helen Peng"
+subtitle: "Senior Statistics Major | Aspiring Biostatistician"
+about:
+  template: jolla
+  image: assets/profilepic.jpg
+  links:
+    - icon: github
+      href: https://github.com/helenpeng04
+    - icon: envelope
+      href: mailto::hwpeng@andrew.cmu.edu
+    - icon: linkedin
+      href: www.linkedin.com/in/helenpeng04
+      target: blank
+format:
+  html:
+    toc: false
+---
+
+I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of [OAK Lab](https://www.theoaklab.org/) where I'm investigating relational rule learning.\
+\
+Outside of academics, my hobbies are simple: reading and watching dramas. I love how stories can often reflect patterns in human behavior, cultural norms, and interpersonal dynamics. You can check out some of my favorite books in the Bookshelf tab.

@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "**helenpeng04**"
+  navbar:
+    background: "#000000"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: bookshelf.qmd
+        text: Bookshelf
+      - href: assets/helenpeng-CV.pdf
+        text: CV
+        target: blank
+    right: 
+      - icon: github
+        href: https://www.github.com/helenpeng04
+        target: blank
+      - icon: envelope
+        href: mailto::hwpeng@andrew.cmu.edu
+        target: blank
+      - icon: linkedin
+        href: www.linkedin.com/in/helenpeng04
+        target: blank
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
