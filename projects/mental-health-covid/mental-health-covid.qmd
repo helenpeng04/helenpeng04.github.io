@@ -19,6 +19,4 @@ library(grid)
 
 img <- readPNG("cover.png")
 grid.raster(img)
-
-
 ```

@@ -1,0 +1,17 @@
+{
+  "hash": "ecf508e5c9bc8c9460cc84a26f8c1d83",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Exploring Mental Health Among COVID-19 Graduates\"\ndescription: Club Project\ndate: 2025-05-01\nresources: \".\"\nabout: \n  template: solana\n  links: \n  - icon: file-code\n    text: \"Report\"\n    href: projects/mental-health-covid/DSPN_Project.html\n---\n\n\n\nThis project investigates how graduating during different phases of the COVID-19 pandemic (peak vs. decline) affects depression and hope levels among students. Using publicly available data, I applied PCA and logistic regression models to analyze mental health outcomes. Results indicate that students who graduated during the pandemic’s decline in 2021 experienced greater psychological distress compared to those graduating at its peak in 2020.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](mental-health-covid_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "mental-health-covid_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
