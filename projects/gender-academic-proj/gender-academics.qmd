@@ -8,9 +8,17 @@ about:
   links: 
   - icon: file-earmark-pdf
     text: "Paper"
-    href: paper.pdf
+    href: projects/gender-academic-proj/paper.pdf
 ---
 
 This project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.
 
 **Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler
+
+```{r echo = FALSE}
+library(png)  
+library(grid)
+
+img <- readPNG("cover.png")
+grid.raster(img)
+```

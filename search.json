@@ -25,7 +25,7 @@
     "href": "projects/incident-records-mls/mainstay-life.html",
     "title": "Statistical Insights into Medical Incident Records",
     "section": "",
-    "text": "This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Below are the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.\nCollaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill"
+    "text": "This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Here you can find the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.\nCollaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill"
   },
   {
     "objectID": "index.html",
