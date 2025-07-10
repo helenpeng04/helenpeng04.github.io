@@ -5,20 +5,24 @@ date: 2025-06-17
 resources: "."
 about: 
   template: solana
-  image: cover.png
   links:
     - icon: github
       text: "Github"
       href: "https://github.com/helenpeng04/pa-covid-eda"
     - icon: file-earmark-ppt
       text: "Slides"
-      href: "https://docs.google.com"
+      href: "paper.pdf"
 ---
 This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
 ```{r echo = FALSE}
-hist(rnorm(100))
+library(png)  
+library(grid)
+
+img <- readPNG("cover.png")
+grid.raster(img)
+
 ```
 
