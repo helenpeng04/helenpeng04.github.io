@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Obesity Rates Across America"
 description: "SURE 2025 Project"
-date: 2025-07-10
+date: 2025-07-25
 resources: "."
 about: 
   template: solana
