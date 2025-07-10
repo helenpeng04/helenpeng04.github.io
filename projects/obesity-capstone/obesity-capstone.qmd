@@ -11,4 +11,3 @@ about:
       text: "Github"
       href: "https://github.com/helenpeng04/obesity-capstone"
 ---
-
