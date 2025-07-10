@@ -1,0 +1,16 @@
+---
+title: "Statistical Insights into Medical Incident Records"
+description: Club Project
+date: 2025-03-29
+resources: "."
+about: 
+  template: solana
+  links: 
+  - icon: file-earmark-pdf
+    text: "Paper"
+    href: poster.pdf
+---
+
+This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Below are the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.
+
+**Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill

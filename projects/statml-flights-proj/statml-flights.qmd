@@ -1,0 +1,19 @@
+---
+title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
+description: "Statistical Machine Learning Project"
+date: 2025-04-26
+resources: "."
+about: 
+  template: solana
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/helenpeng04/pa-covid-eda"
+    - icon: file-earmark-ppt
+      text: "Slides"
+      href: /presentation.pdf
+---
+
+Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a ranodm forest classifier and achieved 78% prediction accuracy.
+
+**Collaborator**: Emily Jiang
