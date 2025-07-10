@@ -41,3 +41,9 @@ Widget by <a href="https://www.goodreads.com/quotes">Goodreads</a>
 ### Favorite Comics
 
 I’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved the way Magneto and Professor X parallel Malcolm X and Martin Luther King Jr. — that contrast in ideology makes the story hit deeper. I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive (well eventually... under construction)
+
+<div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+  <img src="comics/panel1.jpg" alt="Comic panel 1" style="height: 200px; margin-right: 10px;">
+  <img src="comics/panel2.jpg" alt="Comic panel 2" style="height: 200px; margin-right: 10px;">
+  <img src="comics/panel3.jpg" alt="Comic panel 3" style="height: 200px; margin-right: 10px;">
+</div>
