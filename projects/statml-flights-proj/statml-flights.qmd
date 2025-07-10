@@ -8,7 +8,7 @@ about:
   links:
     - icon: file-code
       text: "Report"
-      href: projects/statml-flights-proj/StatML-Project.html
+      href: projects/statml-flights-proj/StatML_Project.html
 ---
 
 Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.

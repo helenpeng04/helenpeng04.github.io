@@ -8,7 +8,7 @@ about:
   links: 
   - icon: file-earmark-pdf
   - text: "Paper"
-  - href: paper.pdf
+  - href: projects/visual-search-proj/paper.pdf
 ---
 
 This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\
