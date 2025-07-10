@@ -1,7 +1,6 @@
 ---
 title: "Bookshelf"
-subtitle: "Under Construction"
-## subtitle: "Where you'll find all the books I love to read!"
+subtitle: "Where you'll find all the books I love to read!"
 format:
   html:
     toc: false

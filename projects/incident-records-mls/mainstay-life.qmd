@@ -6,11 +6,22 @@ resources: "."
 about: 
   template: solana
   links: 
-  - icon: file-earmark-pdf
-    text: "Paper"
-    href: poster.pdf
+  - icon: file-earmark-ppt
+    text: "Presentation"
+    href: projects/incident-records-mls/presentation.pdf
+  - icon: file-code
+    text: "Report"
+    href: projects/incident-records-mls/Mainstay_MedError.html
 ---
 
-This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Below are the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.
+This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Here you can find the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.
 
 **Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill
+
+```{r echo = FALSE}
+library(png)  
+library(grid)
+
+img <- readPNG("cover.png")
+grid.raster(img)
+```

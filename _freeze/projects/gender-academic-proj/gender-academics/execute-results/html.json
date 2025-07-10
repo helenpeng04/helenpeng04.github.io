@@ -1,0 +1,17 @@
+{
+  "hash": "1de4664740439b53feabf403b98553f2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Gender Stereotype Threats and Academic Performance\"\ndescription: Research Methods in Meta-Analysis Project\ndate: 2024-05-03\nresources: \".\"\nabout: \n  template: solana\n  links: \n  - icon: file-earmark-pdf\n    text: \"Paper\"\n    href: projects/gender-academic-proj/paper.pdf\n---\n\n\n\nThis project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.\n\n**Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](gender-academics_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "gender-academics_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
