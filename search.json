@@ -4,7 +4,7 @@
     "href": "projects/relrule-proj/relrule.html",
     "title": "Investigating Relational Rule Learning",
     "section": "",
-    "text": "This project investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.\nCollaborators: Julia Conti and Paulo Carvalho"
+    "text": "This project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.\nCollaborators: Julia Conti and Paulo Carvalho"
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "projects/statml-flights-proj/statml-flights.html",
     "href": "projects/statml-flights-proj/statml-flights.html",
-    "title": "Exploring COVID-19 Cases and Deaths in Pennsylvania",
+    "title": "Predicting Flight Delays in Pittsburgh",
     "section": "",
-    "text": "Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a ranodm forest classifier and achieved 78% prediction accuracy.\nCollaborator: Emily Jiang"
+    "text": "Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.\nCollaborator: Emily Jiang"
   },
   {
     "objectID": "projects/incident-records-mls/mainstay-life.html",
@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nStatistical Machine Learning Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nClub Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nClub Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Impact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nClub Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nClub Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing Obesity Rates Across America\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 10, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/mental-health-covid/mental-health-covid.html",
