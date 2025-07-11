@@ -15,7 +15,7 @@ This project explores the effects of incentives on visual search performance. Th
 \
 **Collaborators:** Cami Streuly, Shirley Du, and Cole Kaforey
 
-```{r echo = FALSE}
+```{r echo = FALSE, fig.align="center"}
 library(png)  
 library(grid)
 
