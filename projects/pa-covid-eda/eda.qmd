@@ -13,9 +13,13 @@ about:
     - icon: file-earmark-ppt
       text: "Slides"
       href: projects/pa-covid-eda/presentation.pdf
+authors:
+  - name: Helen Peng
+  - name: Lily Fransen
+  - name: Maximus Liu
 ---
 
-```{r echo = FALSE}
+```{r include = FALSE}
 library(png)  
 library(grid)
 
