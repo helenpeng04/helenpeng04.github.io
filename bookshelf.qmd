@@ -68,13 +68,12 @@ I’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, w
 
 ```{=html}
 <style>
-    img {
-      max-width: 100px;
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-    }
-  </style>
+  /* Optional: keep images aligned and with some margin */
+  img {
+    object-fit: contain;
+    vertical-align: middle;
+  }
+</style>
 ```
 
 ```{r}

@@ -1,9 +1,9 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
 resources: "."
+date: 2025-06-17
 about: 
   template: solana
-  image: cover.png
   links:
     - icon: github
       text: "Github"
@@ -17,7 +17,7 @@ This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Ap
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
-```{r include = FALSE}
+```{r echo = FALSE}
 library(png)  
 library(grid)
 
