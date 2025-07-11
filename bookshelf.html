@@ -389,13 +389,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>I’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved the way Magneto and Professor X parallel Malcolm X and Martin Luther King Jr.&nbsp;— that contrast in ideology makes the story hit deeper. I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive (well eventually… under construction)</p>
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
 <style>
-    img {
-      max-width: 100px;
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-    }
-  </style>
+  /* Optional: keep images aligned and with some margin */
+  img {
+    object-fit: contain;
+    vertical-align: middle;
+  }
+</style>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>imgs <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="st">"comics"</span>, <span class="at">pattern =</span> <span class="st">"</span><span class="sc">\\</span><span class="st">.(png|jpg)$"</span>, <span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>htmltools<span class="sc">::</span><span class="fu">HTML</span>(<span class="fu">paste</span>(<span class="fu">sprintf</span>(<span class="st">'&lt;img src="%s" style="height: 200px; margin-right: 10px;"&gt;'</span>, imgs), <span class="at">collapse =</span> <span class="st">""</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
