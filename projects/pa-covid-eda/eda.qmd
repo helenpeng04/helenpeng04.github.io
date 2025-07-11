@@ -1,7 +1,5 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
-description: "This project analyzes COVID-19 cases and deaths across Pennsylvania counties. We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns."
-date: 2025-06-17
 resources: "."
 about: 
   template: solana
@@ -13,11 +11,11 @@ about:
     - icon: file-earmark-ppt
       text: "Slides"
       href: projects/pa-covid-eda/presentation.pdf
-authors:
-  - name: Helen Peng
-  - name: Lily Fransen
-  - name: Maximus Liu
 ---
+
+This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
+
+**Collaborators**: Lily Fransen and Maximus Liu
 
 ```{r include = FALSE}
 library(png)  
@@ -25,7 +23,4 @@ library(grid)
 
 img <- readPNG("cover.png")
 grid.raster(img)
-
-# This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
-# Collaborators: Lily Fransen and Maximus Liu
 ```
