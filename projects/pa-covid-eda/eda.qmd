@@ -1,10 +1,11 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
-description: "SURE 2025 Project"
+description: "This project analyzes COVID-19 cases and deaths across Pennsylvania counties. We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns."
 date: 2025-06-17
 resources: "."
 about: 
   template: solana
+  image: cover.png
   links:
     - icon: github
       text: "Github"
@@ -14,14 +15,13 @@ about:
       href: projects/pa-covid-eda/presentation.pdf
 ---
 
-This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
-
-**Collaborators**: Lily Fransen and Maximus Liu
-
 ```{r echo = FALSE}
 library(png)  
 library(grid)
 
 img <- readPNG("cover.png")
 grid.raster(img)
+
+# This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
+# Collaborators: Lily Fransen and Maximus Liu
 ```
