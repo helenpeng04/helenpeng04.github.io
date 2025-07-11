@@ -1,5 +1,6 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
+description: "SURE 2025 Project"
 resources: "."
 date: 2025-06-17
 about: 
@@ -17,7 +18,7 @@ This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Ap
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
-```{r echo = FALSE}
+```{r echo = FALSE, fig.align="center"}
 library(png)  
 library(grid)
 

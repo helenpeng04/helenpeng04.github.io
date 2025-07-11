@@ -15,7 +15,7 @@ This project conducted over two semesters investigates relational rule learning 
 
 **Collaborators**: Julia Conti and Paulo Carvalho
 
-```{r echo=FALSE}
+```{r echo = FALSE, fig.align="center"}
 library(png)  
 library(grid)
 

@@ -1,8 +1,8 @@
 {
-  "hash": "faa48ea87ce982c5a30f37461c57e661",
+  "hash": "ef33553b4160e0874af954f5b99c5cb5",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Predicting Flight Delays in Pittsburgh\"\ndescription: \"Statistical Machine Learning Project\"\ndate: 2025-04-26\nresources: \".\"\nabout: \n  template: solana\n  links:\n    - icon: file-code\n      text: \"Report\"\n      href: projects/statml-flights-proj/StatML_Project.html\n---\n\n\n\nUsing real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.\n\n**Collaborator**: Emily Jiang\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](statml-flights_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Predicting Flight Delays in Pittsburgh\"\ndescription: \"Statistical Machine Learning Project\"\ndate: 2025-04-26\nresources: \".\"\nabout: \n  template: solana\n  links:\n    - icon: file-code\n      text: \"Report\"\n      href: projects/statml-flights-proj/StatML_Project.html\n---\n\n\n\nUsing real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.\n\n**Collaborator**: Emily Jiang\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](statml-flights_files/figure-html/unnamed-chunk-1-1.png){fig-align='center' width=672}\n:::\n:::\n",
     "supporting": [
       "statml-flights_files"
     ],

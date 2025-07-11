@@ -15,7 +15,7 @@ This project investigates how gender stereotype threats affect academic outcomes
 
 **Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler
 
-```{r echo = FALSE}
+```{r echo = FALSE, fig.align="center"}
 library(png)  
 library(grid)
 
