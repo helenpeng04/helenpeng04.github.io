@@ -6,7 +6,7 @@ resources: "."
 about: 
   template: solana
   links: 
-  - icon: file-earmark-pdf
+  - icon: file-easel
     text: "Poster"
     href: projects/gender-memory-proj/poster.pdf
 ---

@@ -10,4 +10,13 @@ about:
     - icon: github
       text: "Github"
       href: "https://github.com/helenpeng04/obesity-capstone"
+    - icon: file-earmark-ppt
+      text: "Presentation"
+      href: blank
+    - icon: file-easel
+      text: "Poster"
+      href: blank
+    - icon: file-earmark-pdf
+      text: "Report"
+      href: blank
 ---
