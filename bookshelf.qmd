@@ -1,6 +1,6 @@
 ---
 title: "Bookshelf"
-subtitle: "Still under construction"
+subtitle: "Where you'll find all my favorites"
 format:
   html:
     toc: false
@@ -68,6 +68,11 @@ I’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, w
 
 ```{r echo = FALSE}
 imgs <- list.files("comics", pattern = "\\.(png|jpg)$", full.names = TRUE)
-htmltools::HTML(paste(sprintf('<img src="%s" style="height: 200px; margin-right: 10px;">', imgs), collapse = ""))
+
+htmltools::HTML(paste(sprintf(
+  '<div style="height: 200px; width: auto; display: inline-block; margin-right: 10px; background: #f8f8f8; vertical-align: middle;">
+     <img src="%s" style="max-height: 100%%; max-width: 100%%; display: block; margin: auto; object-fit: contain;">
+   </div>', imgs), collapse = ""))
+
 ```
 :::
