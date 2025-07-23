@@ -3,6 +3,7 @@ title: "Impact of Incentives on Visual Search Performance"
 description: Research Methods in Cognitive Psychology Project
 date: 2024-04-01
 resources: "."
+image: cover.png
 about: 
   template: solana
   links: 
@@ -11,14 +12,6 @@ about:
     href: projects/visual-search-proj/paper.pdf
 ---
 
-This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\
-\
 **Collaborators:** Cami Streuly, Shirley Du, and Cole Kaforey
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| fig-width: 5
-#| fig-height: 3.5
-knitr::include_graphics("cover.png")
-```
+This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\

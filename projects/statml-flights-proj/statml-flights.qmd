@@ -3,6 +3,7 @@ title: "Predicting Flight Delays in Pittsburgh"
 description: "Statistical Machine Learning Project"
 date: 2025-04-26
 resources: "."
+image: cover.png
 about: 
   template: solana
   links:
@@ -11,14 +12,6 @@ about:
       href: projects/statml-flights-proj/StatML_Project.html
 ---
 
-Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.
-
 **Collaborator**: Emily Jiang
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| fig-width: 5
-#| fig-height: 3.5
-knitr::include_graphics("cover.png")
-```
+Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.
