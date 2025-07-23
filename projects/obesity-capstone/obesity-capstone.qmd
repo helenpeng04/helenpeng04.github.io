@@ -23,5 +23,7 @@ about:
 This project investigates county-level determinants of adult obesity in the U.S., focusing on physical inactivity and access to healthy food. Using the 2025 County Health Rankings & Roadmaps dataset, we performed exploratory analyses (scatter plots, correlation matrix) and fitted a Huber regression model to identify which predictors best explain regional variation in obesity rates. While we observed strong associations, our analysis is correlational, not causal.
 
 ```{r echo = FALSE, fig.align="center"}
+#| fig-width: 5
+#| fig-height: 3.5
 knitr::include_graphics("cover.png")
 ```
