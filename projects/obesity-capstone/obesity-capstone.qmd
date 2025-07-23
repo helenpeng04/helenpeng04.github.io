@@ -1,5 +1,5 @@
 ---
-title: "Examining Lifestyle and Health Predictors of Obesity Rates Across America"
+title: "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors"
 description: "SURE 2025 Project"
 date: 2025-07-25
 resources: "."
@@ -18,5 +18,15 @@ about:
       href: blank
     - icon: file-earmark-pdf
       text: "Report"
-      href: blank
+      href: projects/obesity-capstone/poster.pdf
 ---
+
+This project investigates county-level determinants of adult obesity in the U.S., focusing on physical inactivity and access to healthy food. Using the 2025 County Health Rankings & Roadmaps dataset, we performed exploratory analyses (scatter plots, correlation matrix) and fitted a Huber regression model to identify which predictors best explain regional variation in obesity rates. While we observed strong associations, our analysis is correlational, not causal.
+
+```{r echo = FALSE, fig.align="center"}
+library(png)  
+library(grid)
+
+img <- readPNG("cover.png")
+grid.raster(img)
+```
