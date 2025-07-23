@@ -15,6 +15,10 @@ Using real data from 2022 and 2023, this project predicts 2024 flight delays fro
 
 **Collaborator**: Emily Jiang
 
-```{r echo = FALSE, fig.align="center"}
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| fig-width: 5
+#| fig-height: 3.5
 knitr::include_graphics("cover.png")
 ```

@@ -15,6 +15,10 @@ This project investigates the impact of gender stereotype threat on memory perfo
 
 **Collaborators**: Cami Streuly, Shirley Du, and Cole Kaforey
 
-```{r echo = FALSE, fig.align="center"}
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| fig-width: 5
+#| fig-height: 3.5
 knitr::include_graphics("cover.png")
 ```
