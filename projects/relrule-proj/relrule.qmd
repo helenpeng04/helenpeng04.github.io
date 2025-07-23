@@ -15,6 +15,10 @@ This project conducted over two semesters investigates relational rule learning 
 
 **Collaborators**: Julia Conti and Paulo Carvalho
 
-```{r echo = FALSE, fig.align="center"}
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| fig-width: 5
+#| fig-height: 3.5
 knitr::include_graphics("cover.png")
 ```

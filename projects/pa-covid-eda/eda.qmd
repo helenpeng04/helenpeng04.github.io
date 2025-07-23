@@ -18,6 +18,10 @@ This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Ap
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
-```{r echo = FALSE, fig.align="center"}
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| fig-width: 5
+#| fig-height: 3.5
 knitr::include_graphics("cover.png")
 ```
