@@ -18,28 +18,28 @@
     "href": "projects/incident-records-mls/mainstay-life.html",
     "title": "Statistical Insights into Medical Incident Records",
     "section": "",
-    "text": "This project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Here you can find the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings.\nCollaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill"
+    "text": "Collaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill\nThis project analyzed medical incident patterns, focusing on needs levels and time-to-report across types and time. We used statistical tests like Fisher’s exact, time series, survival analysis, and Kruskal-Wallis. I specifically handled medication error analysis. Here you can find the presentation and my detailed report for our nonprofit partner, Mainstay Life Services, which supports individuals with intellectual disabilities and autism in residential or home settings."
   },
   {
     "objectID": "projects/statml-flights-proj/statml-flights.html",
     "href": "projects/statml-flights-proj/statml-flights.html",
     "title": "Predicting Flight Delays in Pittsburgh",
     "section": "",
-    "text": "Using real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy.\nCollaborator: Emily Jiang"
+    "text": "Collaborator: Emily Jiang\nUsing real data from 2022 and 2023, this project predicts 2024 flight delays from Pittsburgh International Airport. We trained a random forest classifier and achieved 78% prediction accuracy."
   },
   {
     "objectID": "projects/visual-search-proj/visual-search.html",
     "href": "projects/visual-search-proj/visual-search.html",
     "title": "Impact of Incentives on Visual Search Performance",
     "section": "",
-    "text": "This project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant.\n\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nThis project explores the effects of incentives on visual search performance. The task was developed using Gorilla, and data were analyzed in Jamovi. Findings indicate that while incentives may affect search efficiency, their overall impact on performance was modest and not statistically significant."
   },
   {
     "objectID": "projects/relrule-proj/relrule.html",
     "href": "projects/relrule-proj/relrule.html",
     "title": "Investigating Relational Rule Learning",
     "section": "",
-    "text": "This project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.\nCollaborators: Julia Conti and Paulo Carvalho"
+    "text": "Collaborators: Julia Conti and Paulo Carvalho\nThis project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework."
   },
   {
     "objectID": "index.html",
@@ -53,34 +53,34 @@
     "href": "projects/gender-memory-proj/gender-memory.html",
     "title": "Gender Stereotype Threats and Heading-Recall Task",
     "section": "",
-    "text": "This project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in Gorilla, with data cleaned in Excel and analyzed in Jamovi, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing.\nCollaborators: Cami Streuly, Shirley Du, and Cole Kaforey"
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nThis project investigates the impact of gender stereotype threat on memory performance through a heading recall task. Conducted in Gorilla, with data cleaned in Excel and analyzed in Jamovi, the results revealed non-significant but suggestive trends in how stereotype threat may influence memory processing."
   },
   {
     "objectID": "projects/obesity-capstone/obesity-capstone.html",
     "href": "projects/obesity-capstone/obesity-capstone.html",
     "title": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors",
     "section": "",
-    "text": "This project investigates county-level determinants of adult obesity in the U.S., focusing on physical inactivity and access to healthy food. Using the 2025 County Health Rankings & Roadmaps dataset, we performed exploratory analyses (scatter plots, correlation matrix) and fitted a Huber regression model to identify which predictors best explain regional variation in obesity rates. While we observed strong associations, our analysis is correlational, not causal.\nCollaborators: Anvith Thumma and Jordan Faustin"
+    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project investigates county-level determinants of adult obesity in the U.S., focusing on physical inactivity and access to healthy food. Using the 2025 County Health Rankings & Roadmaps dataset, we performed exploratory analyses (scatter plots, correlation matrix) and fitted a Huber regression model to identify which predictors best explain regional variation in obesity rates. While we observed strong associations, our analysis is correlational, not causal."
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
     "href": "projects/gender-academic-proj/gender-academics.html",
     "title": "Gender Stereotype Threats and Academic Performance",
     "section": "",
-    "text": "This project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.\nCollaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler"
+    "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nThis project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis."
   },
   {
     "objectID": "projects/pa-covid-eda/eda.html",
     "href": "projects/pa-covid-eda/eda.html",
     "title": "Exploring COVID-19 Cases and Deaths in Pennsylvania",
     "section": "",
-    "text": "This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.\nCollaborators: Lily Fransen and Maximus Liu"
+    "text": "Collaborators: Lily Fransen and Maximus Liu\nThis project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nClub Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nSURE 2025 Project\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nClub Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]

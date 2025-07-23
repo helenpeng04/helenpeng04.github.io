@@ -3,6 +3,7 @@ title: "Investigating Relational Rule Learning"
 description: "OAK Lab Project"
 date: 2025-04-04
 resources: "."
+image: cover.png
 about: 
   template: solana
   links:
@@ -11,14 +12,6 @@ about:
       href: projects/relrule-proj/presentation.pdf
 ---
 
-This project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.
-
 **Collaborators**: Julia Conti and Paulo Carvalho
 
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| fig-width: 5
-#| fig-height: 3.5
-knitr::include_graphics("cover.png")
-```
+This project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.

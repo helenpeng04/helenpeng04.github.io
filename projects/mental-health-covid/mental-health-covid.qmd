@@ -3,6 +3,7 @@ title: "Exploring Mental Health Among COVID-19 Graduates"
 description: Data Science in Psychology and Neuroscience Project
 date: 2025-05-01
 resources: "."
+image: cover.png
 about: 
   template: solana
   links: 
@@ -12,11 +13,3 @@ about:
 ---
 
 This project investigates how graduating during different phases of the COVID-19 pandemic (peak vs. decline) affects depression and hope levels among students. Using publicly available data, I applied PCA and logistic regression models to analyze mental health outcomes. Results indicate that students who graduated during the pandemic’s decline in 2021 experienced greater psychological distress compared to those graduating at its peak in 2020.
-
-```{r}
-#| echo: false
-#| fig-align: "center"
-#| fig-width: 5
-#| fig-height: 3.5
-knitr::include_graphics("cover.png")
-```
