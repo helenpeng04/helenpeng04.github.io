@@ -19,9 +19,5 @@ This project analyzed medical incident patterns, focusing on needs levels and ti
 **Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill
 
 ```{r echo = FALSE, fig.align="center"}
-library(png)  
-library(grid)
-
-img <- readPNG("cover.png")
-grid.raster(img)
+knitr::include_graphics("cover.png")
 ```
