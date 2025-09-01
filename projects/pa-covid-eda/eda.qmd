@@ -1,6 +1,6 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
-description: "SURE 2025 Project"
+description: "Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program"
 resources: "."
 image: cover.png
 date: 2025-06-17
@@ -17,4 +17,4 @@ about:
 
 **Collaborators**: Lily Fransen and Maximus Liu
 
-This project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.
+This project analyzed COVID-19 cases and deaths across Pennsylvania counties from April 2020 to December 2022. Our team examined how population size relates to per-capita case and death rates and whether higher case counts correspond to higher deaths. Using exploratory data analysis methods and k-means clustering, we identified county-level patterns and trends across the state.

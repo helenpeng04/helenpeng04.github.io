@@ -1,6 +1,6 @@
 ---
 title: "Gender Stereotype Threats and Academic Performance"
-description: Research Methods in Meta-Analysis Project
+description: Research Methods in Meta-Analysis Class Project
 date: 2024-05-03
 resources: "."
 image: cover.png
@@ -12,6 +12,7 @@ about:
     href: projects/gender-academic-proj/paper.pdf
 ---
 
-**Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler
+**Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\
+**Instructor:** Phoebe Lam
 
-This project investigates how gender stereotype threats affect academic outcomes using meta-analysis tehcniques in R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, despite limited data for subgroup analysis.
+This project investigated how gender stereotype threats affect academic outcomes through a meta-analysis. Our team screened 117 studies and independently extracted effect sizes from 13 peer-reviewed articles. Using R, we synthesized the data to evaluate intervention effects. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by sample size.
