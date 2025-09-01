@@ -1,6 +1,6 @@
 ---
 title: "Exploring Mental Health Among COVID-19 Graduates"
-description: Data Science in Psychology and Neuroscience Project
+description: Data Science in Psychology and Neuroscience Class Project
 date: 2025-05-01
 resources: "."
 image: cover.png
@@ -12,4 +12,6 @@ about:
     href: projects/mental-health-covid/DSPN_Project.html
 ---
 
-This project investigates how graduating during different phases of the COVID-19 pandemic (peak vs. decline) affects depression and hope levels among students. Using publicly available data, I applied PCA and logistic regression models to analyze mental health outcomes. Results indicate that students who graduated during the pandemic’s decline in 2021 experienced greater psychological distress compared to those graduating at its peak in 2020.
+**Instructor:** Roberto Vargas
+
+This independent project examined mental health differences between the undergraduate classes of 2020 and 2021, who graduated during different phases of the COVID-19 pandemic (peak vs. decline). I evaluated 100+ survey responses and applied statistical modeling (PCA, logistic regression) and bootstrap sampling techniques in R to build and validate five predictive models. Results suggested that students graduating during the pandemic’s decline experienced greater psychological distress compared to those graduating at its peak.
