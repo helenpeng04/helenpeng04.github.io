@@ -1,6 +1,6 @@
 ---
 title: "Exploring COVID-19 Cases and Deaths in Pennsylvania"
-description: "SURE 2025 Project"
+description: "Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program"
 resources: "."
 image: cover.png
 date: 2025-06-17
