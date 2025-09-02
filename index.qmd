@@ -17,6 +17,6 @@ format:
     toc: false
 ---
 
-I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of [OAK Lab](https://www.theoaklab.org/) where I'm investigating relational rule learning.
+I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of [OAK Lab](https://www.theoaklab.org/) where I'm investigating relational rule learning, how people learn and discover complex rules.
 
-Outside of academics, I spend my time exploring stories—through books, TV shows, and media—that reveal how people think, connect, and navigate the world. If you’re curious, you can find a few of my favorites under the bookshelf tab.
+Outside of academics, I spend my time exploring stories, through books, TV shows, and media, that reveal how people think, connect, and navigate the world. If you’re curious, you can find a few of my favorites under the bookshelf tab.
