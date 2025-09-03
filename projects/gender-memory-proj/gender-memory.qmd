@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Gender Stereotype Threat on Heading Recall Performance"
+title: "Navigating Stereotype Threats in Heading Recall Performance"
 description: Research Methods in Cognitive Psychology Class Project
 date: 2024-04-26
 resources: "."
