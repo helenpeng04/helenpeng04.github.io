@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nStudents Using Data for Social Good Club Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining Gender Stereotype Threats on Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNavigating Stereotype Threats in Heading Recall Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nStudents Using Data for Social Good Club Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining Gender Stereotype Threats on Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNavigating Stereotype Threats in Heading Recall Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/gender-memory-proj/gender-memory.html",
@@ -35,13 +35,6 @@
     "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis project predicted flight delays at Pittsburgh International Airport using historical data from 2022 and 2023. My partner and I trained a random forest classifier to forecast 2024 delays, achieving 78% prediction accuracy. The project provided hands-on experience applying machine learning techniques to real-world transportation data."
   },
   {
-    "objectID": "projects/visual-search-proj/visual-search.html",
-    "href": "projects/visual-search-proj/visual-search.html",
-    "title": "Impact of Incentives on Visual Search Performance",
-    "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project examined whether incentives improve visual search efficiency. We collected data from participants completing multiple search trials in Gorilla, then cleaned and analyzed the dataset in Jamovi using ANOVA. While incentives showed some influence on efficiency, their overall impact on performance was modest and not statistically significant, likely due in part to the limited sample size."
-  },
-  {
     "objectID": "bookshelf.html",
     "href": "bookshelf.html",
     "title": "Bookshelf",
@@ -49,11 +42,11 @@
     "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Beyond the powers and fight scenes, what sticks with me is how it reflects real-world struggles faced by marginalized communities. I’ve always loved how Magneto and Professor X parallel Malcolm X and Martin Luther King Jr. That contrast in ideology makes the story hit harder. I love the series so much that I used to have a whole screenshot stash of the funniest X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
   },
   {
-    "objectID": "projects/pa-covid-eda/eda.html",
-    "href": "projects/pa-covid-eda/eda.html",
-    "title": "Exploring COVID-19 Cases and Deaths in Pennsylvania",
+    "objectID": "projects/visual-search-proj/visual-search.html",
+    "href": "projects/visual-search-proj/visual-search.html",
+    "title": "Impact of Incentives on Visual Search Performance",
     "section": "",
-    "text": "Collaborators: Lily Fransen and Maximus Liu\nThis project analyzed COVID-19 cases and deaths across Pennsylvania counties from April 2020 to December 2022. Our team examined how population size relates to per-capita case and death rates and whether higher case counts correspond to higher deaths. Using exploratory data analysis methods and k-means clustering, we identified county-level patterns and trends across the state."
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project examined whether incentives improve visual search efficiency. We collected data from participants completing multiple search trials in Gorilla, then cleaned and analyzed the dataset in Jamovi using ANOVA. While incentives showed some influence on efficiency, their overall impact on performance was modest and not statistically significant, likely due in part to the limited sample size."
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
