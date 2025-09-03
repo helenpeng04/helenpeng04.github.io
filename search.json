@@ -4,12 +4,12 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nCapstone Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Mental Health Among COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nStudents Using Data for Social Good Club Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threats and Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring COVID-19 Cases and Deaths in Pennsylvania\n\n\nProject for UnitedHealth Group Bridges to Healthcare Technology Summer Program\n\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHope and Depression Among Pandemic Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays in Pittsburgh\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating Relational Rule Learning\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Insights into Medical Incident Records\n\n\nStudents Using Data for Social Good Club Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining Gender Stereotype Threats on Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Influence of Gender Stereotype Threat on Heading Recall Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/gender-memory-proj/gender-memory.html",
     "href": "projects/gender-memory-proj/gender-memory.html",
-    "title": "Gender Stereotype Threats and Heading-Recall Task",
+    "title": "The Influence of Gender Stereotype Threat on Heading Recall Performance",
     "section": "",
     "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project explored how gender stereotype threat influences memory performance through a heading-recall task. We collected data from 35 participants across 1,400+ trials, cleaned the dataset in Excel, and analyzed results in Jamovi using ANOVA. While effects were not statistically significant, likely due in part to the small sample size, we observed suggestive patterns indicating that stereotype threat may influence recall. Findings were presented at the CMU Department of Psychology undergraduate poster session."
   },
@@ -58,14 +58,14 @@
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
     "href": "projects/gender-academic-proj/gender-academics.html",
-    "title": "Gender Stereotype Threats and Academic Performance",
+    "title": "Examining Gender Stereotype Threats on Academic Performance",
     "section": "",
     "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigated how gender stereotype threats affect academic outcomes through a meta-analysis. Our team screened 117 studies and independently extracted effect sizes from 13 peer-reviewed articles. Using R, we synthesized the data to evaluate intervention effects. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by sample size."
   },
   {
     "objectID": "projects/mental-health-covid/mental-health-covid.html",
     "href": "projects/mental-health-covid/mental-health-covid.html",
-    "title": "Exploring Mental Health Among COVID-19 Graduates",
+    "title": "Hope and Depression Among Pandemic Graduates",
     "section": "",
     "text": "Instructor: Roberto Vargas\nThis independent project examined mental health differences between the undergraduate classes of 2020 and 2021, who graduated during different phases of the COVID-19 pandemic (peak vs. decline). I evaluated 100+ survey responses and applied statistical modeling (PCA, logistic regression) and bootstrap sampling techniques in R to build and validate five predictive models. Results suggested that students graduating during the pandemic’s decline experienced greater psychological distress compared to those graduating at its peak."
   },
@@ -81,6 +81,6 @@
     "href": "index.html",
     "title": "Helen Peng",
     "section": "",
-    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of OAK Lab where I’m investigating relational rule learning, how people learn and discover complex rules.\nOutside of academics, I spend my time exploring stories, through books, TV shows, and media, that reveal how people think, connect, and navigate the world. If you’re curious, you can find a few of my favorites under the bookshelf tab."
+    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of OAK Lab where I’m investigating relational rule learning, how people learn and discover complex rules.\nI like to spend my free time exploring stories, through books, TV shows, and media, that reveal how people think, connect, and navigate the world. If you’re curious, you can find a few of my favorites under the bookshelf tab."
   }
 ]

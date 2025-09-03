@@ -1,5 +1,5 @@
 ---
-title: "Gender Stereotype Threats and Academic Performance"
+title: "Examining Gender Stereotype Threats on Academic Performance"
 description: Research Methods in Meta-Analysis Class Project
 date: 2024-05-03
 resources: "."

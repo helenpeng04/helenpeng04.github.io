@@ -1,6 +1,6 @@
 ---
 title: "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors"
-description: "Capstone Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program"
+description: "Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program"
 date: 2025-07-25
 resources: "."
 image: cover.png

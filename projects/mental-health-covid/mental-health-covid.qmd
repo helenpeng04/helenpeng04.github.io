@@ -1,5 +1,5 @@
 ---
-title: "Exploring Mental Health Among COVID-19 Graduates"
+title: "Hope and Depression Among Pandemic Graduates"
 description: Data Science in Psychology and Neuroscience Class Project
 date: 2025-05-01
 resources: "."
