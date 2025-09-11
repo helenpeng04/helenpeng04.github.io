@@ -14,4 +14,4 @@ about:
 
 **Collaborators/Advisors:** Julia Conti (graduate mentor) and Paulo Carvalho (PI)
 
-This project investigated relational rule learning, focusing on how understanding a relational rule affects mastery rates across tasks of varying difficulty, whether prior rule-specific training improves accuracy, and whether interleaved pretraining enhances performance. Using participant data provided by Julia Conti, I applied multilevel modeling for the first time, learning the technique as the project required, to analyze performance outcomes. The results highlighted patterns in how prior training and interleaved pretraining influenced task accuracy.
+This lab project studied how relational rule learning affects task mastery and whether prior rule-specific training or interleaved pretraining improve accuracy. Using participant data from OAK Lab, I applied multilevel modeling—learning the method as the project required—to analyze performance outcomes. Results showed that both prior training and interleaved pretraining influenced task accuracy, with effects varying by task difficulty.

@@ -14,4 +14,4 @@ about:
 
 **Instructor:** Roberto Vargas
 
-This independent project examined mental health differences between the undergraduate classes of 2020 and 2021, who graduated during different phases of the COVID-19 pandemic (peak vs. decline). I evaluated 100+ survey responses and applied statistical modeling (PCA, logistic regression) and bootstrap sampling techniques in R to build and validate five predictive models. Results suggested that students graduating during the pandemic’s decline experienced greater psychological distress compared to those graduating at its peak.
+This study compared mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Using a publicly available dataset, I evaluated 100+ survey responses and applied PCA, logistic regression, and bootstrap sampling in R to build and validate predictive models. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Findings were compiled into a research report.

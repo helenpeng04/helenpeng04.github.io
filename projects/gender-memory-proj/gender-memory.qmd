@@ -15,4 +15,4 @@ about:
 **Collaborators**: Cami Streuly, Shirley Du, and Cole Kaforey\
 **Instructor:** Abigail Noyce
 
-This project explored how gender stereotype threat influences memory performance through a heading-recall task. We collected data from 35 participants across 1,400+ trials, cleaned the dataset in Excel, and analyzed results in Jamovi using ANOVA. While effects were not statistically significant, likely due in part to the small sample size, we observed suggestive patterns indicating that stereotype threat may influence recall. Findings were presented at the CMU Department of Psychology undergraduate poster session.
+This study examined whether gender stereotype threat influences memory performance in a heading-recall task. We collected data from 35 participants (1,400+ trials), cleaned the dataset in Excel, and analyzed it in Jamovi using ANOVA. Results were not statistically significant, but suggestive patterns emerged, indicating that stereotype threat may influence recall. Findings were presented as a poster at the CMU Department of Psychology undergraduate research session.
