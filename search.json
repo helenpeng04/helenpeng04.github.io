@@ -11,28 +11,28 @@
     "href": "projects/gender-memory-proj/gender-memory.html",
     "title": "Navigating Stereotype Threats in Heading Recall Performance",
     "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project explored how gender stereotype threat influences memory performance through a heading-recall task. We collected data from 35 participants across 1,400+ trials, cleaned the dataset in Excel, and analyzed results in Jamovi using ANOVA. While effects were not statistically significant, likely due in part to the small sample size, we observed suggestive patterns indicating that stereotype threat may influence recall. Findings were presented at the CMU Department of Psychology undergraduate poster session."
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis study examined whether gender stereotype threat influences memory performance in a heading-recall task. We collected data from 35 participants (1,400+ trials), cleaned the dataset in Excel, and analyzed it in Jamovi using ANOVA. Results were not statistically significant, but suggestive patterns emerged, indicating that stereotype threat may influence recall. Findings were presented as a poster at the CMU Department of Psychology undergraduate research session."
   },
   {
     "objectID": "projects/relrule-proj/relrule.html",
     "href": "projects/relrule-proj/relrule.html",
     "title": "Investigating Relational Rule Learning",
     "section": "",
-    "text": "Collaborators/Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis project investigated relational rule learning, focusing on how understanding a relational rule affects mastery rates across tasks of varying difficulty, whether prior rule-specific training improves accuracy, and whether interleaved pretraining enhances performance. Using participant data provided by Julia Conti, I applied multilevel modeling for the first time, learning the technique as the project required, to analyze performance outcomes. The results highlighted patterns in how prior training and interleaved pretraining influenced task accuracy."
+    "text": "Collaborators/Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis lab project studied how relational rule learning affects task mastery and whether prior rule-specific training or interleaved pretraining improve accuracy. Using participant data from OAK Lab, I applied multilevel modeling—learning the method as the project required—to analyze performance outcomes. Results showed that both prior training and interleaved pretraining influenced task accuracy, with effects varying by task difficulty."
   },
   {
     "objectID": "projects/obesity-capstone/obesity-capstone.html",
     "href": "projects/obesity-capstone/obesity-capstone.html",
     "title": "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors",
     "section": "",
-    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project examined county-level determinants of adult obesity in the U.S., focusing on physical inactivity and access to healthy food. Using the 2025 County Health Rankings & Roadmaps dataset, we performed exploratory analyses including scatter plots and correlation matrices, and fitted a Huber regression model to identify which predictors best explain regional variation in obesity rates. Results revealed strong associations, though the analysis is correlational, not causal. We presented our findings to UnitedHealth Group professionals and statistics faculty, including a Q&A session."
+    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project examined county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. We performed exploratory analyses (scatter plots, correlation matrices) and fitted a Huber regression model to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. Results were presented as a poster and report during a Q&A session with UnitedHealth Group professionals and statistics faculty."
   },
   {
     "objectID": "projects/statml-flights-proj/statml-flights.html",
     "href": "projects/statml-flights-proj/statml-flights.html",
     "title": "Predicting Flight Delays in Pittsburgh",
     "section": "",
-    "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis project predicted flight delays at Pittsburgh International Airport using historical data from 2022 and 2023. My partner and I trained a random forest classifier to forecast 2024 delays, achieving 78% prediction accuracy. The project provided hands-on experience applying machine learning techniques to real-world transportation data."
+    "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis class project developed machine learning models to predict flight delays at Pittsburgh International Airport. Using historical flight data from 2022–2023, we trained a random forest classifier to forecast 2024 delays. The final model achieved 78% prediction accuracy, demonstrating the practical application of machine learning techniques to transportation data. Findings were submitted as a written report."
   },
   {
     "objectID": "bookshelf.html",
@@ -46,34 +46,34 @@
     "href": "projects/visual-search-proj/visual-search.html",
     "title": "Impact of Incentives on Visual Search Performance",
     "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project examined whether incentives improve visual search efficiency. We collected data from participants completing multiple search trials in Gorilla, then cleaned and analyzed the dataset in Jamovi using ANOVA. While incentives showed some influence on efficiency, their overall impact on performance was modest and not statistically significant, likely due in part to the limited sample size."
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project evaluated whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, but findings were not statistically significant, likely due to the limited sample size. Results were submitted as a written paper."
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
     "href": "projects/gender-academic-proj/gender-academics.html",
     "title": "Examining Gender Stereotype Threats on Academic Performance",
     "section": "",
-    "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigated how gender stereotype threats affect academic outcomes through a meta-analysis. Our team screened 117 studies and independently extracted effect sizes from 13 peer-reviewed articles. Using R, we synthesized the data to evaluate intervention effects. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by sample size."
+    "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigated the impact of gender stereotype threats on academic performance through a meta-analysis. We screened 117 studies, extracting effect sizes from 13 peer-reviewed articles, and synthesized the data in R. Results indicated that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Findings were written up as a research report."
   },
   {
     "objectID": "projects/mental-health-covid/mental-health-covid.html",
     "href": "projects/mental-health-covid/mental-health-covid.html",
     "title": "Exploring Mental Health Among COVID-19 Graduates",
     "section": "",
-    "text": "Instructor: Roberto Vargas\nThis independent project examined mental health differences between the undergraduate classes of 2020 and 2021, who graduated during different phases of the COVID-19 pandemic (peak vs. decline). I evaluated 100+ survey responses and applied statistical modeling (PCA, logistic regression) and bootstrap sampling techniques in R to build and validate five predictive models. Results suggested that students graduating during the pandemic’s decline experienced greater psychological distress compared to those graduating at its peak."
+    "text": "Instructor: Roberto Vargas\nThis study compared mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Using a publicly available dataset, I evaluated 100+ survey responses and applied PCA, logistic regression, and bootstrap sampling in R to build and validate predictive models. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Findings were compiled into a research report."
   },
   {
     "objectID": "projects/incident-records-mls/mainstay-life.html",
     "href": "projects/incident-records-mls/mainstay-life.html",
     "title": "Statistical Insights into Medical Incident Records",
     "section": "",
-    "text": "Collaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill\nThis project analyzed medical incident records for Mainstay Life Services, a nonprofit supporting individuals with intellectual disabilities and autism in residential and home settings. Our team examined patterns in incident types, needs levels, and time-to-report using Fisher’s exact tests, time series modeling, survival analysis, and Kruskal–Wallis tests. My primary contribution focused on medication error incidents, producing a detailed statistical report alongside the team’s presentation."
+    "text": "Collaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill\nThis project analyzed medical incident records for Mainstay Life Services, a nonprofit supporting individuals with intellectual disabilities and autism. We evaluated patterns in incident types, needs levels, and time-to-report using Fisher’s exact tests, time-series modeling, survival analysis, and Kruskal–Wallis tests. My primary contribution focused on medication error incidents, producing a detailed statistical report that was shared alongside a team presentation."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Helen Peng",
     "section": "",
-    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I am a member of OAK Lab where I’m investigating relational rule learning, how people learn and discover complex rules.\nI like to spend my free time exploring stories, through books, TV shows, and media, that reveal how people think, connect, and navigate the world. If you’re curious, you can find a few of my favorites under the bookshelf tab."
+    "text": "I’m a senior at Carnegie Mellon University, majoring in Statistics with a concentration in Psychology. I’m interested in using data to address real-world challenges, especially in public health and education. Currently, I’m part of the OAK Lab , where I investigate relational rule learning, how people learn and discover complex rules.\nOutside of academics, I spend my free time exploring stories through books, TV shows, and media that reveal how people think, connect, and navigate the world. These stories are my favorite way to recharge and reflect, and you can find a few of them under the bookshelf tab."
   }
 ]

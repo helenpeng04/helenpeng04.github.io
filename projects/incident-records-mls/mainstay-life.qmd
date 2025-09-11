@@ -17,4 +17,4 @@ about:
 
 **Collaborators**: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill
 
-This project analyzed medical incident records for Mainstay Life Services, a nonprofit supporting individuals with intellectual disabilities and autism in residential and home settings. Our team examined patterns in incident types, needs levels, and time-to-report using Fisher’s exact tests, time series modeling, survival analysis, and Kruskal–Wallis tests. My primary contribution focused on medication error incidents, producing a detailed statistical report alongside the team’s presentation.
+This project analyzed medical incident records for Mainstay Life Services, a nonprofit supporting individuals with intellectual disabilities and autism. We evaluated patterns in incident types, needs levels, and time-to-report using Fisher’s exact tests, time-series modeling, survival analysis, and Kruskal–Wallis tests. My primary contribution focused on medication error incidents, producing a detailed statistical report that was shared alongside a team presentation.

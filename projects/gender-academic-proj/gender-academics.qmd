@@ -15,4 +15,4 @@ about:
 **Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\
 **Instructor:** Phoebe Lam
 
-This project investigated how gender stereotype threats affect academic outcomes through a meta-analysis. Our team screened 117 studies and independently extracted effect sizes from 13 peer-reviewed articles. Using R, we synthesized the data to evaluate intervention effects. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by sample size.
+This project investigated the impact of gender stereotype threats on academic performance through a meta-analysis. We screened 117 studies, extracting effect sizes from 13 peer-reviewed articles, and synthesized the data in R. Results indicated that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Findings were written up as a research report.
