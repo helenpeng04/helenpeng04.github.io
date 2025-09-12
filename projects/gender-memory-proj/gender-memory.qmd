@@ -1,5 +1,5 @@
 ---
-title: "Navigating Stereotype Threats in Heading Recall Performance"
+title: "Gender Stereotype Threat and Memory Performance in a Heading-Recall Task"
 description: Research Methods in Cognitive Psychology Class Project
 date: 2024-04-26
 resources: "."
@@ -15,4 +15,4 @@ about:
 **Collaborators**: Cami Streuly, Shirley Du, and Cole Kaforey\
 **Instructor:** Abigail Noyce
 
-This study examined whether gender stereotype threat influences memory performance in a heading-recall task. We collected data from 35 participants (1,400+ trials), cleaned the dataset in Excel, and analyzed it in Jamovi using ANOVA. Results were not statistically significant, but suggestive patterns emerged, indicating that stereotype threat may influence recall. Findings were presented as a poster at the CMU Department of Psychology undergraduate research session.
+This project investigates whether gender stereotype threat influences memory performance in a heading-recall task. Data were collected from 35 participants across 1,400+ trials, cleaned in Excel, and analyzed in Jamovi using ANOVA. While results were not statistically significant, suggestive patterns indicated that stereotype threat may influence recall. Completed as a class project, the findings were presented as a poster at the CMU Department of Psychology undergraduate research session.

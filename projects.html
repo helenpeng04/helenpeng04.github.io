@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,18 +34,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b651517ce65839d647a86e2780455cfb.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b1010d57d1877032d466590e20d15924.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-f6ed848720d7a2251e3d6064a93efd72.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-b1010d57d1877032d466590e20d15924.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9a61a4af9c260dcefa2db9d5f5796e20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-464a5e53d303df6e73391caa8b66989d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-9a61a4af9c260dcefa2db9d5f5796e20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -117,7 +118,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -305,6 +306,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title"><strong>helenpeng04</strong></span>
     </a>
@@ -392,7 +395,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1753401600000" data-listing-file-modified-sort="1757609122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1753401600000" data-listing-file-modified-sort="1757717901267" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <a href="./projects/obesity-capstone/obesity-capstone.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -400,7 +403,7 @@ window.Quarto = {
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors
+County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis
 </h5>
 <div class="card-text listing-description delink">
 <p>Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program</p>
@@ -416,7 +419,7 @@ Jul 25, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1746057600000" data-listing-file-modified-sort="1757609122164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1746057600000" data-listing-file-modified-sort="1757717901267" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
 <a href="./projects/mental-health-covid/mental-health-covid.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -440,7 +443,7 @@ May 1, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1745625600000" data-listing-file-modified-sort="1757609122184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1745625600000" data-listing-file-modified-sort="1757717901287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="61">
 <a href="./projects/statml-flights-proj/statml-flights.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -448,7 +451,7 @@ May 1, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Predicting Flight Delays in Pittsburgh
+Predicting Flight Delays at Pittsburgh International Airport
 </h5>
 <div class="card-text listing-description delink">
 <p>Statistical Machine Learning Class Project</p>
@@ -464,7 +467,7 @@ Apr 26, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1743724800000" data-listing-file-modified-sort="1757609122177" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1743724800000" data-listing-file-modified-sort="1757717901280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
 <a href="./projects/relrule-proj/relrule.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -472,7 +475,7 @@ Apr 26, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Investigating Relational Rule Learning
+Learning Relational Rules: Effects of Training Structure and Task Difficulty
 </h5>
 <div class="card-text listing-description delink">
 <p>OAK Lab Project</p>
@@ -488,7 +491,7 @@ Apr 4, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1743206400000" data-listing-file-modified-sort="1757609122150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1743206400000" data-listing-file-modified-sort="1757717901253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
 <a href="./projects/incident-records-mls/mainstay-life.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -496,7 +499,7 @@ Apr 4, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Statistical Insights into Medical Incident Records
+Patterns in Medical Incident Records: Statistical Insights for Care Improvement
 </h5>
 <div class="card-text listing-description delink">
 <p>Students Using Data for Social Good Club Project</p>
@@ -512,7 +515,7 @@ Mar 29, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1714694400000" data-listing-file-modified-sort="1757609122137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1714694400000" data-listing-file-modified-sort="1757717901240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <a href="./projects/gender-academic-proj/gender-academics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -520,7 +523,7 @@ Mar 29, 2025
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Examining Gender Stereotype Threats on Academic Performance
+Gender Stereotype Threat Interventions and Academic Performance
 </h5>
 <div class="card-text listing-description delink">
 <p>Research Methods in Meta-Analysis Class Project</p>
@@ -536,7 +539,7 @@ May 3, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1714089600000" data-listing-file-modified-sort="1757609122139" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1714089600000" data-listing-file-modified-sort="1757717901242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
 <a href="./projects/gender-memory-proj/gender-memory.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -544,7 +547,7 @@ May 3, 2024
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Navigating Stereotype Threats in Heading Recall Performance
+Gender Stereotype Threat and Memory Performance in a Heading-Recall Task
 </h5>
 <div class="card-text listing-description delink">
 <p>Research Methods in Cognitive Psychology Class Project</p>
@@ -560,7 +563,7 @@ Apr 26, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1711929600000" data-listing-file-modified-sort="1757609122185" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1711929600000" data-listing-file-modified-sort="1757717901288" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
 <a href="./projects/visual-search-proj/visual-search.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -651,13 +654,14 @@ Apr 1, 2024
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

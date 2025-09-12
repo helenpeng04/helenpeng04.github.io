@@ -15,4 +15,4 @@ about:
 **Collaborators:** Cami Streuly, Shirley Du, and Cole Kaforey\
 **Instructor:** Abigail Noyce
 
-This project evaluated whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, but findings were not statistically significant, likely due to the limited sample size. Results were submitted as a written paper.
+This project investigates whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, though findings were not statistically significant, likely due to the limited sample size. Completed as a class project, the findings were submitted as a written paper.
