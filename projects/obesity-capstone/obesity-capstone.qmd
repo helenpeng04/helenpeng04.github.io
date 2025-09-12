@@ -1,5 +1,5 @@
 ---
-title: "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors"
+title: "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis"
 description: "Project for UnitedHealth Group Bridges to Healthcare Technology Summer Program"
 date: 2025-07-25
 resources: "."
@@ -20,4 +20,4 @@ about:
 
 **Collaborators:** Anvith Thumma and Jordan Faustin
 
-This project examined county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. We performed exploratory analyses (scatter plots, correlation matrices) and fitted a Huber regression model to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. Results were presented as a poster and report during a Q&A session with UnitedHealth Group professionals and statistics faculty.
+This project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were presented as a poster, presentation, and report during a Q&A session with UnitedHealth Group professionals and statistics faculty.

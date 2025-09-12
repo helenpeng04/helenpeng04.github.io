@@ -1,5 +1,5 @@
 ---
-title: "Investigating Relational Rule Learning"
+title: "Learning Relational Rules: Effects of Training Structure and Task Difficulty"
 description: "OAK Lab Project"
 date: 2025-04-04
 resources: "."
@@ -14,4 +14,4 @@ about:
 
 **Collaborators/Advisors:** Julia Conti (graduate mentor) and Paulo Carvalho (PI)
 
-This lab project studied how relational rule learning affects task mastery and whether prior rule-specific training or interleaved pretraining improve accuracy. Using participant data from OAK Lab, I applied multilevel modeling—learning the method as the project required—to analyze performance outcomes. Results showed that both prior training and interleaved pretraining influenced task accuracy, with effects varying by task difficulty.
+This project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning.
