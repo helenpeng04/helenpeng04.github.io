@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatterns in Medical Incident Records: Statistical Insights for Care Improvement\n\n\nStudents Using Data for Social Good Club Project\n\n\n\n\n\n\nMar 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/gender-memory-proj/gender-memory.html",
@@ -14,39 +14,11 @@
     "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether gender stereotype threat influences memory performance in a heading-recall task. Data were collected from 35 participants across 1,400+ trials, cleaned in Excel, and analyzed in Jamovi using ANOVA. While results were not statistically significant, suggestive patterns indicated that stereotype threat may influence recall. Completed as a class project, the findings were presented as a poster at the CMU Department of Psychology undergraduate research session."
   },
   {
-    "objectID": "projects/relrule-proj/relrule.html",
-    "href": "projects/relrule-proj/relrule.html",
-    "title": "Learning Relational Rules: Effects of Training Structure and Task Difficulty",
+    "objectID": "projects/mental-health-covid/mental-health-covid.html",
+    "href": "projects/mental-health-covid/mental-health-covid.html",
+    "title": "Mental Health Outcomes of COVID-19 Graduates",
     "section": "",
-    "text": "Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning."
-  },
-  {
-    "objectID": "projects/obesity-capstone/obesity-capstone.html",
-    "href": "projects/obesity-capstone/obesity-capstone.html",
-    "title": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis",
-    "section": "",
-    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were communicated through a poster, oral presentation, and written report, and were discussed in a Q&A session with UnitedHealth Group professionals and statistics faculty."
-  },
-  {
-    "objectID": "projects/statml-flights-proj/statml-flights.html",
-    "href": "projects/statml-flights-proj/statml-flights.html",
-    "title": "Predicting Flight Delays at Pittsburgh International Airport",
-    "section": "",
-    "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis project investigates the prediction of flight delays at Pittsburgh International Airport using historical flight data from 2022–2023. A random forest classifier was trained to forecast 2024 delays, achieving 78% prediction accuracy. Completed as a class project, the findings were submitted as a written report and demonstrate the practical application of machine learning techniques to transportation data."
-  },
-  {
-    "objectID": "bookshelf.html",
-    "href": "bookshelf.html",
-    "title": "Bookshelf",
-    "section": "",
-    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
-  },
-  {
-    "objectID": "projects/visual-search-proj/visual-search.html",
-    "href": "projects/visual-search-proj/visual-search.html",
-    "title": "Impact of Incentives on Visual Search Performance",
-    "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, though findings were not statistically significant, likely due to the limited sample size. Completed as a class project, the findings were submitted as a written paper."
+    "text": "Instructor: Roberto Vargas\nThis project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions."
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
@@ -56,18 +28,39 @@
     "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigates the impact of gender stereotype threat on academic performance through a meta-analysis. Out of 117 studies screened, 13 peer-reviewed articles met inclusion criteria, and effect sizes were synthesized using R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Completed as a class project, the findings were written up in a formal IMRaD-style research paper and highlight the importance of intervention strategies in mitigating stereotype threat in educational settings."
   },
   {
-    "objectID": "projects/mental-health-covid/mental-health-covid.html",
-    "href": "projects/mental-health-covid/mental-health-covid.html",
-    "title": "Mental Health Outcomes of COVID-19 Graduates",
+    "objectID": "projects/visual-search-proj/visual-search.html",
+    "href": "projects/visual-search-proj/visual-search.html",
+    "title": "Impact of Incentives on Visual Search Performance",
     "section": "",
-    "text": "Instructor: Roberto Vargas\nThis project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions."
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, though findings were not statistically significant, likely due to the limited sample size. Completed as a class project, the findings were submitted as a written paper."
   },
   {
-    "objectID": "projects/incident-records-mls/mainstay-life.html",
-    "href": "projects/incident-records-mls/mainstay-life.html",
-    "title": "Patterns in Medical Incident Records: Statistical Insights for Care Improvement",
+    "objectID": "bookshelf.html",
+    "href": "bookshelf.html",
+    "title": "Bookshelf",
     "section": "",
-    "text": "Collaborators: Emily Zhu, Sophia Mou, Alva He, Derek Gao, and Edward Brownhill\nThis project investigates patterns in medical incident records at Mainstay Life Services, a nonprofit supporting individuals with intellectual disabilities and autism. We analyzed incident types, needs levels, and time-to-report using Fisher’s exact tests, time-series modeling, survival analysis, and Kruskal–Wallis tests. My primary contribution focused on medication error incidents, culminating in a detailed statistical report and a team presentation. The findings highlight trends in incident reporting and provide actionable insights for improving care quality."
+    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
+  },
+  {
+    "objectID": "projects/statml-flights-proj/statml-flights.html",
+    "href": "projects/statml-flights-proj/statml-flights.html",
+    "title": "Predicting Flight Delays at Pittsburgh International Airport",
+    "section": "",
+    "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis project investigates the prediction of flight delays at Pittsburgh International Airport using historical flight data from 2022–2023. A random forest classifier was trained to forecast 2024 delays, achieving 78% prediction accuracy. Completed as a class project, the findings were submitted as a written report and demonstrate the practical application of machine learning techniques to transportation data."
+  },
+  {
+    "objectID": "projects/obesity-capstone/obesity-capstone.html",
+    "href": "projects/obesity-capstone/obesity-capstone.html",
+    "title": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis",
+    "section": "",
+    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were communicated through a poster, oral presentation, and written report, and were discussed in a Q&A session with UnitedHealth Group professionals and statistics faculty."
+  },
+  {
+    "objectID": "projects/relrule-proj/relrule.html",
+    "href": "projects/relrule-proj/relrule.html",
+    "title": "Learning Relational Rules: Effects of Training Structure and Task Difficulty",
+    "section": "",
+    "text": "Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning."
   },
   {
     "objectID": "index.html",
