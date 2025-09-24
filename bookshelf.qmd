@@ -31,7 +31,7 @@ Widget by <a href="https://www.goodreads.com/quotes">Goodreads</a>
 
 ### Favorite Comics
 
-I’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive.
+I’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel for Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive.
 
 ::: {style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 8px"}
 ```{r echo = FALSE}
