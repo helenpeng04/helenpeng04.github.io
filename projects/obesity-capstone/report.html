@@ -3343,11 +3343,12 @@ window.Quarto = {
    
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
-  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a>
+  <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">Data Overview</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a>
   <ul class="collapse">
   <li><a href="#exploratory-data-analysis" id="toc-exploratory-data-analysis" class="nav-link" data-scroll-target="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+  <li><a href="#modeling" id="toc-modeling" class="nav-link" data-scroll-target="#modeling">Modeling</a></li>
   </ul></li>
-  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
   <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a>
   <ul class="collapse">
   <li><a href="#model-evaluation" id="toc-model-evaluation" class="nav-link" data-scroll-target="#model-evaluation">Model Evaluation</a></li>
@@ -3405,8 +3406,8 @@ window.Quarto = {
 <p>While individual behavior plays a role, mounting evidence points to the importance of social determinants of health—such as access to safe spaces for physical activity and availability of nutritious food. These factors are often shaped by the built environment, including infrastructure, economic conditions, and community planning. For example, neighborhoods with few parks or grocery stores may discourage healthy behavior, while environments that support walking, biking, and affordable food access can promote better health outcomes.</p>
 <p>This study explores the research question: <strong><em>Do physical inactivity levels and access to healthy food affect obesity rates at the county level?</em></strong> By focusing on these two predictors, the goal is to investigate how variations in community resources and infrastructure may influence the health of populations across different regions. Understanding these relationships is critical for informing public health interventions, designing equitable urban policies, and creating targeted wellness programs in schools, workplaces, and communities.</p>
 </section>
-<section id="data" class="level2">
-<h2 class="anchored" data-anchor-id="data">Data</h2>
+<section id="data-overview" class="level2">
+<h2 class="anchored" data-anchor-id="data-overview">Data Overview</h2>
 <p>We used publicly available county-level data from the <strong>2025 County Health Rankings Data</strong>, provided by the University of Wisconsin Population Health Institute. The dataset includes a wide range of health-related indicators across all U.S. counties, including demographics, socioeconomic, behavioral, and healthcare access variables.</p>
 <p>Our main variables of interests were:</p>
 <ul>
@@ -3416,6 +3417,9 @@ window.Quarto = {
 <li><p><strong>Limited Access to Healthy Food (%):</strong> Percentage of the population that is low income and does not live close to a grocery store</p></li>
 </ul>
 <p>For missing data, we imputed missing predictor values using the state average. Counties missing data for the response variable (adults with obesity) were excluded from the analysis (a total of 7 counties), resulting in a complete case dataset.</p>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
 <section id="exploratory-data-analysis" class="level3">
 <h3 class="anchored" data-anchor-id="exploratory-data-analysis">Exploratory Data Analysis</h3>
 <p>We began our exploratory analysis by visualizing the geographic distribution of adult obesity rates across the United States.</p>
@@ -3455,9 +3459,8 @@ window.Quarto = {
 </div>
 <p>We found a strong correlation (0.78) between the Food Environment Index and limited access to healthy food. This suggests that FEI captures much of the variation represented by the limited access variable, but in a more comprehensive and predictive manner, as it also incorporates additional socioeconomic factors.</p>
 </section>
-</section>
-<section id="methods" class="level2">
-<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<section id="modeling" class="level3">
+<h3 class="anchored" data-anchor-id="modeling">Modeling</h3>
 <p>Based on our exploratory data analysis, we found that the Food Environment Index (FEI) was a more comprehensive predictor than the percentage of limited access to healthy food, and thus selected it for modeling. Our response variable, adult obesity rate, was originally expressed as a percentage. We first re-scaled it to a proportion between 0 and 1, denoted as <span class="math inline">p</span>, and then applied the logit transformation:</p>
 <p><span class="math display">
 \text{logit}(p) = \log\left(\frac{p}{1 - p}\right)
@@ -3469,6 +3472,7 @@ window.Quarto = {
 </span></p>
 <p>A linear regression model assumes linearity, constant variance (homoscedasticity), independence of observations, and normally distributed residuals. However, our diagnostic analysis revealed violations of these assumptions, notably due to about 200 influential outliers identified, using the standard Cook’s Distance threshold (<span class="math inline">D_i &gt; \frac{4}{n}</span>), which would negatively affect the model fit. To address this, we refit the model using Huber regression, a robust technique that reduces the influence of outliers.</p>
 <p>To further evaluate the predictive utility of our selected variables, we refit the same model using limited access to healthy food in place of the Food Environment Index. This second model allowed us to directly compare the two predictors and reinforce the conclusion that FEI may offer a stronger and more comprehensive explanation of obesity variation across counties.</p>
+</section>
 </section>
 <section id="results" class="level2">
 <h2 class="anchored" data-anchor-id="results">Results</h2>
