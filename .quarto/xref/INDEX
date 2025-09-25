@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "e5272a44"
+  },
+  "about.qmd": {
+    "about.html": "cdc8d738"
+  },
+  "projects.qmd": {
+    "projects.html": "3d8403c7"
+  },
+  "bookshelf.qmd": {
+    "bookshelf.html": "5d16dc42"
+  },
+  "projects/pa-covid-eda/eda.qmd": {
+    "eda.html": "c0191bd5"
+  },
+  "projects/obesity-capstone/obesity-capstone.qmd": {
+    "obesity-capstone.html": "fc540458"
+  },
+  "projects/visual-search-proj/visual-search.qmd": {
+    "visual-search.html": "332e356d"
+  },
+  "projects/gender-academic-proj/gender-academics.qmd": {
+    "gender-academics.html": "d2f9230d"
+  },
+  "projects/gender-memory-proj/gender-memory.qmd": {
+    "gender-memory.html": "428f007f"
+  },
+  "projects/incident-records-mls/mainstay-life.qmd": {
+    "mainstay-life.html": "9e169cf0"
+  },
+  "projects/mental-health-covid/mental-health-covid.qmd": {
+    "mental-health-covid.html": "19434adb"
+  },
+  "projects/relrule-proj/relrule.qmd": {
+    "relrule.html": "55a89e25"
+  },
+  "projects/statml-flights-proj/statml-flights.qmd": {
+    "statml-flights.html": "ff8e2196"
+  },
+  "archive.qmd": {
+    "archive.html": "85d7b6f6"
+  }
+}

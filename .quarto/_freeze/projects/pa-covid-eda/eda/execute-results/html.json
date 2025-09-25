@@ -1,0 +1,17 @@
+{
+  "hash": "3207f4fd9da6aa85d0764961af8de7b6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Exploring COVID-19 Cases and Deaths in Pennsylvania\"\ndescription: \"SURE 2025 Project\"\nresources: \".\"\ndate: 2025-06-17\nabout: \n  template: solana\n  links:\n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/helenpeng04/pa-covid-eda\"\n    - icon: file-earmark-ppt\n      text: \"Slides\"\n      href: projects/pa-covid-eda/presentation.pdf\n---\n\n\n\nThis project analyzes COVID-19 cases and deaths across Pennsylvania counties (Apr 2020–Dec 2022). We explored how population size relates to per-capita rates and whether more cases lead to more deaths, using EDA methods and k-means clustering to identify county-level patterns.\n\n**Collaborators**: Lily Fransen and Maximus Liu\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](cover.png){fig-align='center' width=1050}\n:::\n:::\n",
+    "supporting": [
+      "eda_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

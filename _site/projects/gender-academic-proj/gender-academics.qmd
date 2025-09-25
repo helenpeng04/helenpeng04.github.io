@@ -1,0 +1,18 @@
+---
+title: "Gender Stereotype Threat Interventions and Academic Performance"
+description: Research Methods in Meta-Analysis Class Project
+date: 2024-05-03
+resources: "."
+image: cover.png
+about: 
+  template: solana
+  links: 
+  - icon: file-earmark-pdf
+    text: "Paper"
+    href: projects/gender-academic-proj/paper.pdf
+---
+
+**Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\
+**Instructor:** Phoebe Lam
+
+This project investigates the impact of gender stereotype threat on academic performance through a meta-analysis. Out of 117 studies screened, 13 peer-reviewed articles met inclusion criteria, and effect sizes were synthesized using R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Completed as a class project, the findings were written up in a formal IMRaD-style research paper and highlight the importance of intervention strategies in mitigating stereotype threat in educational settings.

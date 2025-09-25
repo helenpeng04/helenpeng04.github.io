@@ -1,0 +1,17 @@
+{
+  "hash": "e93eb0d71a45d5ea7a8fe7137cb38cae",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Investigating Relational Rule Learning\"\ndescription: \"OAK Lab Project\"\ndate: 2025-04-04\nresources: \".\"\nabout: \n  template: solana\n  links:\n    - icon: file-earmark-ppt\n      text: \"Slides\"\n      href: projects/relrule-proj/presentation.pdf\n---\n\n\n\nThis project conducted over two semesters investigates relational rule learning by exploring how the degree of understanding of a relational rule affects participants’ mastery rates across tasks of varying difficulty, whether prior training on a specific relational rule (rule matching) improves task accuracy, and whether interleaved pretraining—mixing different relational rules during training—enhances task performance. This project was my first experience with multilevel modeling, which I learned through hands-on lab work rather than formal coursework.\n\n**Collaborators**: Julia Conti and Paulo Carvalho\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](cover.png){fig-align='center' width=466}\n:::\n:::\n",
+    "supporting": [
+      "relrule_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
