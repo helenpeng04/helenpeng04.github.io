@@ -12,7 +12,7 @@ website:
         text: Projects
       - href: bookshelf.qmd
         text: Bookshelf
-      - href: assets/helenpeng-CV.pdf
+      - href: assets/helenpeng_CV.pdf
         text: CV
         target: blank
     right: 
