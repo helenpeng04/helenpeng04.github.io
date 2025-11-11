@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounty-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/statml-flights-proj/statml-flights.html",
@@ -14,32 +14,18 @@
     "text": "Collaborator: Emily Jiang\nInstructor: Spencer Koerner\nThis project investigates the prediction of flight delays at Pittsburgh International Airport using historical flight data from 2022–2023. A random forest classifier was trained to forecast 2024 delays, achieving 78% prediction accuracy. Completed as a class project, the findings were submitted as a written report and demonstrate the practical application of machine learning techniques to transportation data."
   },
   {
-    "objectID": "projects/obesity-capstone/obesity-capstone.html",
-    "href": "projects/obesity-capstone/obesity-capstone.html",
-    "title": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis",
+    "objectID": "projects/racial-attitudes-proj/racial-attitudes.html",
+    "href": "projects/racial-attitudes-proj/racial-attitudes.html",
+    "title": "Developmental Trajectory of Racial Attitudes",
     "section": "",
-    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were communicated through a poster, oral presentation, and written report, and were discussed in a Q&A session with UnitedHealth Group professionals and statistics faculty."
+    "text": "This is a placeholder for now"
   },
   {
-    "objectID": "projects/gender-memory-proj/gender-memory.html",
-    "href": "projects/gender-memory-proj/gender-memory.html",
-    "title": "Gender Stereotype Threat and Memory Performance in a Heading-Recall Task",
+    "objectID": "projects/mental-health-covid/mental-health-covid.html",
+    "href": "projects/mental-health-covid/mental-health-covid.html",
+    "title": "Mental Health Outcomes of COVID-19 Graduates",
     "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether gender stereotype threat influences memory performance in a heading-recall task. Data were collected from 35 participants across 1,400+ trials, cleaned in Excel, and analyzed in Jamovi using ANOVA. While results were not statistically significant, suggestive patterns indicated that stereotype threat may influence recall. Completed as a class project, the findings were presented as a poster at the CMU Department of Psychology undergraduate research session."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Helen Peng",
-    "section": "",
-    "text": "Statistics & Data Science Major | Aspiring Biostatistician\nI’m a senior at Carnegie Mellon University studying statistics with a concentration in psychology. I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. With my background in psychology, I’ve also gained research experience in cognitive science through the OAK Lab, where I study how people learn and discover complex rules.\nOutside of academics, I like recharging with books, shows, and other stories — my favorite way to unwind. You can find some of my favorite books in the bookshelf tab!"
-  },
-  {
-    "objectID": "bookshelf.html",
-    "href": "bookshelf.html",
-    "title": "Bookshelf",
-    "section": "",
-    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel for Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
+    "text": "Instructor: Roberto Vargas\nThis project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions."
   },
   {
     "objectID": "projects/gender-academic-proj/gender-academics.html",
@@ -49,11 +35,32 @@
     "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigates the impact of gender stereotype threat on academic performance through a meta-analysis. Out of 117 studies screened, 13 peer-reviewed articles met inclusion criteria, and effect sizes were synthesized using R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Completed as a class project, the findings were written up in a formal IMRaD-style research paper and highlight the importance of intervention strategies in mitigating stereotype threat in educational settings."
   },
   {
-    "objectID": "projects/mental-health-covid/mental-health-covid.html",
-    "href": "projects/mental-health-covid/mental-health-covid.html",
-    "title": "Mental Health Outcomes of COVID-19 Graduates",
+    "objectID": "bookshelf.html",
+    "href": "bookshelf.html",
+    "title": "Bookshelf",
     "section": "",
-    "text": "Instructor: Roberto Vargas\nThis project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions."
+    "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel for Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Helen Peng",
+    "section": "",
+    "text": "Statistics & Data Science Major | Aspiring Biostatistician\nI’m a senior at Carnegie Mellon University studying statistics with a concentration in psychology. I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. With my background in psychology, I’ve also gained research experience in cognitive science through the OAK Lab, where I study how people learn and discover complex rules.\nOutside of academics, I like recharging with books, shows, and other stories — my favorite way to unwind. You can find some of my favorite books in the bookshelf tab!"
+  },
+  {
+    "objectID": "projects/gender-memory-proj/gender-memory.html",
+    "href": "projects/gender-memory-proj/gender-memory.html",
+    "title": "Gender Stereotype Threat and Memory Performance in a Heading-Recall Task",
+    "section": "",
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether gender stereotype threat influences memory performance in a heading-recall task. Data were collected from 35 participants across 1,400+ trials, cleaned in Excel, and analyzed in Jamovi using ANOVA. While results were not statistically significant, suggestive patterns indicated that stereotype threat may influence recall. Completed as a class project, the findings were presented as a poster at the CMU Department of Psychology undergraduate research session."
+  },
+  {
+    "objectID": "projects/obesity-capstone/obesity-capstone.html",
+    "href": "projects/obesity-capstone/obesity-capstone.html",
+    "title": "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis",
+    "section": "",
+    "text": "Collaborators: Anvith Thumma and Jordan Faustin\nThis project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were communicated through a poster, oral presentation, and written report, and were discussed in a Q&A session with UnitedHealth Group professionals and statistics faculty."
   },
   {
     "objectID": "projects/relrule-proj/relrule.html",
