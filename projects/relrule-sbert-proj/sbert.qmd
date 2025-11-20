@@ -1,0 +1,16 @@
+
+---
+title: "Discovery of Relational Rules"
+description: "OAK Lab Project"
+date: 2025-12-05
+resources: "."
+image: cover.png
+about: 
+  template: solana
+  links:
+    - icon: file-earmark-ppt
+      text: "Slides"
+      href: projects/relrule-sbsert-proj/presentation.pdf
+---
+
+This is a placeholder for now
