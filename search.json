@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounty-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovery of Relational Rules\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCounty-Level Determinants of Obesity: Lifestyle and Food Environment Analysis\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -28,18 +28,11 @@
     "text": "Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning."
   },
   {
-    "objectID": "projects/gender-academic-proj/gender-academics.html",
-    "href": "projects/gender-academic-proj/gender-academics.html",
-    "title": "Gender Stereotype Threat Interventions and Academic Performance",
+    "objectID": "projects/racial-attitudes-proj/racial-attitudes.html",
+    "href": "projects/racial-attitudes-proj/racial-attitudes.html",
+    "title": "Developmental Trajectory of Racial Attitudes",
     "section": "",
-    "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigates the impact of gender stereotype threat on academic performance through a meta-analysis. Out of 117 studies screened, 13 peer-reviewed articles met inclusion criteria, and effect sizes were synthesized using R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Completed as a class project, the findings were written up in a formal IMRaD-style research paper and highlight the importance of intervention strategies in mitigating stereotype threat in educational settings."
-  },
-  {
-    "objectID": "projects/visual-search-proj/visual-search.html",
-    "href": "projects/visual-search-proj/visual-search.html",
-    "title": "Impact of Incentives on Visual Search Performance",
-    "section": "",
-    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, though findings were not statistically significant, likely due to the limited sample size. Completed as a class project, the findings were submitted as a written paper."
+    "text": "This is a placeholder for now"
   },
   {
     "objectID": "projects/mental-health-covid/mental-health-covid.html",
@@ -49,9 +42,23 @@
     "text": "Instructor: Roberto Vargas\nThis project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions."
   },
   {
-    "objectID": "projects/racial-attitudes-proj/racial-attitudes.html",
-    "href": "projects/racial-attitudes-proj/racial-attitudes.html",
-    "title": "Developmental Trajectory of Racial Attitudes",
+    "objectID": "projects/visual-search-proj/visual-search.html",
+    "href": "projects/visual-search-proj/visual-search.html",
+    "title": "Impact of Incentives on Visual Search Performance",
+    "section": "",
+    "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether performance incentives improve efficiency in visual search tasks. Participants completed multiple search trials in Gorilla, and data were cleaned and analyzed in Jamovi using ANOVA. Results suggested modest effects of incentives, though findings were not statistically significant, likely due to the limited sample size. Completed as a class project, the findings were submitted as a written paper."
+  },
+  {
+    "objectID": "projects/gender-academic-proj/gender-academics.html",
+    "href": "projects/gender-academic-proj/gender-academics.html",
+    "title": "Gender Stereotype Threat Interventions and Academic Performance",
+    "section": "",
+    "text": "Collaborators: Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\nInstructor: Phoebe Lam\nThis project investigates the impact of gender stereotype threat on academic performance through a meta-analysis. Out of 117 studies screened, 13 peer-reviewed articles met inclusion criteria, and effect sizes were synthesized using R. Results showed that both affirmative and non-affirmative interventions improved performance compared to no intervention, though subgroup analyses were limited by small sample sizes. Completed as a class project, the findings were written up in a formal IMRaD-style research paper and highlight the importance of intervention strategies in mitigating stereotype threat in educational settings."
+  },
+  {
+    "objectID": "projects/relrule-sbert-proj/sbert.html",
+    "href": "projects/relrule-sbert-proj/sbert.html",
+    "title": "Discovery of Relational Rules",
     "section": "",
     "text": "This is a placeholder for now"
   },
