@@ -43,5 +43,8 @@
   },
   "projects/racial-attitudes-proj/racial-attitudes.qmd": {
     "racial-attitudes.html": "d8aac079"
+  },
+  "projects/relrule-sbert-proj/sbert.qmd": {
+    "sbert.html": "f555fee8"
   }
 }
