@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-earmark-ppt
       text: "Slides"
-      href: projects/relrule-proj/presentation.pdf
+      href: projects/relrule_shapes/presentation.pdf
 ---
 
 **Advisors:** Julia Conti (graduate mentor) and Paulo Carvalho (PI)

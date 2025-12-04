@@ -1,4 +1,3 @@
-
 ---
 title: "Developmental Trajectory of Racial Attitudes "
 description: "Undergraduate Research Class Project"
@@ -10,10 +9,10 @@ about:
   links:
     - icon: file-easel
       text: "Poster"
-      href: projects/racial-attitudes-proj/poster.pdf
+      href: projects/racial_attitudes/poster.pdf
     - icon: file-earmark-pdf
       text: "Report"
-      href: projects/racial-attitudes-proj/report.html
+      href: projects/racial_attitudes/report.html
 ---
 
 This is a placeholder for now

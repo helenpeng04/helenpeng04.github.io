@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-code
       text: "Report"
-      href: projects/statml-flights-proj/StatML_Project.html
+      href: projects/statml_flights/StatML_Project.html
 ---
 
 **Collaborator**: Emily Jiang\

@@ -9,7 +9,7 @@ about:
   links: 
   - icon: file-earmark-pdf
     text: "Paper"
-    href: projects/gender-academic-proj/paper.pdf
+    href: projects/gender_academic/paper.pdf
 ---
 
 **Collaborators:** Amor Ai, Sisley Yang, Frank Janicke, Eesha Nagpal, and Camille Chandler\

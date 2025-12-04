@@ -9,7 +9,7 @@ about:
   links: 
   - icon: file-code
     text: "Report"
-    href: projects/mental-health-covid/DSPN_Project.html
+    href: projects/mental_health_covid/DSPN_Project.html
 ---
 
 **Instructor:** Roberto Vargas

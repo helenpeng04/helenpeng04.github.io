@@ -2,15 +2,15 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/racial-attitudes-proj/racial-attitudes.html",
-      "/projects/relrule-sbert-proj/sbert.html",
-      "/projects/obesity-capstone/obesity-capstone.html",
-      "/projects/mental-health-covid/mental-health-covid.html",
-      "/projects/statml-flights-proj/statml-flights.html",
-      "/projects/relrule-proj/relrule.html",
-      "/projects/gender-academic-proj/gender-academics.html",
-      "/projects/gender-memory-proj/gender-memory.html",
-      "/projects/visual-search-proj/visual-search.html"
+      "/projects/racial_attitudes/racial_attitudes.html",
+      "/projects/relrule_bugs/relrule_bugs.html",
+      "/projects/obesity_capstone/obesity_capstone.html",
+      "/projects/mental_health_covid/mental_health_covid.html",
+      "/projects/statml_flights/statml_flights.html",
+      "/projects/relrule_shapes/relrule_shapes.html",
+      "/projects/gender_academic/gender_academic.html",
+      "/projects/gender_memory/gender_memory.html",
+      "/projects/visual_search/visual_search.html"
     ]
   }
 ]

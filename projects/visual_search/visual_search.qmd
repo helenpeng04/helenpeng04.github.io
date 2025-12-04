@@ -9,7 +9,7 @@ about:
   links: 
   - icon: file-earmark-pdf
     text: "Paper"
-    href: projects/visual-search-proj/paper.pdf
+    href: projects/visual_search/paper.pdf
 ---
 
 **Collaborators:** Cami Streuly, Shirley Du, and Cole Kaforey\

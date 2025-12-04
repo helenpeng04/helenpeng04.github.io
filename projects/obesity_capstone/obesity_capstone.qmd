@@ -1,5 +1,5 @@
 ---
-title: "County-Level Determinants of Obesity: Lifestyle and Food Environment Analysis"
+title: "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors"
 description: "UnitedHealth Group Bridges to Healthcare Technology Summer Project"
 date: 2025-07-25
 resources: "."
@@ -12,10 +12,10 @@ about:
       href: "https://github.com/helenpeng04/obesity-capstone"
     - icon: file-easel
       text: "Poster"
-      href: projects/obesity-capstone/poster.pdf
+      href: projects/obesity_capstone/poster.pdf
     - icon: file-earmark-pdf
       text: "Report"
-      href: projects/obesity-capstone/report.html
+      href: projects/obesity_capstone/report.html
 ---
 
 **Collaborators:** Anvith Thumma and Jordan Faustin

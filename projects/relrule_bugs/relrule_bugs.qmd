@@ -1,6 +1,5 @@
-
 ---
-title: "Discovery of Relational Rules"
+title: "BerTopic Bugs"
 description: "OAK Lab Project"
 date: 2025-12-05
 resources: "."
@@ -10,7 +9,8 @@ about:
   links:
     - icon: file-earmark-ppt
       text: "Slides"
-      href: projects/relrule-sbsert-proj/presentation.pdf
+      href: projects/relrule_bugs/presentation.pdf
 ---
 
-This is a placeholder for now
+**Collaborator:** Abigail Lo 
+**Advisors:** Julia Conti (graduate mentor) and Paulo Carvalho (PI)
