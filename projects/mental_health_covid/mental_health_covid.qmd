@@ -1,0 +1,17 @@
+---
+title: "Mental Health Outcomes of COVID-19 Graduates"
+description: Data Science in Psychology and Neuroscience Class Project
+date: 2025-05-01
+resources: "."
+image: cover.png
+about: 
+  template: solana
+  links: 
+  - icon: file-code
+    text: "Report"
+    href: projects/mental_health_covid/DSPN_Project.html
+---
+
+**Instructor:** Roberto Vargas
+
+This project investigates mental health outcomes for undergraduates graduating during the COVID-19 pandemic’s peak (2020) versus its decline (2021). Survey data from over 100 respondents were analyzed using principal component analysis, logistic regression, and bootstrap sampling in R. Results suggested that students graduating during the pandemic’s decline reported greater psychological distress than those graduating at its peak. Completed as a class project, the findings were written up as a research report and provide evidence of the long-term psychological impacts of disrupted educational transitions.

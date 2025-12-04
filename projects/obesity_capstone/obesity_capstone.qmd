@@ -1,0 +1,23 @@
+---
+title: "Mapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors"
+description: "UnitedHealth Group Bridges to Healthcare Technology Summer Project"
+date: 2025-07-25
+resources: "."
+image: cover.png
+about: 
+  template: solana
+  links:
+    - icon: github
+      text: "Github"
+      href: "https://github.com/helenpeng04/obesity-capstone"
+    - icon: file-easel
+      text: "Poster"
+      href: projects/obesity_capstone/poster.pdf
+    - icon: file-earmark-pdf
+      text: "Report"
+      href: projects/obesity_capstone/report.html
+---
+
+**Collaborators:** Anvith Thumma and Jordan Faustin
+
+This project investigates county-level determinants of adult obesity in the U.S. using the 2025 County Health Rankings & Roadmaps dataset. Exploratory analyses, including scatter plots and correlation matrices, were conducted, and a Huber regression model was fitted to identify predictors of regional variation in obesity rates. Findings revealed strong associations between obesity and both physical inactivity and food access, though results are correlational rather than causal. The results were communicated through a poster, oral presentation, and written report, and were discussed in a Q&A session with UnitedHealth Group professionals and statistics faculty.

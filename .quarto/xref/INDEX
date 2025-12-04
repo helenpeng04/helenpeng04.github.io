@@ -46,5 +46,32 @@
   },
   "projects/relrule-sbert-proj/sbert.qmd": {
     "sbert.html": "f555fee8"
+  },
+  "projects/gender_academic/gender_academic.qmd": {
+    "gender_academic.html": "ffd3b816"
+  },
+  "projects/gender_memory/gender_memory.qmd": {
+    "gender_memory.html": "9e59e7b3"
+  },
+  "projects/mental_health_covid/mental_health_covid.qmd": {
+    "mental_health_covid.html": "2ab3bc77"
+  },
+  "projects/obesity_capstone/obesity_capstone.qmd": {
+    "obesity_capstone.html": "ea40a4c2"
+  },
+  "projects/racial_attitudes/racial_attitudes.qmd": {
+    "racial_attitudes.html": "73a786a3"
+  },
+  "projects/relrule_bugs/relrule_bugs.qmd": {
+    "relrule_bugs.html": "efb43eb2"
+  },
+  "projects/relrule_shapes/relrule_shapes.qmd": {
+    "relrule_shapes.html": "f659f7ee"
+  },
+  "projects/statml_flights/statml_flights.qmd": {
+    "statml_flights.html": "7cc3af6e"
+  },
+  "projects/visual_search/visual_search.qmd": {
+    "visual_search.html": "2f9e9e06"
   }
 }
