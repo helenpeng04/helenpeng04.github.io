@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBerTopic Bugs\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering Relational Rules: Effects of Training Structure and Aid\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/statml_flights/statml_flights.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "projects/relrule_bugs/relrule_bugs.html",
     "href": "projects/relrule_bugs/relrule_bugs.html",
-    "title": "BerTopic Bugs",
+    "title": "Discovering Relational Rules: Effects of Training Structure and Aid",
     "section": "",
-    "text": "Collaborator: Abigail Lo Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)"
+    "text": "Collaborator: Abigail Lo\nAdvisors: Julia Conti (Graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how learners discover relational rules, focusing on how training structure and worked examples shape strategy production. Using semantic embeddings and topic modeling, we analyzed participants’ verbal explanations across trials to track changes in abstraction and task understanding. Results showed that blocking and interleaving produced broadly similar strategic patterns, but providing examples shifted responses toward simpler, surface-level descriptions. These findings highlight how instructional supports can both guide and constrain relational reasoning."
   },
   {
     "objectID": "projects/obesity_capstone/obesity_capstone.html",
@@ -67,14 +67,14 @@
     "href": "projects/racial_attitudes/racial_attitudes.html",
     "title": "Developmental Trajectory of Racial Attitudes",
     "section": "",
-    "text": "This is a placeholder for now"
+    "text": "Collaborator: Smrithi Krishnaswamy\nAdvisor: Rebecca Farina"
   },
   {
     "objectID": "projects/relrule_shapes/relrule_shapes.html",
     "href": "projects/relrule_shapes/relrule_shapes.html",
     "title": "Learning Relational Rules: Effects of Training Structure and Task Difficulty",
     "section": "",
-    "text": "Advisors: Julia Conti (graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning."
+    "text": "Advisors: Julia Conti (Graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how people learn relational rules, focusing on the effects of rule complexity and training structure. Using experimental tasks and multilevel modeling, we tested whether mastery varies with task difficulty, whether prior exposure improves accuracy, and whether interleaved pre-training enhances performance. Results showed that mastery gaps emerged only on harder tasks, prior exposure had modest benefits, and interleaved training had no significant effect, highlighting the role of individual differences in rule learning."
   },
   {
     "objectID": "projects/visual_search/visual_search.html",

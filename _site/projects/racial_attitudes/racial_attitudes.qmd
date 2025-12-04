@@ -15,4 +15,5 @@ about:
       href: projects/racial_attitudes/report.html
 ---
 
-This is a placeholder for now
+**Collaborator:** Smrithi Krishnaswamy\
+**Advisor:** Rebecca Farina
