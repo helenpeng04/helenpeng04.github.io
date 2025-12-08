@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering Relational Rules: Effects of Training Structure and Aid\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Developmental Trajectory of Racial Attitudes\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Intake and Outcome Patterns in the Long Beach Animal Shelter\n\n\nStatistical Graphics and Visualization Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering Relational Rules: Effects of Training Structure and Learning Support\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/statml_flights/statml_flights.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "projects/relrule_bugs/relrule_bugs.html",
     "href": "projects/relrule_bugs/relrule_bugs.html",
-    "title": "Discovering Relational Rules: Effects of Training Structure and Aid",
+    "title": "Discovering Relational Rules: Effects of Training Structure and Learning Support",
     "section": "",
     "text": "Collaborator: Abigail Lo\nAdvisors: Julia Conti (Graduate mentor) and Paulo Carvalho (PI)\nThis project investigates how learners discover relational rules, focusing on how training structure and worked examples shape strategy production. Using semantic embeddings and topic modeling, we analyzed participants’ verbal explanations across trials to track changes in abstraction and task understanding. Results showed that blocking and interleaving produced broadly similar strategic patterns, but providing examples shifted responses toward simpler, surface-level descriptions. These findings highlight how instructional supports can both guide and constrain relational reasoning."
   },
@@ -35,11 +35,11 @@
     "text": "Collaborators: Cami Streuly, Shirley Du, and Cole Kaforey\nInstructor: Abigail Noyce\nThis project investigates whether gender stereotype threat influences memory performance in a heading-recall task. Data were collected from 35 participants across 1,400+ trials, cleaned in Excel, and analyzed in Jamovi using ANOVA. While results were not statistically significant, suggestive patterns indicated that stereotype threat may influence recall. Completed as a class project, the findings were presented as a poster at the CMU Department of Psychology undergraduate research session."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Helen Peng",
+    "objectID": "projects/animal_shelter/animal_shelter.html",
+    "href": "projects/animal_shelter/animal_shelter.html",
+    "title": "Understanding Intake and Outcome Patterns in the Long Beach Animal Shelter",
     "section": "",
-    "text": "Statistics & Data Science Major | Aspiring Biostatistician\nI’m a senior at Carnegie Mellon University studying statistics with a concentration in psychology. I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. With my background in psychology, I’ve also gained research experience in cognitive science through the OAK Lab, where I study how people learn and discover complex rules.\nOutside of academics, I like recharging with books, shows, and other stories — my favorite way to unwind. You can find some of my favorite books in the bookshelf tab!"
+    "text": "Collaborators: Aditi Srivastava, Sueah Kim, and Macy Liang-Jones\nThis project analyzes spatial, temporal, and demographic patterns in Long Beach animal shelter data to understand what drives intake volume and case outcomes. Using density mapping, seasonal decomposition, and categorical comparisons, we identify neighborhood clusters, reliable spring–summer intake spikes, and strong links between intake circumstances, species characteristics, and final outcomes. The results show how administrative shelter data can reveal pressure points in the system and guide more targeted, practical resource decisions."
   },
   {
     "objectID": "bookshelf.html",
@@ -47,6 +47,13 @@
     "title": "Bookshelf",
     "section": "",
     "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFavorite Comics\nI’ve read a ton of X-Men over the years. Besides just the powers and fight scenes, I really love how it reflects real-world struggles faced by marginalized communities by being an analogy to the Civil Rights Movement, with Magneto and Professor X being a parallel for Malcolm X and Martin Luther King Jr. I love the series so much that I used to have a whole screenshot collection of some of my favorite X-Men moments, but it got lost somewhere along the way. So here’s to starting fresh and rebuilding the archive."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Helen Peng",
+    "section": "",
+    "text": "Statistics & Data Science Major | Aspiring Biostatistician\nI’m a senior at Carnegie Mellon University studying statistics with a concentration in psychology. I’m interested in biostatistics and how data can be used to make better decisions in health and medicine. With my background in psychology, I’ve also gained research experience in cognitive science through the OAK Lab, where I study how people learn and discover complex rules.\nOutside of academics, I like recharging with books, shows, and other stories — my favorite way to unwind. You can find some of my favorite books in the bookshelf tab!"
   },
   {
     "objectID": "projects/gender_academic/gender_academic.html",

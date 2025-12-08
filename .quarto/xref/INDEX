@@ -73,5 +73,8 @@
   },
   "projects/visual_search/visual_search.qmd": {
     "visual_search.html": "2f9e9e06"
+  },
+  "projects/animal_shelter/animal_shelter.qmd": {
+    "animal_shelter.html": "f7f4385e"
   }
 }

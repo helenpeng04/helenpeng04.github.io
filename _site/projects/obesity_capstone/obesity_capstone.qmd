@@ -13,7 +13,7 @@ about:
     - icon: file-easel
       text: "Poster"
       href: projects/obesity_capstone/poster.pdf
-    - icon: file-earmark-pdf
+    - icon: file-code
       text: "Report"
       href: projects/obesity_capstone/report.html
 ---

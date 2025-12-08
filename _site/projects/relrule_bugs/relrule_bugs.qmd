@@ -1,5 +1,5 @@
 ---
-title: "Discovering Relational Rules: Effects of Training Structure and Aid"
+title: "Discovering Relational Rules: Effects of Training Structure and Learning Support"
 description: "OAK Lab Project"
 date: 2025-12-05
 resources: "."

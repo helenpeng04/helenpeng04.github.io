@@ -1,0 +1,17 @@
+---
+title: "Understanding Intake and Outcome Patterns in the Long Beach Animal Shelter"
+description: "Statistical Graphics and Visualization Class Project"
+date: 12-08-25
+resources: "."
+image: cover.png
+about: 
+  template: solana
+  links:
+    - icon: file-code
+      text: "Report"
+      href: projects/animal-shelter/animal_shelter_project.html
+---
+
+**Collaborators**: Aditi Srivastava, Sueah Kim, and Macy Liang-Jones
+
+This project analyzes spatial, temporal, and demographic patterns in Long Beach animal shelter data to understand what drives intake volume and case outcomes. Using density mapping, seasonal decomposition, and categorical comparisons, we identify neighborhood clusters, reliable spring–summer intake spikes, and strong links between intake circumstances, species characteristics, and final outcomes. The results show how administrative shelter data can reveal pressure points in the system and guide more targeted, practical resource decisions.
