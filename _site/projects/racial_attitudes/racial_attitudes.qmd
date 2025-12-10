@@ -10,7 +10,7 @@ about:
     - icon: file-easel
       text: "Poster"
       href: projects/racial_attitudes/poster.pdf
-    - icon: file-earmark-pdf
+    - icon: file-code
       text: "Report"
       href: projects/racial_attitudes/report.html
 ---
