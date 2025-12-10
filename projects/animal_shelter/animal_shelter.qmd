@@ -9,10 +9,10 @@ about:
   links:
     - icon: file-code
       text: "Report"
-      href: projects/animal-shelter/animal_shelter_project.html
+      href: projects/animal_shelter/animal_shelter_project.html
     - icon: file-earmark-ppt
       text: "Slides"
-      href: projects/animal-shelter/presentation.pdf 
+      href: projects/animal_shelter/presentation.pdf 
 ---
 
 **Collaborators**: Aditi Srivastava, Sueah Kim, and Macy Liang-Jones
