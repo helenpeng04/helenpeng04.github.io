@@ -1,19 +1,21 @@
 ---
-title: "Developmental Trajectory of Racial Attitudes "
+title: "Developmental trajectories of racial attitudes in young children"
 description: "Undergraduate Research Class Project"
-date: 2025-12-12
+date: 2025-12-14
 resources: "."
 image: cover.png
 about: 
   template: solana
   links:
-    - icon: file-easel
-      text: "Poster"
-      href: projects/racial_attitudes/poster.pdf
     - icon: file-code
       text: "Report"
       href: projects/racial_attitudes/report.html
+    - icon: file-easel 
+      text: "Poster"
+      href: projects/racial_attitudes/poster.pdf
 ---
 
 **Collaborator:** Smrithi Krishnaswamy\
-**Advisor:** Rebecca Farina
+**Advisor**: Rebecca Farina
+
+This project analyzed developmental patterns in young children’s racial attitudes using pretest and posttest data from a classroom literacy intervention. Using the Preschool Racial Attitude Measure and a Friendship task, we applied exploratory analyses, repeated-measures ANOVA, and logistic and multinomial regression models to examine individual differences and predictors of change. Results showed task-specific predictors at baseline and no overall short-term intervention effects, though classroom diversity was associated with posttest attitudes. Results were communicated via poster, oral presentation, and written report.
