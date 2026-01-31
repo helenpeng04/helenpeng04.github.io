@@ -8,7 +8,7 @@ about:
     - icon: github
       href: https://github.com/helenpeng04
     - icon: envelope
-      href: mailto::hwpeng@andrew.cmu.edu
+      href: mailto::helen.peng04@gmail.com
     - icon: linkedin
       href: https://www.linkedin.com/in/helenpeng04
       target: blank
