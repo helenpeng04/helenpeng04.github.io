@@ -15,7 +15,7 @@ about:
       href: projects/racial_attitudes/poster.pdf
 ---
 
-**Collaborator:** Smrithi Krishnaswamy\
+**Collaborator**: Smrithi Krishnaswamy\
 **Advisor**: Rebecca Farina
 
-This project analyzed developmental patterns in young children’s racial attitudes using pretest and posttest data from a classroom literacy intervention. Using the Preschool Racial Attitude Measure and a Friendship task, we applied exploratory analyses, repeated-measures ANOVA, and logistic and multinomial regression models to examine individual differences and predictors of change. Results showed task-specific predictors at baseline and no overall short-term intervention effects, though classroom diversity was associated with posttest attitudes. Results were communicated via poster, oral presentation, and written report.
+This work was awarded **First Place in the CMU Statistics Department Poster Competition** at *Meeting of the Minds for the 2025–2026 academic year*. This project analyzed developmental patterns in young children’s racial attitudes using pretest and posttest data from a classroom literacy intervention. Using the Preschool Racial Attitude Measure (PRAM) and a Friendship task, we applied exploratory analysis, repeated-measures ANOVA, and logistic and multinomial regression models to examine individual differences and predictors of change. Results showed task-specific baseline predictors and no overall short-term intervention effect, while classroom diversity was associated with posttest attitudes.
