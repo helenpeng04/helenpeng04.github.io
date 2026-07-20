@@ -5,3 +5,5 @@ listing:
   type: grid
   sort: "date desc"
 ---
+
+A collection of projects I worked on throughout my undergraduate studies.
