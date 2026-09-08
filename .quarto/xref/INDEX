@@ -76,5 +76,35 @@
   },
   "projects/animal_shelter/animal_shelter.qmd": {
     "animal_shelter.html": "f7f4385e"
+  },
+  "projects/undergrad/animal_shelter/animal_shelter.qmd": {
+    "animal_shelter.html": "d4216a94"
+  },
+  "projects/undergrad/gender_academic/gender_academic.qmd": {
+    "gender_academic.html": "40ee76b4"
+  },
+  "projects/undergrad/gender_memory/gender_memory.qmd": {
+    "gender_memory.html": "9db7ecaf"
+  },
+  "projects/undergrad/mental_health_covid/mental_health_covid.qmd": {
+    "mental_health_covid.html": "de4723b9"
+  },
+  "projects/undergrad/obesity_capstone/obesity_capstone.qmd": {
+    "obesity_capstone.html": "c79ba426"
+  },
+  "projects/undergrad/racial_attitudes/racial_attitudes.qmd": {
+    "racial_attitudes.html": "16c0f473"
+  },
+  "projects/undergrad/relrule_bugs/relrule_bugs.qmd": {
+    "relrule_bugs.html": "7d514766"
+  },
+  "projects/undergrad/relrule_shapes/relrule_shapes.qmd": {
+    "relrule_shapes.html": "ade1fce7"
+  },
+  "projects/undergrad/statml_flights/statml_flights.qmd": {
+    "statml_flights.html": "d4139663"
+  },
+  "projects/undergrad/visual_search/visual_search.qmd": {
+    "visual_search.html": "9cc29225"
   }
 }
