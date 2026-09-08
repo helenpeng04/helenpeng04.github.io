@@ -106,5 +106,14 @@
   },
   "projects/undergrad/visual_search/visual_search.qmd": {
     "visual_search.html": "9cc29225"
+  },
+  "masters_project.qmd": {
+    "masters_project.html": "505d52a4"
+  },
+  "undergrad_projects.qmd": {
+    "undergrad_projects.html": "6a22d85e"
+  },
+  "projects/masters/animal_shelter/animal_shelter.qmd": {
+    "animal_shelter.html": "73bc39c7"
   }
 }

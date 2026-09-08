@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "undergrad_projects.html",
+    "href": "undergrad_projects.html",
     "title": "Projects",
     "section": "",
     "text": "A collection of projects I worked on throughout my undergraduate studies.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevelopmental trajectories of racial attitudes in young children\n\n\nUndergraduate Research Class Project\n\n\n\n\n\n\nDec 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Intake and Outcome Patterns in the Long Beach Animal Shelter\n\n\nStatistical Graphics and Visualization Class Project\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering Relational Rules: Effects of Training Structure and Learning Support\n\n\nOAK Lab Project\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Obesity: A County-Level Analysis of Lifestyle and Food Environment Factors\n\n\nUnitedHealth Group Bridges to Healthcare Technology Summer Project\n\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMental Health Outcomes of COVID-19 Graduates\n\n\nData Science in Psychology and Neuroscience Class Project\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays at Pittsburgh International Airport\n\n\nStatistical Machine Learning Class Project\n\n\n\n\n\n\nApr 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearning Relational Rules: Effects of Training Structure and Task Difficulty\n\n\nOAK Lab Project\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat Interventions and Academic Performance\n\n\nResearch Methods in Meta-Analysis Class Project\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Stereotype Threat and Memory Performance in a Heading-Recall Task\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of Incentives on Visual Search Performance\n\n\nResearch Methods in Cognitive Psychology Class Project\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
@@ -42,6 +42,13 @@
     "text": "Collaborators: Aditi Srivastava, Sueah Kim, and Macy Liang-Jones\nThis project analyzes spatial, temporal, and demographic patterns in Long Beach animal shelter data to understand what drives intake volume and case outcomes. Using density mapping, seasonal decomposition, and categorical comparisons, we identify neighborhood clusters, reliable spring–summer intake spikes, and strong links between intake circumstances, species characteristics, and final outcomes. The results show how administrative shelter data can reveal pressure points in the system and guide more targeted, practical resource decisions."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Helen Peng",
+    "section": "",
+    "text": "M.S. Biostatistics @ Columbia | Statistics & Data Science @ CMU\nI am an M.S. student in Biostatistics at Columbia University Mailman School of Public Health, pursuing the Pharmaceutical Statistics track. I previously studied Statistics & Data Science at Carnegie Mellon University, with a concentration in Psychology. My experience spans applied statistical modeling and experimental design across behavioral, survey, and healthcare data.\nThrough my background in psychology, I’ve gained research experience in cognitive science through the OAK Lab, where I studied how people learn and discover complex rules.\nOutside of academics, I spend my free time reading books and watching TV shows. You can check out my statistics and data science projects in the Projects tab, and some of my favorite books in the Bookshelf tab!"
+  },
+  {
     "objectID": "bookshelf.html",
     "href": "bookshelf.html",
     "title": "Bookshelf",
@@ -49,11 +56,11 @@
     "text": "Favorite Quotes\n\n\n\n\n\nWidget by Goodreads\n\n\n\nFavorite Books\nI tend to pick up books about identity, family, culture, and people figuring out where they fit in. I especially like stories about people caught between different worlds, whether that’s between cultures, generations, expectations, or simply who they are and who others expect them to be. And then there are a few books I love simply because I enjoyed them."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Helen Peng",
+    "objectID": "masters_project.html",
+    "href": "masters_project.html",
+    "title": "Projects",
     "section": "",
-    "text": "M.S. Biostatistics @ Columbia | Statistics & Data Science @ CMU\nI am an M.S. student in Biostatistics at Columbia University Mailman School of Public Health, pursuing the Pharmaceutical Statistics track. I previously studied Statistics & Data Science at Carnegie Mellon University, with a concentration in Psychology. My experience spans applied statistical modeling and experimental design across behavioral, survey, and healthcare data.\nThrough my background in psychology, I’ve gained research experience in cognitive science through the OAK Lab, where I studied how people learn and discover complex rules.\nOutside of academics, I spend my free time reading books and watching TV shows. You can check out my statistics and data science projects in the Projects tab, and some of my favorite books in the Bookshelf tab!"
+    "text": "There isn’t anything here yet since I just started my masters program this semester.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/undergrad/gender_academic/gender_academic.html",

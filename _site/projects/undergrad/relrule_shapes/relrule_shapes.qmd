@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-earmark-ppt
       text: "Slides"
-      href: projects/relrule_shapes/presentation.pdf
+      href: projects/undergrad/relrule_shapes/presentation.pdf
 ---
 
 **Advisors:** Julia Conti and Paulo Carvalho

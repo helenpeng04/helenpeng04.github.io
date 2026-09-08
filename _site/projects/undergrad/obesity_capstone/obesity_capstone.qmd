@@ -12,10 +12,10 @@ about:
       href: "https://github.com/helenpeng04/obesity-capstone"
     - icon: file-easel
       text: "Poster"
-      href: projects/obesity_capstone/poster.pdf
+      href: projects/undergrad/obesity_capstone/poster.pdf
     - icon: file-code
       text: "Report"
-      href: projects/obesity_capstone/report.html
+      href: projects/undergrad/obesity_capstone/report.html
 ---
 
 **Collaborators:** Anvith Thumma and Jordan Faustin

@@ -9,10 +9,10 @@ about:
   links:
     - icon: file-code
       text: "Report"
-      href: projects/racial_attitudes/report.html
+      href: projects/undergrad/racial_attitudes/report.html
     - icon: file-easel 
       text: "Poster"
-      href: projects/racial_attitudes/poster.pdf
+      href: projects/undergrad/racial_attitudes/poster.pdf
 ---
 
 **Collaborator**: Smrithi Krishnaswamy\

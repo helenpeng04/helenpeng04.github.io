@@ -1,0 +1,9 @@
+---
+title: "Projects"
+listing:
+  contents: projects/masters
+  type: grid
+  sort: "date desc"
+---
+
+There isn't anything here yet since I just started my masters program this semester.

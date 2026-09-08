@@ -9,7 +9,7 @@ about:
   links: 
   - icon: file-easel
     text: "Poster"
-    href: projects/gender_memory/poster.pdf
+    href: projects/undergrad/gender_memory/poster.pdf
 ---
 
 **Collaborators**: Cami Streuly, Shirley Du, and Cole Kaforey\

@@ -1,6 +1,9 @@
 {
   "listingMap": {
-    "projects.qmd": [
+    "masters_project.qmd": [
+      "projects/masters"
+    ],
+    "undergrad_projects.qmd": [
       "projects/undergrad"
     ]
   }

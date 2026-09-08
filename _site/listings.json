@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/undergrad_projects.html",
     "items": [
       "/projects/undergrad/racial_attitudes/racial_attitudes.html",
       "/projects/undergrad/animal_shelter/animal_shelter.html",
@@ -13,5 +13,9 @@
       "/projects/undergrad/gender_memory/gender_memory.html",
       "/projects/undergrad/visual_search/visual_search.html"
     ]
+  },
+  {
+    "listing": "/masters_project.html",
+    "items": []
   }
 ]

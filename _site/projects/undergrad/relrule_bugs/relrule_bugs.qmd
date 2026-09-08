@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-earmark-ppt
       text: "Slides"
-      href: projects/relrule_bugs/presentation.pdf
+      href: projects/undergrad/relrule_bugs/presentation.pdf
 ---
 
 **Collaborator:** Abigail Lo\

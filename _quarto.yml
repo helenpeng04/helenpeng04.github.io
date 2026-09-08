@@ -6,21 +6,23 @@ website:
   navbar:
     background: "#000000"
     left:
-      - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: bookshelf.qmd
-        text: Bookshelf
-      - href: assets/helenpeng_CV.pdf
-        text: CV
+      - text: Home
+        href: index.qmd
+      - text: Bookshelf
+        href: bookshelf.qmd
+      - text: CV
+        href: assets/helenpeng_CV.pdf
         target: blank
+      - text: Projects
+        menu:
+          - text: Undergraduate
+            href: undergrad_projects.qmd
     right: 
       - icon: github
         href: https://www.github.com/helenpeng04
         target: blank
       - icon: envelope
-        href: mailto::hwpeng@andrew.cmu.edu
+        href: mailto::hwp2110@cumc.columbia.edu
         target: blank
       - icon: linkedin
         href: https://www.linkedin.com/in/helenpeng04
