@@ -15,6 +15,8 @@ website:
         target: blank
       - text: Projects
         menu:
+          - text: Masters
+            href: masters_project.qmd
           - text: Undergraduate
             href: undergrad_projects.qmd
     right: 
