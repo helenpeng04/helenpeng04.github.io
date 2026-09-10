@@ -6,5 +6,4 @@ listing:
   sort: "date desc"
 ---
 
-These are some of the projects I worked on throughout undergrad at Carnegie Mellon. I was especially interested in using statistics to answer questions about psychology and human behavior, which shows up in a lot of the work here. I also got to work on projects covering everything from public health to flight delays. I keep them here as a record of the things I got to explore and the ways I learned to think about data along the way.
-
+These are some of the projects I worked on throughout my undergrad at Carnegie Mellon. During that time, I was mostly interested in using statistics to answer questions about psychology and human behavior, but I also got to work on projects covering other topics. I’ve kept these projects here as a record of the things I got to explore and how I’ve grown as a statistician.
