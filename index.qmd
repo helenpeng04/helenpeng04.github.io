@@ -19,8 +19,6 @@ format:
 
 ### M.S. Biostatistics \@ Columbia \| Statistics & Data Science \@ CMU
 
-I am an M.S. student in Biostatistics at Columbia University Mailman School of Public Health, pursuing the Pharmaceutical Statistics track. I previously studied Statistics & Data Science at Carnegie Mellon University, with a concentration in Psychology.
-
-Through my background in psychology, I’ve gained research experience in cognitive science through the [OAK Lab](https://www.theoaklab.org/), where I studied how people learn and discover complex rules.
+I am currently an M.S. student in Biostatistics at Columbia University Mailman School of Public Health, pursuing the Pharmaceutical Statistics track. I previously studied Statistics & Data Science at Carnegie Mellon University, with a concentration in Psychology, where I worked as a research assistant in the [OAK Lab](https://www.theoaklab.org/), studying how people learn and discover complex rules.
 
 Outside of academics, I spend my free time reading books and watching TV shows. You can check out my statistics and data science projects in the Projects tab, and some of my favorite books in the Bookshelf tab!
