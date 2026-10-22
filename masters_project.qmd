@@ -6,4 +6,4 @@ listing:
   sort: "date desc"
 ---
 
-There isn't anything here yet since I just started my masters program this semester.
+There isn't anything here yet since I just started my masters program this semester, but there should be one after this semester ends.
