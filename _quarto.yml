@@ -19,6 +19,8 @@ website:
             href: masters_project.qmd
           - text: Undergraduate
             href: undergrad_projects.qmd
+      - text: Dashboard
+        href: dashboard.html
     right: 
       - icon: github
         href: https://www.github.com/helenpeng04

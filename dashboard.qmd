@@ -1,0 +1,74 @@
+---
+title: "NYC Resturants (For P8105 HW Assignment)"
+format:
+  dashboard:
+    orientation: columns
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(patchwork)
+library(plotly)
+
+data("rest_inspec")
+
+rest_inspec = rest_inspec |> 
+  rename(borough = boro) |> 
+  filter(borough != "0", grade %in% c("A","B","C")) |> 
+  mutate(dba = str_to_lower(dba),
+         street = str_to_lower(street)) 
+
+```
+
+## Column {width="65%"}
+
+```{r}
+#| title: "NYC Resturant Locations By Inspection Scores"
+rest_inspec |>
+  filter(
+    !is.na(latitude),
+    !is.na(longitude),
+    latitude != 0,
+    longitude != 0
+  ) |> 
+  mutate(
+    text_label = str_c(
+      "Borough: ", borough,
+      "\nCuisine: ", cuisine_description,
+      "\nInspection Score: ", score,
+      "\nGrade: ", grade
+    )
+  ) |> 
+  plot_ly(
+    x = ~longitude,
+    y = ~latitude,
+    type = "scatter",
+    mode = "markers",
+    color = ~score,
+    text = ~text_label,
+    hoverinfo = "text",
+    alpha = 0.5
+  ) 
+```
+
+## Column {width="35%"}
+
+```{r}
+#| title: "Number of Restaurant Inspections by Borough"
+
+rest_inspec |> 
+  count(borough) |> 
+  mutate(borough = fct_reorder(borough, n)) |> 
+  plot_ly(x = ~borough, y = ~n, type = "bar", 
+          color = ~borough, colors = "viridis")
+```
+
+```{r}
+#| title: "Inspection Scores by Borough"
+
+rest_inspec |> 
+  mutate(borough = fct_reorder(borough, score)) |> 
+  plot_ly(y = ~score, color = ~borough, 
+          type = "box", colors = "viridis")
+```

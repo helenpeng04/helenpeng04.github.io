@@ -115,5 +115,11 @@
   },
   "projects/masters/animal_shelter/animal_shelter.qmd": {
     "animal_shelter.html": "73bc39c7"
+  },
+  "dashboard.Rmd": {
+    "dashboard.html": "8f72127f"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "7650da16"
   }
 }
